@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Marie Drake",
+        "date": "18/08/2020",
+        "note": "Marie's excellent article on Debunking Accessibility Testing Myths covered on The Club by none other then Heather Reid and Tweeted out today by the Ministry of Testing. Well done Marie!",
+        "twitter": "@mcruzdrake"
+    },
+    {
+        "name": "Chris McMahon",
+        "date": "17/08/2020",
+        "note": "Thanks Chris, great insight into your Cucumber step about reverting from a destructive test.",
+        "twitter": "@chris_mcmahon"
+    }
+]
