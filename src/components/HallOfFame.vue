@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="hall">
     <h1>{{ msg }}</h1>
     <p>Some introduction to Test Of the Day.</p>
     <br/>
@@ -57,5 +57,8 @@ a {
   color: white;
   display: inline-block;
   padding-block: 5px;
+}
+.hall{
+    max-width: 800px;
 }
 </style>
