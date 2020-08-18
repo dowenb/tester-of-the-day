@@ -2,12 +2,13 @@
   <div>
     <h1>{{ msg }}</h1>
     <p>Some introduction to Test Of the Day.</p>
+    <br/>
     <div class="winner" v-for="winner in winners" :key="winner.name">
       <ul>
-        <li>{{ winner.name }}</li>
-        <li>{{ winner.note }}</li>
-        <li>{{ winner.date }}</li>
-        <li>{{ winner.twitter }}</li>
+        <li>Name: {{ winner.name }}</li>
+        <li>Note: {{ winner.note }}</li>
+        <li>Date: {{ winner.date }}</li>
+        <li>Twitter: <a :href="winner.twitter">{{ winner.twitter }}</a></li>
       </ul>
     </div>
   </div>
@@ -39,17 +40,22 @@ ul {
 }
 li {
   display: list-item;
-  margin: 0 10px;
+  text-align: left;
+  padding: 5px;
+  margin-left: 5px;
 }
 a {
   color: #42b983;
 }
 .winner {
-  max-width: 250px;
-  max-height: 250px;
+  margin: 10px;
+  max-width: 600px;
+  width: 100%;
+  max-height: 300px;
+  min-height: 100px;
   background-color: #006080;
   color: white;
   display: inline-block;
-  padding: 10px;
+  padding-block: 5px;
 }
 </style>
