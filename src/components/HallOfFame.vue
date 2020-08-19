@@ -1,16 +1,29 @@
 <template>
   <div class="hall">
-    <h1>{{ msg }}</h1>
-    <p>Some introduction to Test Of the Day.</p>
-    <br/>
+    <img class="logo" src="../assets/logo.png" alt="Tester of the day">
+    <p>Tester of the day is recognition of awesomeness in Software Testing.</p>
+    <p>The competition is run by Benjamin Dowen, The Full Snack Test Engineer. It is "for fun" and intended to be friendly for the purpose of encouraging excellent Software Testers.
+    <p>To Nominate someone please contact Ben on <img src="../assets/twitter.svg" class="icon" /> <a href="https://twitter.com/dowenb">@dowenb</a></p>
+    <img src="../assets/halloffame.png" alt="Hall of fame">
+    <br />
     <div class="winner" v-for="winner in winners" :key="winner.name">
       <ul>
-        <li>Name: {{ winner.name }}</li>
-        <li>Note: {{ winner.note }}</li>
-        <li>Date: {{ winner.date }}</li>
-        <li>Twitter: <a :href="winner.twitter">{{ winner.twitter }}</a></li>
+        <li class="name">
+          <h2>{{ winner.name }}</h2>
+          Tester of the day: <img src="../assets/calendar.svg" class="icon" />{{ winner.date }}
+        </li>
+        <li class="note">{{ winner.note }}</li>
+        <li class="twitter">
+          <img src="../assets/twitter.svg" class="icon" />
+          <a :href="winner.twitter">{{ winner.twitter }}</a>
+        </li>
       </ul>
     </div>
+        <br/>
+        <p>This project is run by Ben Dowen the Full Snack Test Engineer. I can be found in various places on the internet, start here: <a href="https://linktr.ee/dowenb">https://linktr.ee/dowenb</a></p>
+        <a href="https://twitter.com/dowenb">
+        <img src="../assets/fullsnack.jpg" class="fullSnack" alt="Full Snack Test Engineer Ben Dowen">
+        </a>
   </div>
 </template>
 
@@ -42,23 +55,51 @@ li {
   display: list-item;
   text-align: left;
   padding: 5px;
-  margin-left: 5px;
 }
 a {
-  color: #42b983;
+  color: #34dbdb;
 }
 .winner {
-  margin: 10px;
-  max-width: 600px;
+  margin: auto;
   width: 100%;
-  max-height: 300px;
-  min-height: 100px;
-  background-color: #006080;
-  color: white;
-  display: inline-block;
-  padding-block: 5px;
+  display: block;
+  padding: 5px;
 }
-.hall{
-    max-width: 800px;
+.winner:nth-child(odd) {
+  background-color: #022b38;
+  color: #34dbdb;
+}
+.winner:nth-child(even) {
+  background-color: #104a63;
+  color: #34dbdb;
+}
+.icon {
+  max-width: 20px;
+  max-height: 20px;
+  vertical-align: bottom;
+  margin-right: 5px;
+}
+.hall {
+  max-width: 600px;
+  margin: auto;
+}
+.name {
+  color: white;
+}
+.note {
+  font-size: 1.2em;
+}
+h1,h2{
+  color: white;
+}
+p {
+  color: white;
+}
+.logo{
+  margin: auto;
+  max-width: 600px;
+}
+.fullSnack{
+  max-height: 100px;
 }
 </style>
