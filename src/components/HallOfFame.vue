@@ -80,7 +80,7 @@ a {
   margin-right: 5px;
 }
 .hall {
-  max-width: 600px;
+  max-width: 620px;
   margin: auto;
 }
 .name {
@@ -97,9 +97,11 @@ p {
 }
 .logo{
   margin: auto;
-  max-width: 600px;
 }
 .fullSnack{
   max-height: 100px;
+}
+img {
+  max-width: 100%;
 }
 </style>
