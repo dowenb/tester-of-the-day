@@ -1,8 +1,14 @@
 [
     {
+        "name": "Maaike Brinkhof",
+        "date": "20/08/2020",
+        "note": "Maaike's blog Journey into quality has an ongoing series: 10 years, 10 lessons.",
+        "twitter": "https://twitter.com/Maaikees"
+    },
+    {
         "name": "Rafaela Azevedo",
         "date": "19/08/2020",
-        "note": "Check out Rafaela's excellent FREE course on Contract testing with PACT The Test Automation University.",
+        "note": "Check out Rafaela's excellent FREE course on Contract testing with PACT on the Test Automation University.",
         "twitter": "https://twitter.com/azevedorafa_com"
     },
     {
