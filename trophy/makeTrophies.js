@@ -2,7 +2,7 @@ const fs = require('fs')
 const { createCanvas, loadImage } = require('canvas')
    
 // Read testers-of-the-day.json file 
-fs.readFile("../winners/testers-of-the-day.json", function(err, data) { 
+fs.readFile("winners/testers-of-the-day.json", function(err, data) { 
       
     // Check for errors 
     if (err) throw err; 
@@ -53,7 +53,7 @@ function makeTrophy(winName, winDate){
   context.font = 'bold 30pt Sans'
   context.fillText('tester-of-the-day.netlify.app', 400, 530)
 
-  loadImage('./trophy.svg').then(image => {
+  loadImage('trophy/trophy.svg').then(image => {
     context.drawImage(image, 50, 250, 200, 200)
     const buffer = canvas.toBuffer('image/png')
     const fileName = '' + winName + winDate + '.png'
