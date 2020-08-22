@@ -1,5 +1,11 @@
 [
-    {
+   {
+    	"name": "Emna Ayadi",
+    	"date": "22/08/2020",
+    	"note": "Emna's presented an awesome talk at #tmatlc2020 on community of practices and gives so much to the community.",
+    	"twitter": "https://twitter.com/emna__ayadi"
+   },
+   {
         "name": "Beth Marshall",
         "date": "21/08/2020",
         "note": "Beth has shown a passion for testing with great online talks. Beth is always happy to review and give feedback on ideas.",
