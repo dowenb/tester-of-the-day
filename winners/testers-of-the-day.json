@@ -1,31 +1,31 @@
 [
     {
         "name": "Beth Marshall",
-        "date": "21/08/2020",
+        "date": "21-08-2020",
         "note": "Beth has shown a passion for testing with great online talks. Beth is always happy to review and give feedback on ideas.",
         "twitter": "https://twitter.com/@Beth_AskHer"
     },
     {
         "name": "Maaike Brinkhof",
-        "date": "20/08/2020",
+        "date": "20-08-2020",
         "note": "Maaike's blog Journey into quality has an ongoing series: 10 years, 10 lessons.",
         "twitter": "https://twitter.com/Maaikees"
     },
     {
         "name": "Rafaela Azevedo",
-        "date": "19/08/2020",
+        "date": "19-08-2020",
         "note": "Check out Rafaela's excellent FREE course on Contract testing with PACT on the Test Automation University.",
         "twitter": "https://twitter.com/azevedorafa_com"
     },
     {
         "name": "Marie Drake",
-        "date": "18/08/2020",
+        "date": "18-08-2020",
         "note": "Marie's excellent article on Debunking Accessibility Testing Myths covered on The Club by none other then Heather Reid and Tweeted out today by the Ministry of Testing. Well done Marie!",
         "twitter": "https://twitter.com/mcruzdrake"
     },
     {
         "name": "Chris McMahon",
-        "date": "17/08/2020",
+        "date": "17-08-2020",
         "note": "Thanks Chris, great insight into your Cucumber step about reverting from a destructive test.",
         "twitter": "https://twitter.com/chris_mcmahon"
     }

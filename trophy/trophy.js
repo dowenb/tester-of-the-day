@@ -1,7 +1,8 @@
 const fs = require('fs')
 const { createCanvas, loadImage } = require('canvas')
 const args = process.argv.slice(2)
-console.log("called with: " + args[0])
+console.log("Generating award for: " + args[0])
+console.log("The day: " + args[1])
 
 const width = 800
 const height = 600
@@ -40,5 +41,8 @@ context.fillText('tester-of-the-day.netlify.app', 400, 530)
 loadImage('./trophy.svg').then(image => {
   context.drawImage(image, 50, 250, 200, 200)
   const buffer = canvas.toBuffer('image/png')
-  fs.writeFileSync('./test.png', buffer)
+  const fileName = '' + text + winDate + '.png'
+  fileName.replace(/\s/g, "")
+  fs.writeFileSync(fileName, buffer)
+  console.log('output file: ' + fileName)
 })
