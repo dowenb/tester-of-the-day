@@ -1,5 +1,11 @@
 [
-   {
+  {
+	"name": "Melissa Benua",
+	"date": "27/08/2020",
+	"note": "Melissa has worked HARD to make sure that testing is incorporated into the changes that we see in applications/sites/whatever is coming next.",
+	"twitter": "https://twitter.com/queenofcode"
+},
+{
 	"name": "Melissa Tondi",
 	"date": "26/08/2020",
 	"note": "Melissa has been a powerhouse in the scene - it's grand to see her views on what a tester could be.",
