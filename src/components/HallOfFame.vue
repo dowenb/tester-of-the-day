@@ -1,20 +1,19 @@
 <template>
   <div class="hall">
-    <img class="logo" src="../assets/logo.png" alt="Tester of the day">
+    <img class="logo" src="../assets/totd_hall_banner.svg" alt="Tester of the day hall of fame">
     <p>Tester of the day is recognition of awesomeness in Software Testing.</p>
     <p>The competition is run by Benjamin Dowen, The Full Snack Test Engineer. It is "for fun" and intended to be friendly for the purpose of encouraging excellent Software Testers.
-    <p>To Nominate someone please contact Ben on <img src="../assets/twitter.svg" class="icon" /> <a href="https://twitter.com/dowenb">@dowenb</a></p>
-    <img src="../assets/halloffame.png" alt="Hall of fame">
+    <p>To Nominate someone please contact Ben on <img src="../assets/twitter.svg" class="icon" alt="Twitter logo" /> <a href="https://twitter.com/dowenb">@dowenb</a></p>
     <br />
     <div class="winner" v-for="winner in winners" :key="winner.name">
       <ul>
         <li class="name">
           <h2>{{ winner.name }}</h2>
-          Tester of the day: <img src="../assets/calendar.svg" class="icon" />{{ winner.date }}
+          Tester of the day: <img src="../assets/calendar.svg" class="icon" alt="calender icon" />{{ winner.date }}
         </li>
         <li class="note">{{ winner.note }}</li>
         <li class="twitter">
-          <img src="../assets/twitter.svg" class="icon" />
+          <img src="../assets/twitter.svg" class="icon" alt="Twitter logo" />
           <a :href="winner.twitter">{{ winner.twitter }}</a>
         </li>
       </ul>
