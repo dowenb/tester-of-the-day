@@ -1,0 +1,17 @@
+<svg width="1033" height="178" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="180" width="1035" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text font-weight="normal" xml:space="preserve" text-anchor="start" font-family="Arvo, sans-serif" font-size="63" id="svg_1" y="61.41094" x="246.11719" stroke-width="2" stroke="#d87e29" fill="#ffff00">Tester of The Day</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Arvo, sans-serif" font-size="84" id="svg_2" y="154.59062" x="255.03906" stroke-width="2" stroke="#d87e29" fill="#ffff00">Hall of Fame</text>
+  <path id="svg_3" d="m140.72313,74.60807l-48.90228,0l-15.09549,-46.4576l-2.1196,6.4924l-12.9937,39.97411l-48.88892,-0.00891l39.55109,28.73933l-15.12221,46.48878l39.55999,-28.73933l39.5689,28.75268l-15.12666,-46.50213l39.5689,-28.73933zm-58.77001,39.28391l-5.23221,-3.79836l-5.23221,3.80282l-17.3754,12.61965l6.63489,-20.41231l2.00383,-6.15397l-5.24112,-3.80727l-17.3665,-12.61965l27.94225,0l2.00383,-6.14952l6.63044,-20.41231l6.63044,20.39895l1.99937,6.14952l27.96897,0l-17.39322,12.62856l-5.24557,3.80282l1.99937,6.16288l6.64825,20.41231l-17.3754,-12.62411z" stroke-width="1.5" stroke="#d87e29" fill="#ffff00"/>
+  <path id="svg_5" d="m1016.72313,74.60807l-48.90228,0l-15.09549,-46.4576l-2.11961,6.49239l-12.9937,39.97412l-48.88892,-0.00891l39.55109,28.73933l-15.12222,46.48877l39.56,-28.73932l39.56889,28.75268l-15.12666,-46.50213l39.5689,-28.73933zm-58.77001,39.28391l-5.23222,-3.79837l-5.23221,3.80282l-17.37541,12.61965l6.6349,-20.41231l2.00382,-6.15397l-5.24112,-3.80727l-17.36649,-12.61966l27.94225,0l2.00382,-6.14952l6.63044,-20.41231l6.63044,20.39895l1.99938,6.14952l27.96896,0l-17.39321,12.62856l-5.24558,3.80282l1.99938,6.16288l6.64825,20.41231l-17.3754,-12.6241z" stroke-width="1.5" stroke="#d87e29" fill="#ffff00"/>
+ </g>
+</svg>
