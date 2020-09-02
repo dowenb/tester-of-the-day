@@ -1,5 +1,11 @@
 [
-  {
+   {
+	"name": "Dan Ashby",
+	"date": "03/09/2020",
+	"note": "Dan is a podcaster and blogger who is quoted everywhere. His block on interviewing testers is a must read! Dan also happens to be the inspiration for Tester of The Day!",
+	"twitter": "https://twitter.com/DanAshby04"
+},
+{
 	"name": "Huib Schoots",
 	"date": "02/09/2020",
 	"note": "A Quality Coach and Agile Expert Huib is a giver of great, wonderfully blunt advice.",
