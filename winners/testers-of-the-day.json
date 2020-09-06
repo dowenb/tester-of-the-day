@@ -1,5 +1,11 @@
 [
 	{
+  	"name": "Wicked Witch of the test",
+  	"date": "07/09/2020",
+  	"note": "Insanely positive, grounded and is going to be one of the best conference speakers that we will see this year!",
+  	"twitter": "https://twitter.com/witchofthetest"
+  },
+	{
 		"name": "Lee Marshall",
 		"date": "06/09/2020",
 		"note": "Lee shares excellent videos and readily shares his knowledge of testing SQL and building communities of practice. His Testers hang out has kept more than one of us sane during lockdown!",
