@@ -1,5 +1,15 @@
 [
-	 {
+	{
+	"name": "Ard Kramer",
+	"date": "10/09/2020",
+	"note": " For being such an inspiration and all the hard work Ard is doing with Emna are doing together in their personal time for the #21stskills4testers coming book.",
+	"twitter": "https://twitter.com/ard_kramer"
+},{
+	"name": "Beren Van Daele",
+	"date": "09/09/2020",
+	"note": "Without Beren, we wouldn't have @TestSphere or #RiskStorming. Frankly the world is a better place with those things in it!",
+	"twitter": "https://twitter.com/isleoftesting"
+},{
 	"name": "David",
 	"date": "08/09/2020",
 	"note": "David makes the @testingpeers podcast actually sensible(ish) and he is also by far and away the easiest to transcribe when he talks!",
