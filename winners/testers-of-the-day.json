@@ -1,46 +1,58 @@
 [
-	 {
-	"name": "Arlene Andrews",
-	"date": "14/09/2020",
-	"note": "Arlene has stared in Podcasts, presented and written blogs. Arlene is also a huge supporter of the Testing Community and Tester of The Day.",
-	"twitter": "https://twitter.com/ArleneAndrews_1"
-},{
-	"name": "Corina Pip",
-	"date": "13/09/2020",
-	"note": "For those that need a smile, or something that makes you feel like there is one person out there than understands, the drawings are awesome. And then there's the information-full presentations.",
-	"twitter": "https://twitter.com/imalittletester"
-},{
-	"name": "Jonathan Burton",
-	"date": "12/09/2020",
-	"note": "He was instrumental in testing a successful android app launch. His attention to detail is unmatched!",
-	"twitter": "https://twitter.com/Juiceman83bg"
-},{
-	"name": "Chris Armstrong",
-	"date": "11/09/2020",
-	"note": "Podcaster, one of the Testing Peers and runs his own blog. Chris is a cheerleader for the Test Community. He has also been a huge supporter of Tester of The Day. Thank you Chris!",
-	"twitter": "https://twitter.com/christovskia"
-},{
-	"name": "Ard Kramer",
-	"date": "10/09/2020",
-	"note": " For being such an inspiration and all the hard work Ard is doing with Emna are doing together in their personal time for the #21stskills4testers coming book.",
-	"twitter": "https://twitter.com/ard_kramer"
-},{
-	"name": "Beren Van Daele",
-	"date": "09/09/2020",
-	"note": "Without Beren, we wouldn't have @TestSphere or #RiskStorming. Frankly the world is a better place with those things in it!",
-	"twitter": "https://twitter.com/isleoftesting"
-},{
-	"name": "David",
-	"date": "08/09/2020",
-	"note": "David makes the @testingpeers podcast actually sensible(ish) and he is also by far and away the easiest to transcribe when he talks!",
-	"twitter": "https://twitter.com/cambridgetestuk"
-},
-{
-  	"name": "Wicked Witch of the test",
-  	"date": "07/09/2020",
-  	"note": "Insanely positive, grounded and is going to be one of the best conference speakers that we will see this year!",
-  	"twitter": "https://twitter.com/witchofthetest"
-  },
+	{
+		"name": "Vernon McRichards",
+		"date": "15/09/2020",
+		"note": "Nominated by Marie Drake, who says 'He made my first AMA experience really engaging and the conversations pre-AMA were fun Smiling face with open mouth'",
+		"twitter": "https://twitter.com/TesterFromLeic"
+	},
+	{
+		"name": "Arlene Andrews",
+		"date": "14/09/2020",
+		"note": "Arlene has stared in Podcasts, presented and written blogs. Arlene is also a huge supporter of the Testing Community and Tester of The Day.",
+		"twitter": "https://twitter.com/ArleneAndrews_1"
+	},
+	{
+		"name": "Corina Pip",
+		"date": "13/09/2020",
+		"note": "For those that need a smile, or something that makes you feel like there is one person out there than understands, the drawings are awesome. And then there's the information-full presentations.",
+		"twitter": "https://twitter.com/imalittletester"
+	},
+	{
+		"name": "Jonathan Burton",
+		"date": "12/09/2020",
+		"note": "He was instrumental in testing a successful android app launch. His attention to detail is unmatched!",
+		"twitter": "https://twitter.com/Juiceman83bg"
+	},
+	{
+		"name": "Chris Armstrong",
+		"date": "11/09/2020",
+		"note": "Podcaster, one of the Testing Peers and runs his own blog. Chris is a cheerleader for the Test Community. He has also been a huge supporter of Tester of The Day. Thank you Chris!",
+		"twitter": "https://twitter.com/christovskia"
+	},
+	{
+		"name": "Ard Kramer",
+		"date": "10/09/2020",
+		"note": " For being such an inspiration and all the hard work Ard is doing with Emna are doing together in their personal time for the #21stskills4testers coming book.",
+		"twitter": "https://twitter.com/ard_kramer"
+	},
+	{
+		"name": "Beren Van Daele",
+		"date": "09/09/2020",
+		"note": "Without Beren, we wouldn't have @TestSphere or #RiskStorming. Frankly the world is a better place with those things in it!",
+		"twitter": "https://twitter.com/isleoftesting"
+	},
+	{
+		"name": "David",
+		"date": "08/09/2020",
+		"note": "David makes the @testingpeers podcast actually sensible(ish) and he is also by far and away the easiest to transcribe when he talks!",
+		"twitter": "https://twitter.com/cambridgetestuk"
+	},
+	{
+		"name": "Wicked Witch of the test",
+		"date": "07/09/2020",
+		"note": "Insanely positive, grounded and is going to be one of the best conference speakers that we will see this year!",
+		"twitter": "https://twitter.com/witchofthetest"
+	},
 	{
 		"name": "Lee Marshall",
 		"date": "06/09/2020",
