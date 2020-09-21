@@ -1,31 +1,41 @@
 [
-  {
-	"name": "Lalitkumar Bhamare",
-	"date": "20/09/2020",
-	"note": "Lalitkumar proposes the a Quality Conscious Software Delivery framework that focuses on People, Project, Process and Product. This builds towards whole team testing.",
-	"twitter": "https://twitter.com/Lalitbhamare"
-},{
-	"name": "Antonella Scaravilli",
-	"date": "19/09/2020",
-	"note": "Emna Ayadi nominates Antonella for 'Her active participation in online testing meetups and conferences, for inspiring me to make sketchnotes and organizing an awsome #testersvirtualcoffee together by synchronizing everything perfectly'",
-	"twitter": "https://twitter.com/AntzScaravilli"
-},{
-	"name": "Ileana Herrera",
-	"date": "18/09/2020",
-	"note": "Emna Ayadi nominates Ileana for 'Her active participation in online testing meetups and conferences, for inspiring me to make sketchnotes and organizing an awsome #testersvirtualcoffee together by synchronizing everything perfectly'",
-	"twitter": "https://twitter.com/ileana_herrera"
-},{
-	"name": "Al",
-	"date": "17/09/2020",
-	"note": "Simon Prior nominated Al 'for his awesome talk on shifting testing left at the @MoTBucks meetup. Really engaging and hopefully the first of many talks.'",
-	"twitter": "https://twitter.com/testninja77"
-},{
-  	"name": "Ali Khalid",
-  	"date": "16/09/2020",
-  	"note": "Simon Prior nominations Ali for 'for his awesome and really insightful DevOps Test Strategy Mindmap. So much to think about and implement...'",
-  	"twitter": "https://twitter.com/aali_khalid"
-  },
-  {
+	{
+		"name": "Elisabeth Hocke",
+		"date": "21/09/2020",
+		"note": "In addition to generally being a wonderful contributor to the testing community and being current MIATPP, she has given a wonderful webinar today sharing her story of #Ensembling and rasing awareness for the importance of words.",
+		"twitter": "https://twitter.com/lisihocke"
+	},
+	{
+		"name": "Lalitkumar Bhamare",
+		"date": "20/09/2020",
+		"note": "Lalitkumar proposes the a Quality Conscious Software Delivery framework that focuses on People, Project, Process and Product. This builds towards whole team testing.",
+		"twitter": "https://twitter.com/Lalitbhamare"
+	},
+	{
+		"name": "Antonella Scaravilli",
+		"date": "19/09/2020",
+		"note": "Emna Ayadi nominates Antonella for 'Her active participation in online testing meetups and conferences, for inspiring me to make sketchnotes and organizing an awsome #testersvirtualcoffee together by synchronizing everything perfectly'",
+		"twitter": "https://twitter.com/AntzScaravilli"
+	},
+	{
+		"name": "Ileana Herrera",
+		"date": "18/09/2020",
+		"note": "Emna Ayadi nominates Ileana for 'Her active participation in online testing meetups and conferences, for inspiring me to make sketchnotes and organizing an awsome #testersvirtualcoffee together by synchronizing everything perfectly'",
+		"twitter": "https://twitter.com/ileana_herrera"
+	},
+	{
+		"name": "Al",
+		"date": "17/09/2020",
+		"note": "Simon Prior nominated Al 'for his awesome talk on shifting testing left at the @MoTBucks meetup. Really engaging and hopefully the first of many talks.'",
+		"twitter": "https://twitter.com/testninja77"
+	},
+	{
+		"name": "Ali Khalid",
+		"date": "16/09/2020",
+		"note": "Simon Prior nominations Ali for 'for his awesome and really insightful DevOps Test Strategy Mindmap. So much to think about and implement...'",
+		"twitter": "https://twitter.com/aali_khalid"
+	},
+	{
 		"name": "Vernon McRichards",
 		"date": "15/09/2020",
 		"note": "Nominated by Marie Drake, who says 'He made my first AMA experience really engaging and the conversations pre-AMA were fun Smiling face with open mouth'",
