@@ -1,10 +1,16 @@
 [
 	{
-	       "name": "Richard Bradshaw",
-	        "date": "25/09/2020",
-	        "note": "Nominated anonymously, today's winner is THE BossBoss! He is strengthening the testing global community with his leadership of the Ministry of Testing.",
- 	        "twitter": "https://twitter.com/FriendlyTester"
-        },
+		"name": "Matt Hutchison",
+		"date": "26/09/2020",
+		"note": "Nominated by Arlene Andrews, who says:'In a world where many wonderful people are writing, it's nice to have a weekly look at the articles specific to testing. Having this, and seeing the range of experience and care that is taken is always a delight.'",
+		"twitter": "https://twitter.com/SQAMatt"
+	},	
+	{
+		"name": "Richard Bradshaw",
+		"date": "25/09/2020",
+		"note": "Nominated anonymously, today's winner is THE BossBoss! He is strengthening the testing global community with his leadership of the Ministry of Testing.",
+		"twitter": "https://twitter.com/FriendlyTester"
+	},
 	{
 		"name": "Adam Sandman",
 		"date": "24/09/2020",
