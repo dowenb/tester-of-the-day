@@ -1,15 +1,33 @@
 <template>
   <div class="hall">
-    <img class="logo" src="../assets/totd_hall_banner.svg" alt="Tester of the day hall of fame">
+    <img
+      class="logo"
+      src="../assets/totd_hall_banner.svg"
+      alt="Tester of the day hall of fame"
+    />
     <p>Tester of the day is recognition of awesomeness in Software Testing.</p>
-    <p>The competition is run by Benjamin Dowen, The Full Snack Test Engineer. It is "for fun" and intended to be friendly for the purpose of encouraging excellent Software Testers.
-    <p>To Nominate someone please contact Ben on <img src="../assets/twitter.svg" class="icon" alt="Twitter logo" /> <a href="https://twitter.com/dowenb">@dowenb</a></p>
+    <p>
+      The competition is run by Benjamin Dowen, The Full Snack Test Engineer. It
+      is "for fun" and intended to be friendly for the purpose of encouraging
+      excellent Software Testers.
+    </p>
+    <p>
+      To Nominate someone please contact Ben on
+      <img src="../assets/twitter.svg" class="icon" alt="Twitter logo" />
+      <a href="https://twitter.com/dowenb">@dowenb</a>
+    </p>
     <br />
-    <div class="winner" v-for="winner in winners" :key="winner.name">
+      <input type="text" class="search" v-model="search" placeholder="Find winner by name" />
+    <div class="winner" v-for="winner in filteredWinners" :key="winner.name">
       <ul>
         <li class="name">
           <h2>{{ winner.name }}</h2>
-          Tester of the day: <img src="../assets/calendar.svg" class="icon" alt="calender icon" />{{ winner.date }}
+          Tester of the day:
+          <img
+            src="../assets/calendar.svg"
+            class="icon"
+            alt="calender icon"
+          />{{ winner.date }}
         </li>
         <li class="note">{{ winner.note }}</li>
         <li class="twitter">
@@ -18,21 +36,37 @@
         </li>
       </ul>
     </div>
-        <br/>
-        <p>This project is run by Ben Dowen the Full Snack Test Engineer. I can be found in various places on the internet, start here: <a href="https://linktr.ee/dowenb">https://linktr.ee/dowenb</a></p>
-        <a href="https://twitter.com/dowenb">
-        <img src="../assets/fullsnack.jpg" class="fullSnack" alt="Full Snack Test Engineer Ben Dowen">
-        </a>
+    <br />
+    <p>
+      This project is run by Ben Dowen the Full Snack Test Engineer. I can be
+      found in various places on the internet, start here:
+      <a href="https://linktr.ee/dowenb">https://linktr.ee/dowenb</a>
+    </p>
+    <a href="https://twitter.com/dowenb">
+      <img
+        src="../assets/fullsnack.jpg"
+        class="fullSnack"
+        alt="Full Snack Test Engineer Ben Dowen"
+      />
+    </a>
   </div>
 </template>
 
 <script>
-import winners from "../../winners/testers-of-the-day.json";
+import winnersList from "../../winners/testers-of-the-day.json";
 export default {
   data() {
     return {
-      winners,
+      search: "",
+      winnersList,
     };
+  },
+  computed: {
+    filteredWinners() {
+      return this.winnersList.filter((winner) => {
+        return winner.name.toLowerCase().includes(this.search.toLowerCase());
+      });
+    },
   },
   name: "HallOfFame",
   props: {
@@ -62,7 +96,6 @@ a {
   margin: auto;
   width: 100%;
   display: block;
-  padding: 5px;
 }
 .winner:nth-child(odd) {
   background-color: #022b38;
@@ -88,19 +121,26 @@ a {
 .note {
   font-size: 1.2em;
 }
-h1,h2{
+h1,
+h2 {
   color: white;
 }
 p {
   color: white;
 }
-.logo{
+.logo {
   margin: auto;
 }
-.fullSnack{
+.fullSnack {
   max-height: 100px;
 }
 img {
   max-width: 100%;
+}
+.search {
+  margin: auto;
+  width: 95%;
+  display: block;
+  font-size: 1.6em;
 }
 </style>
