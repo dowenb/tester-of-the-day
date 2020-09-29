@@ -1,5 +1,11 @@
 [
 	{
+		"name": "Angie Jones",
+		"date": "29/09/2020",
+		"note": "She is willing to help anyone and her knowledge is immense. Angie has great positive energy and supports the Software Testing Community in countless ways.",
+		"twitter": "https://twitter.com/techgirl1908"
+	},
+	{
 		"name": "Ramiro Cibrián",
 		"date": "28/09/2020",
 		"note": "Ramiro recently took the time to write a excellent thread about QA for Games, with some great very important insight that is very relevent to all areas of software testing.",
