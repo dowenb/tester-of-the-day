@@ -1,5 +1,11 @@
 [
 	{
+		"name": "Danny Dainton",
+		"date": "01/10/2020",
+		"note": "Nominated for always answering the easy and hard questions about Postman no matter which corner of the Internet you happen to ask them!",
+		"twitter": "https://twitter.com/DannyDainton"
+	},
+	{
 		"name": "Carlos Kidman",
 		"date": "30/09/2020",
 		"note": "Big shout out to Carlos for live-streaming his test automation efforts on Twitch. https://twitch.tv/carloskidman",
