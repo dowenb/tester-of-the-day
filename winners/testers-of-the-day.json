@@ -1,5 +1,16 @@
 [
 	{
+		"name": "Mark Tomlinson",
+		"date": "02/10/2020",
+		"note": "A helpful performance tester . Mark is willing to help anybody and perfbytes is a great platform to learn and ask questions",
+		"twitter": "https://twitter.com/m3tomlins"
+	},	{
+		"name": "Danny Dainton",
+		"date": "01/10/2020",
+		"note": "Nominated for always answering the easy and hard questions about Postman no matter which corner of the Internet you happen to ask them!",
+		"twitter": "https://twitter.com/DannyDainton"
+	},
+	{
 		"name": "Danny Dainton",
 		"date": "01/10/2020",
 		"note": "Nominated for always answering the easy and hard questions about Postman no matter which corner of the Internet you happen to ask them!",
