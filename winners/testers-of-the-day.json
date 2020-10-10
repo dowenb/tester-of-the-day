@@ -1,16 +1,22 @@
-[	{
+[
+	{
+		"name": "Michael Mintz",
+		"date": "10/10/2020",
+		"note": "Always adding value Michael has created the goto Python Selenium Framework, SeleniumBase. Full of positive energy Michael is always building on his success and help bring others with him.",
+		"twitter": "https://twitter.com/mintzworld"
+	},
+	{
 		"name": "Tristan Lombard",
 		"date": "09/10/2020",
 		"note": "Nominated by Chris: 'Compere extraordinaire, but also an all round supportive and engaging chap!'",
 		"twitter": "https://twitter.com/TristanLombard2"
 	},
- 	{
+	{
 		"name": "Elias Nogueira",
 		"date": "08/10/2020",
 		"note": "Elias consistently Tweets excellent Software testing content promoting others as well as producing his own excellent articles.",
 		"twitter": "https://twitter.com/eliasnogueira"
 	},
-
 	{
 		"name": "Ali Hill",
 		"date": "07/10/2020",
