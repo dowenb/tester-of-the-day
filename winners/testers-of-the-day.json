@@ -1,338 +1,350 @@
 [
-	{
-		"name": "Michael Mintz",
-		"date": "10/10/2020",
-		"note": "Always adding value Michael has created the goto Python Selenium Framework, SeleniumBase. Full of positive energy Michael is always building on his success and help bring others with him.",
-		"twitter": "https://twitter.com/mintzworld"
-	},
-	{
-		"name": "Tristan Lombard",
-		"date": "09/10/2020",
-		"note": "Nominated by Chris: 'Compere extraordinaire, but also an all round supportive and engaging chap!'",
-		"twitter": "https://twitter.com/TristanLombard2"
-	},
-	{
-		"name": "Elias Nogueira",
-		"date": "08/10/2020",
-		"note": "Elias consistently Tweets excellent Software testing content promoting others as well as producing his own excellent articles.",
-		"twitter": "https://twitter.com/eliasnogueira"
-	},
-	{
-		"name": "Ali Hill",
-		"date": "07/10/2020",
-		"note": "Nominated by @PeetRonics who says: 'I've first met him at the Edinburgh chapter of the MoT Meetup. Very approachable and friendly guy. Always ready to help out others'",
-		"twitter": "https://twitter.com/ali_hill91"
-	},
-	{
-		"name": "Andrew Knight",
-		"date": "06/10/2020",
-		"note": "Andrew, AKA 'The Automation Panda' offers an excellent and inspirational insight into what it is to be a Software Engineer in Test (SET). He offers further excellent insights in a range of articles on the https://automationpanda.com/ blog. Check it out!",
-		"twitter": "https://twitter.com/AutomationPanda"
-	},
-	{
-		"name": "David Williams",
-		"date": "05/10/2020",
-		"note": "Deborah Reid nominated David: 'for always looking out for me and being such a great friend and colleague and teaching me lots about testing'",
-		"twitter": "https://twitter.com/TheTestingMuse"
-	},
-	{
-		"name": "Lisa Crispin",
-		"date": "04/10/2020",
-		"note": "Nominated by the excellent Ileana who says of Lisa: 'She’s an absolutely amazing member of this community. She always encourages others to share ideas and she helps all of us with hers! It’s encouraging.'",
-		"twitter": "https://twitter.com/lisacrispin"
-	},
-	{
-		"name": "Jan Giacomelli",
-		"date": "03/10/2020",
-		"note": "A Senior #Python Engineer, Jan frequently posts helpful content on Pytest. Thank you Jan for your contributions to the #SoftwareTesting community.",
-		"twitter": "https://twitter.com/jangiacomelli"
-	},
-	{
-		"name": "Mark Tomlinson",
-		"date": "02/10/2020",
-		"note": "A helpful performance tester . Mark is willing to help anybody and perfbytes is a great platform to learn and ask questions",
-		"twitter": "https://twitter.com/m3tomlins"
-	},
-	{
-		"name": "Danny Dainton",
-		"date": "01/10/2020",
-		"note": "Nominated for always answering the easy and hard questions about Postman no matter which corner of the Internet you happen to ask them!",
-		"twitter": "https://twitter.com/DannyDainton"
-	},
-	{
-		"name": "Danny Dainton",
-		"date": "01/10/2020",
-		"note": "Nominated for always answering the easy and hard questions about Postman no matter which corner of the Internet you happen to ask them!",
-		"twitter": "https://twitter.com/DannyDainton"
-	},
-	{
-		"name": "Carlos Kidman",
-		"date": "30/09/2020",
-		"note": "Big shout out to Carlos for live-streaming his test automation efforts on Twitch. https://twitch.tv/carloskidman",
-		"twitter": "https://twitter.com/CarlosKidman"
-	},
-	{
-		"name": "Angie Jones",
-		"date": "29/09/2020",
-		"note": "She is willing to help anyone and her knowledge is immense. Angie has great positive energy and supports the Software Testing Community in countless ways.",
-		"twitter": "https://twitter.com/techgirl1908"
-	},
-	{
-		"name": "Ramiro Cibrián",
-		"date": "28/09/2020",
-		"note": "Ramiro recently took the time to write a excellent thread about QA for Games, with some great very important insight that is very relevent to all areas of software testing.",
-		"twitter": "https://twitter.com/Wiisak"
-	},
-	{
-		"name": "Michael Bolton",
-		"date": "27/09/2020",
-		"note": "Nominated anonymously, today's winner consistently asks the big questions and producing awesome content. He helps others learn and is vocal on how to test many contexts.",
-		"twitter": "https://twitter.com/michaelbolton"
-	},
-	{
-		"name": "Matt Hutchison",
-		"date": "26/09/2020",
-		"note": "Nominated by Arlene Andrews, who says:'In a world where many wonderful people are writing, it's nice to have a weekly look at the articles specific to testing. Having this, and seeing the range of experience and care that is taken is always a delight.'",
-		"twitter": "https://twitter.com/SQAMatt"
-	},
-	{
-		"name": "Richard Bradshaw",
-		"date": "25/09/2020",
-		"note": "Nominated anonymously, today's winner is THE BossBoss! He is strengthening the testing global community with his leadership of the Ministry of Testing.",
-		"twitter": "https://twitter.com/FriendlyTester"
-	},
-	{
-		"name": "Adam Sandman",
-		"date": "24/09/2020",
-		"note": "Nominated by the ever generous @ArleneAndrews_1 who says: ‘Adam has been generous in helping keep a community going, and provides a nice treat once a week with the Webinar.’",
-		"twitter": "https://twitter.com/adammarksandman"
-	},
-	{
-		"name": "Ben Simo",
-		"date": "23/09/2020",
-		"note": "Arlene Andrews nominates Ben 'A wonderful bug magnet, and one who has taught me to think outside  the box - not just cling to the edges.'",
-		"twitter": "https://twitter.com/QualityFrog"
-	},
-	{
-		"name": "Matthew Parker",
-		"date": "22/09/2020",
-		"note": "Nominated by none other then Heather Reid, Matt has given the testing community a lot to smile about today especially & reminded us all of some really wonderful times. He's also a wonderful volunteer, helping so many people behind the scenes!",
-		"twitter": "https://twitter.com/TestingTackled"
-	},
-	{
-		"name": "Elisabeth Hocke",
-		"date": "21/09/2020",
-		"note": "In addition to generally being a wonderful contributor to the testing community and being current MIATPP, she has given a wonderful webinar today sharing her story of #Ensembling and rasing awareness for the importance of words.",
-		"twitter": "https://twitter.com/lisihocke"
-	},
-	{
-		"name": "Lalitkumar Bhamare",
-		"date": "20/09/2020",
-		"note": "Lalitkumar proposes the a Quality Conscious Software Delivery framework that focuses on People, Project, Process and Product. This builds towards whole team testing.",
-		"twitter": "https://twitter.com/Lalitbhamare"
-	},
-	{
-		"name": "Antonella Scaravilli",
-		"date": "19/09/2020",
-		"note": "Emna Ayadi nominates Antonella for 'Her active participation in online testing meetups and conferences, for inspiring me to make sketchnotes and organizing an awsome #testersvirtualcoffee together by synchronizing everything perfectly'",
-		"twitter": "https://twitter.com/AntzScaravilli"
-	},
-	{
-		"name": "Ileana Herrera",
-		"date": "18/09/2020",
-		"note": "Emna Ayadi nominates Ileana for 'Her active participation in online testing meetups and conferences, for inspiring me to make sketchnotes and organizing an awsome #testersvirtualcoffee together by synchronizing everything perfectly'",
-		"twitter": "https://twitter.com/ileana_herrera"
-	},
-	{
-		"name": "Al",
-		"date": "17/09/2020",
-		"note": "Simon Prior nominated Al 'for his awesome talk on shifting testing left at the @MoTBucks meetup. Really engaging and hopefully the first of many talks.'",
-		"twitter": "https://twitter.com/testninja77"
-	},
-	{
-		"name": "Ali Khalid",
-		"date": "16/09/2020",
-		"note": "Simon Prior nominations Ali for 'for his awesome and really insightful DevOps Test Strategy Mindmap. So much to think about and implement...'",
-		"twitter": "https://twitter.com/aali_khalid"
-	},
-	{
-		"name": "Vernon McRichards",
-		"date": "15/09/2020",
-		"note": "Nominated by Marie Drake, who says 'He made my first AMA experience really engaging and the conversations pre-AMA were fun Smiling face with open mouth'",
-		"twitter": "https://twitter.com/TesterFromLeic"
-	},
-	{
-		"name": "Arlene Andrews",
-		"date": "14/09/2020",
-		"note": "Arlene has stared in Podcasts, presented and written blogs. Arlene is also a huge supporter of the Testing Community and Tester of The Day.",
-		"twitter": "https://twitter.com/ArleneAndrews_1"
-	},
-	{
-		"name": "Corina Pip",
-		"date": "13/09/2020",
-		"note": "For those that need a smile, or something that makes you feel like there is one person out there than understands, the drawings are awesome. And then there's the information-full presentations.",
-		"twitter": "https://twitter.com/imalittletester"
-	},
-	{
-		"name": "Jonathan Burton",
-		"date": "12/09/2020",
-		"note": "He was instrumental in testing a successful android app launch. His attention to detail is unmatched!",
-		"twitter": "https://twitter.com/Juiceman83bg"
-	},
-	{
-		"name": "Chris Armstrong",
-		"date": "11/09/2020",
-		"note": "Podcaster, one of the Testing Peers and runs his own blog. Chris is a cheerleader for the Test Community. He has also been a huge supporter of Tester of The Day. Thank you Chris!",
-		"twitter": "https://twitter.com/christovskia"
-	},
-	{
-		"name": "Ard Kramer",
-		"date": "10/09/2020",
-		"note": " For being such an inspiration and all the hard work Ard is doing with Emna are doing together in their personal time for the #21stskills4testers coming book.",
-		"twitter": "https://twitter.com/ard_kramer"
-	},
-	{
-		"name": "Beren Van Daele",
-		"date": "09/09/2020",
-		"note": "Without Beren, we wouldn't have @TestSphere or #RiskStorming. Frankly the world is a better place with those things in it!",
-		"twitter": "https://twitter.com/isleoftesting"
-	},
-	{
-		"name": "David",
-		"date": "08/09/2020",
-		"note": "David makes the @testingpeers podcast actually sensible(ish) and he is also by far and away the easiest to transcribe when he talks!",
-		"twitter": "https://twitter.com/cambridgetestuk"
-	},
-	{
-		"name": "Wicked Witch of the test",
-		"date": "07/09/2020",
-		"note": "Insanely positive, grounded and is going to be one of the best conference speakers that we will see this year!",
-		"twitter": "https://twitter.com/witchofthetest"
-	},
-	{
-		"name": "Lee Marshall",
-		"date": "06/09/2020",
-		"note": "Lee shares excellent videos and readily shares his knowledge of testing SQL and building communities of practice. His Testers hang out has kept more than one of us sane during lockdown!",
-		"twitter": "https://twitter.com/ThePirateTester"
-	},
-	{
-		"name": "Sanne Visser",
-		"date": "05/09/2020",
-		"note": "A Blockchain tester Sanne is supportive and has shared some excellent Sketchnotes from Online Test Conf.",
-		"twitter": "https://twitter.com/SimplySanne"
-	},
-	{
-		"name": "Simon Prior",
-		"date": "04/09/2020",
-		"note": "Simon is is positive and selflessly giving to a fault! He is the reason that @testingpeers even have a podcast!",
-		"twitter": "https://twitter.com/siprior"
-	},
-	{
-		"name": "Dan Ashby",
-		"date": "03/09/2020",
-		"note": "Dan is a podcaster and blogger who is quoted everywhere. His block on interviewing testers is a must read! Dan also happens to be the inspiration for Tester of The Day!",
-		"twitter": "https://twitter.com/DanAshby04"
-	},
-	{
-		"name": "Huib Schoots",
-		"date": "02/09/2020",
-		"note": "A Quality Coach and Agile Expert Huib is a giver of great, wonderfully blunt advice.",
-		"twitter": "https://twitter.com/huibschoots"
-	},
-	{
-		"name": "Shey",
-		"date": "01/09/2020",
-		"note": "Chris Armstrongs's 'favorite #LeadershipThoughts giver'. Shey is so supportive and positive, it's infectious.",
-		"twitter": "https://twitter.com/SheyMouse"
-	},
-	{
-		"name": "Russell Craxford",
-		"date": "31/08/2020",
-		"note": "Russel is a Meetup host, giver of sage (pun intended) advice, understated hero in the testing world and conference volunteer",
-		"twitter": "https://twitter.com/r_crax"
-	},
-	{
-		"name": "Bruce",
-		"date": "30/08/2020",
-		"note": "Bruce is humble, witty, creative, addictive to get to know, smart as hell and super supportive.",
-		"twitter": "https://twitter.com/BruceOnlyBruce"
-	},
-	{
-		"name": "Maaret Pyhäjärvi",
-		"date": "29/08/2020",
-		"note": "Maaret has time for everyone, broke down boundaries for conference #CFP, blogs so insightfully.",
-		"twitter": "https://twitter.com/maaretp"
-	},
-	{
-		"name": "Zeger Van Hese",
-		"date": "28/08/2020",
-		"note": "Zeger is hands down the most engaging speaker Chris Armstrong has ever seen in person.",
-		"twitter": "https://twitter.com/TestSideStory"
-	},
-	{
-		"name": "Melissa Benua",
-		"date": "27/08/2020",
-		"note": "Melissa has worked HARD to make sure that testing is incorporated into the changes that we see in applications/sites/whatever is coming next.",
-		"twitter": "https://twitter.com/queenofcode"
-	},
-	{
-		"name": "Melissa Tondi",
-		"date": "26/08/2020",
-		"note": "Melissa has been a powerhouse in the scene - it's grand to see her views on what a tester could be.",
-		"twitter": "https://twitter.com/melissatondi"
-	},
-	{
-		"name": "Bart knaack",
-		"date": "25/08/2020",
-		"note": "Bart helps host a small remote meetup for everybody who misses the test community.",
-		"twitter": "https://twitter.com/Btknaack"
-	},
-	{
-		"name": "Wanda Hawkins-Kavanagh",
-		"date": "24/08/2020",
-		"note": "Wanda celebrates those that are on the journey with her. Her posts on testing are rare, and that makes finding these gems of delight in understanding even more of a special thing.",
-		"twitter": "https://twitter.com/kavanaghQA"
-	},
-	{
-		"name": "Stu",
-		"date": "23/08/2020",
-		"note": "Stu co-hosts @MoTBucks and his passion for quality shines through in all he does!",
-		"twitter": "https://twitter.com/wildtests"
-	},
-	{
-		"name": "Emna Ayadi",
-		"date": "22/08/2020",
-		"note": "Emna's presented an awesome talk at #tmatlc2020 on community of practices and gives so much to the community.",
-		"twitter": "https://twitter.com/emna__ayadi"
-	},
-	{
-		"name": "Beth Marshall",
-		"date": "21/08/2020",
-		"note": "Beth has shown a passion for testing with great online talks. Beth is always happy to review and give feedback on ideas.",
-		"twitter": "https://twitter.com/@Beth_AskHer"
-	},
-	{
-		"name": "Maaike Brinkhof",
-		"date": "20/08/2020",
-		"note": "Maaike's blog Journey into quality has an ongoing series: 10 years, 10 lessons.",
-		"twitter": "https://twitter.com/Maaikees"
-	},
-	{
-		"name": "Rafaela Azevedo",
-		"date": "19/08/2020",
-		"note": "Check out Rafaela's excellent FREE course on Contract testing with PACT on the Test Automation University.",
-		"twitter": "https://twitter.com/azevedorafa_com"
-	},
-	{
-		"name": "Marie Drake",
-		"date": "18/08/2020",
-		"note": "Marie's excellent article on Debunking Accessibility Testing Myths covered on The Club by none other then Heather Reid and Tweeted out today by the Ministry of Testing. Well done Marie!",
-		"twitter": "https://twitter.com/mcruzdrake"
-	},
-	{
-		"name": "Chris McMahon",
-		"date": "17/08/2020",
-		"note": "Thanks Chris, great insight into your Cucumber step about reverting from a destructive test.",
-		"twitter": "https://twitter.com/chris_mcmahon"
-	}
+  {
+    "name": "Sergio Freire",
+    "date": "12/10/2020",
+    "note": "Sergio's excellent content includes an introduction to Model based testing. He recently ported a MBT example from Java to Python. Sergio offers great insight into a number of other topics on his blog at https://www.sergiofreire.com/.",
+    "twitter": "https://twitter.com/darktelecom"
+  },
+  {
+    "name": "Vern Kofford",
+    "date": "11/10/2020",
+    "note": "Vern has recently completed some courses on The Test Automation University. Well done Vern, we look forward to hearing how you put your learning to good use!",
+    "twitter": "https://twitter.com/vk315"
+  },
+  {
+    "name": "Michael Mintz",
+    "date": "10/10/2020",
+    "note": "Always adding value Michael has created the goto Python Selenium Framework, SeleniumBase. Full of positive energy Michael is always building on his success and help bring others with him.",
+    "twitter": "https://twitter.com/mintzworld"
+  },
+  {
+    "name": "Tristan Lombard",
+    "date": "09/10/2020",
+    "note": "Nominated by Chris: 'Compere extraordinaire, but also an all round supportive and engaging chap!'",
+    "twitter": "https://twitter.com/TristanLombard2"
+  },
+  {
+    "name": "Elias Nogueira",
+    "date": "08/10/2020",
+    "note": "Elias consistently Tweets excellent Software testing content promoting others as well as producing his own excellent articles.",
+    "twitter": "https://twitter.com/eliasnogueira"
+  },
+  {
+    "name": "Ali Hill",
+    "date": "07/10/2020",
+    "note": "Nominated by @PeetRonics who says: 'I've first met him at the Edinburgh chapter of the MoT Meetup. Very approachable and friendly guy. Always ready to help out others'",
+    "twitter": "https://twitter.com/ali_hill91"
+  },
+  {
+    "name": "Andrew Knight",
+    "date": "06/10/2020",
+    "note": "Andrew, AKA 'The Automation Panda' offers an excellent and inspirational insight into what it is to be a Software Engineer in Test (SET). He offers further excellent insights in a range of articles on the https://automationpanda.com/ blog. Check it out!",
+    "twitter": "https://twitter.com/AutomationPanda"
+  },
+  {
+    "name": "David Williams",
+    "date": "05/10/2020",
+    "note": "Deborah Reid nominated David: 'for always looking out for me and being such a great friend and colleague and teaching me lots about testing'",
+    "twitter": "https://twitter.com/TheTestingMuse"
+  },
+  {
+    "name": "Lisa Crispin",
+    "date": "04/10/2020",
+    "note": "Nominated by the excellent Ileana who says of Lisa: 'She’s an absolutely amazing member of this community. She always encourages others to share ideas and she helps all of us with hers! It’s encouraging.'",
+    "twitter": "https://twitter.com/lisacrispin"
+  },
+  {
+    "name": "Jan Giacomelli",
+    "date": "03/10/2020",
+    "note": "A Senior #Python Engineer, Jan frequently posts helpful content on Pytest. Thank you Jan for your contributions to the #SoftwareTesting community.",
+    "twitter": "https://twitter.com/jangiacomelli"
+  },
+  {
+    "name": "Mark Tomlinson",
+    "date": "02/10/2020",
+    "note": "A helpful performance tester . Mark is willing to help anybody and perfbytes is a great platform to learn and ask questions",
+    "twitter": "https://twitter.com/m3tomlins"
+  },
+  {
+    "name": "Danny Dainton",
+    "date": "01/10/2020",
+    "note": "Nominated for always answering the easy and hard questions about Postman no matter which corner of the Internet you happen to ask them!",
+    "twitter": "https://twitter.com/DannyDainton"
+  },
+  {
+    "name": "Danny Dainton",
+    "date": "01/10/2020",
+    "note": "Nominated for always answering the easy and hard questions about Postman no matter which corner of the Internet you happen to ask them!",
+    "twitter": "https://twitter.com/DannyDainton"
+  },
+  {
+    "name": "Carlos Kidman",
+    "date": "30/09/2020",
+    "note": "Big shout out to Carlos for live-streaming his test automation efforts on Twitch. https://twitch.tv/carloskidman",
+    "twitter": "https://twitter.com/CarlosKidman"
+  },
+  {
+    "name": "Angie Jones",
+    "date": "29/09/2020",
+    "note": "She is willing to help anyone and her knowledge is immense. Angie has great positive energy and supports the Software Testing Community in countless ways.",
+    "twitter": "https://twitter.com/techgirl1908"
+  },
+  {
+    "name": "Ramiro Cibrián",
+    "date": "28/09/2020",
+    "note": "Ramiro recently took the time to write a excellent thread about QA for Games, with some great very important insight that is very relevent to all areas of software testing.",
+    "twitter": "https://twitter.com/Wiisak"
+  },
+  {
+    "name": "Michael Bolton",
+    "date": "27/09/2020",
+    "note": "Nominated anonymously, today's winner consistently asks the big questions and producing awesome content. He helps others learn and is vocal on how to test many contexts.",
+    "twitter": "https://twitter.com/michaelbolton"
+  },
+  {
+    "name": "Matt Hutchison",
+    "date": "26/09/2020",
+    "note": "Nominated by Arlene Andrews, who says:'In a world where many wonderful people are writing, it's nice to have a weekly look at the articles specific to testing. Having this, and seeing the range of experience and care that is taken is always a delight.'",
+    "twitter": "https://twitter.com/SQAMatt"
+  },
+  {
+    "name": "Richard Bradshaw",
+    "date": "25/09/2020",
+    "note": "Nominated anonymously, today's winner is THE BossBoss! He is strengthening the testing global community with his leadership of the Ministry of Testing.",
+    "twitter": "https://twitter.com/FriendlyTester"
+  },
+  {
+    "name": "Adam Sandman",
+    "date": "24/09/2020",
+    "note": "Nominated by the ever generous @ArleneAndrews_1 who says: ‘Adam has been generous in helping keep a community going, and provides a nice treat once a week with the Webinar.’",
+    "twitter": "https://twitter.com/adammarksandman"
+  },
+  {
+    "name": "Ben Simo",
+    "date": "23/09/2020",
+    "note": "Arlene Andrews nominates Ben 'A wonderful bug magnet, and one who has taught me to think outside  the box - not just cling to the edges.'",
+    "twitter": "https://twitter.com/QualityFrog"
+  },
+  {
+    "name": "Matthew Parker",
+    "date": "22/09/2020",
+    "note": "Nominated by none other then Heather Reid, Matt has given the testing community a lot to smile about today especially & reminded us all of some really wonderful times. He's also a wonderful volunteer, helping so many people behind the scenes!",
+    "twitter": "https://twitter.com/TestingTackled"
+  },
+  {
+    "name": "Elisabeth Hocke",
+    "date": "21/09/2020",
+    "note": "In addition to generally being a wonderful contributor to the testing community and being current MIATPP, she has given a wonderful webinar today sharing her story of #Ensembling and rasing awareness for the importance of words.",
+    "twitter": "https://twitter.com/lisihocke"
+  },
+  {
+    "name": "Lalitkumar Bhamare",
+    "date": "20/09/2020",
+    "note": "Lalitkumar proposes the a Quality Conscious Software Delivery framework that focuses on People, Project, Process and Product. This builds towards whole team testing.",
+    "twitter": "https://twitter.com/Lalitbhamare"
+  },
+  {
+    "name": "Antonella Scaravilli",
+    "date": "19/09/2020",
+    "note": "Emna Ayadi nominates Antonella for 'Her active participation in online testing meetups and conferences, for inspiring me to make sketchnotes and organizing an awsome #testersvirtualcoffee together by synchronizing everything perfectly'",
+    "twitter": "https://twitter.com/AntzScaravilli"
+  },
+  {
+    "name": "Ileana Herrera",
+    "date": "18/09/2020",
+    "note": "Emna Ayadi nominates Ileana for 'Her active participation in online testing meetups and conferences, for inspiring me to make sketchnotes and organizing an awsome #testersvirtualcoffee together by synchronizing everything perfectly'",
+    "twitter": "https://twitter.com/ileana_herrera"
+  },
+  {
+    "name": "Al",
+    "date": "17/09/2020",
+    "note": "Simon Prior nominated Al 'for his awesome talk on shifting testing left at the @MoTBucks meetup. Really engaging and hopefully the first of many talks.'",
+    "twitter": "https://twitter.com/testninja77"
+  },
+  {
+    "name": "Ali Khalid",
+    "date": "16/09/2020",
+    "note": "Simon Prior nominations Ali for 'for his awesome and really insightful DevOps Test Strategy Mindmap. So much to think about and implement...'",
+    "twitter": "https://twitter.com/aali_khalid"
+  },
+  {
+    "name": "Vernon McRichards",
+    "date": "15/09/2020",
+    "note": "Nominated by Marie Drake, who says 'He made my first AMA experience really engaging and the conversations pre-AMA were fun Smiling face with open mouth'",
+    "twitter": "https://twitter.com/TesterFromLeic"
+  },
+  {
+    "name": "Arlene Andrews",
+    "date": "14/09/2020",
+    "note": "Arlene has stared in Podcasts, presented and written blogs. Arlene is also a huge supporter of the Testing Community and Tester of The Day.",
+    "twitter": "https://twitter.com/ArleneAndrews_1"
+  },
+  {
+    "name": "Corina Pip",
+    "date": "13/09/2020",
+    "note": "For those that need a smile, or something that makes you feel like there is one person out there than understands, the drawings are awesome. And then there's the information-full presentations.",
+    "twitter": "https://twitter.com/imalittletester"
+  },
+  {
+    "name": "Jonathan Burton",
+    "date": "12/09/2020",
+    "note": "He was instrumental in testing a successful android app launch. His attention to detail is unmatched!",
+    "twitter": "https://twitter.com/Juiceman83bg"
+  },
+  {
+    "name": "Chris Armstrong",
+    "date": "11/09/2020",
+    "note": "Podcaster, one of the Testing Peers and runs his own blog. Chris is a cheerleader for the Test Community. He has also been a huge supporter of Tester of The Day. Thank you Chris!",
+    "twitter": "https://twitter.com/christovskia"
+  },
+  {
+    "name": "Ard Kramer",
+    "date": "10/09/2020",
+    "note": " For being such an inspiration and all the hard work Ard is doing with Emna are doing together in their personal time for the #21stskills4testers coming book.",
+    "twitter": "https://twitter.com/ard_kramer"
+  },
+  {
+    "name": "Beren Van Daele",
+    "date": "09/09/2020",
+    "note": "Without Beren, we wouldn't have @TestSphere or #RiskStorming. Frankly the world is a better place with those things in it!",
+    "twitter": "https://twitter.com/isleoftesting"
+  },
+  {
+    "name": "David",
+    "date": "08/09/2020",
+    "note": "David makes the @testingpeers podcast actually sensible(ish) and he is also by far and away the easiest to transcribe when he talks!",
+    "twitter": "https://twitter.com/cambridgetestuk"
+  },
+  {
+    "name": "Wicked Witch of the test",
+    "date": "07/09/2020",
+    "note": "Insanely positive, grounded and is going to be one of the best conference speakers that we will see this year!",
+    "twitter": "https://twitter.com/witchofthetest"
+  },
+  {
+    "name": "Lee Marshall",
+    "date": "06/09/2020",
+    "note": "Lee shares excellent videos and readily shares his knowledge of testing SQL and building communities of practice. His Testers hang out has kept more than one of us sane during lockdown!",
+    "twitter": "https://twitter.com/ThePirateTester"
+  },
+  {
+    "name": "Sanne Visser",
+    "date": "05/09/2020",
+    "note": "A Blockchain tester Sanne is supportive and has shared some excellent Sketchnotes from Online Test Conf.",
+    "twitter": "https://twitter.com/SimplySanne"
+  },
+  {
+    "name": "Simon Prior",
+    "date": "04/09/2020",
+    "note": "Simon is is positive and selflessly giving to a fault! He is the reason that @testingpeers even have a podcast!",
+    "twitter": "https://twitter.com/siprior"
+  },
+  {
+    "name": "Dan Ashby",
+    "date": "03/09/2020",
+    "note": "Dan is a podcaster and blogger who is quoted everywhere. His block on interviewing testers is a must read! Dan also happens to be the inspiration for Tester of The Day!",
+    "twitter": "https://twitter.com/DanAshby04"
+  },
+  {
+    "name": "Huib Schoots",
+    "date": "02/09/2020",
+    "note": "A Quality Coach and Agile Expert Huib is a giver of great, wonderfully blunt advice.",
+    "twitter": "https://twitter.com/huibschoots"
+  },
+  {
+    "name": "Shey",
+    "date": "01/09/2020",
+    "note": "Chris Armstrongs's 'favorite #LeadershipThoughts giver'. Shey is so supportive and positive, it's infectious.",
+    "twitter": "https://twitter.com/SheyMouse"
+  },
+  {
+    "name": "Russell Craxford",
+    "date": "31/08/2020",
+    "note": "Russel is a Meetup host, giver of sage (pun intended) advice, understated hero in the testing world and conference volunteer",
+    "twitter": "https://twitter.com/r_crax"
+  },
+  {
+    "name": "Bruce",
+    "date": "30/08/2020",
+    "note": "Bruce is humble, witty, creative, addictive to get to know, smart as hell and super supportive.",
+    "twitter": "https://twitter.com/BruceOnlyBruce"
+  },
+  {
+    "name": "Maaret Pyhäjärvi",
+    "date": "29/08/2020",
+    "note": "Maaret has time for everyone, broke down boundaries for conference #CFP, blogs so insightfully.",
+    "twitter": "https://twitter.com/maaretp"
+  },
+  {
+    "name": "Zeger Van Hese",
+    "date": "28/08/2020",
+    "note": "Zeger is hands down the most engaging speaker Chris Armstrong has ever seen in person.",
+    "twitter": "https://twitter.com/TestSideStory"
+  },
+  {
+    "name": "Melissa Benua",
+    "date": "27/08/2020",
+    "note": "Melissa has worked HARD to make sure that testing is incorporated into the changes that we see in applications/sites/whatever is coming next.",
+    "twitter": "https://twitter.com/queenofcode"
+  },
+  {
+    "name": "Melissa Tondi",
+    "date": "26/08/2020",
+    "note": "Melissa has been a powerhouse in the scene - it's grand to see her views on what a tester could be.",
+    "twitter": "https://twitter.com/melissatondi"
+  },
+  {
+    "name": "Bart knaack",
+    "date": "25/08/2020",
+    "note": "Bart helps host a small remote meetup for everybody who misses the test community.",
+    "twitter": "https://twitter.com/Btknaack"
+  },
+  {
+    "name": "Wanda Hawkins-Kavanagh",
+    "date": "24/08/2020",
+    "note": "Wanda celebrates those that are on the journey with her. Her posts on testing are rare, and that makes finding these gems of delight in understanding even more of a special thing.",
+    "twitter": "https://twitter.com/kavanaghQA"
+  },
+  {
+    "name": "Stu",
+    "date": "23/08/2020",
+    "note": "Stu co-hosts @MoTBucks and his passion for quality shines through in all he does!",
+    "twitter": "https://twitter.com/wildtests"
+  },
+  {
+    "name": "Emna Ayadi",
+    "date": "22/08/2020",
+    "note": "Emna's presented an awesome talk at #tmatlc2020 on community of practices and gives so much to the community.",
+    "twitter": "https://twitter.com/emna__ayadi"
+  },
+  {
+    "name": "Beth Marshall",
+    "date": "21/08/2020",
+    "note": "Beth has shown a passion for testing with great online talks. Beth is always happy to review and give feedback on ideas.",
+    "twitter": "https://twitter.com/@Beth_AskHer"
+  },
+  {
+    "name": "Maaike Brinkhof",
+    "date": "20/08/2020",
+    "note": "Maaike's blog Journey into quality has an ongoing series: 10 years, 10 lessons.",
+    "twitter": "https://twitter.com/Maaikees"
+  },
+  {
+    "name": "Rafaela Azevedo",
+    "date": "19/08/2020",
+    "note": "Check out Rafaela's excellent FREE course on Contract testing with PACT on the Test Automation University.",
+    "twitter": "https://twitter.com/azevedorafa_com"
+  },
+  {
+    "name": "Marie Drake",
+    "date": "18/08/2020",
+    "note": "Marie's excellent article on Debunking Accessibility Testing Myths covered on The Club by none other then Heather Reid and Tweeted out today by the Ministry of Testing. Well done Marie!",
+    "twitter": "https://twitter.com/mcruzdrake"
+  },
+  {
+    "name": "Chris McMahon",
+    "date": "17/08/2020",
+    "note": "Thanks Chris, great insight into your Cucumber step about reverting from a destructive test.",
+    "twitter": "https://twitter.com/chris_mcmahon"
+  }
 ]
