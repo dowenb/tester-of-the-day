@@ -1,5 +1,11 @@
 [
   {
+    "name": "Clare Norman",
+    "date": "13/10/2020",
+    "note": "Self described 'Colourful tester' Claire shares her knowledge of testing visually through fantastic colourful Sketchnotes. Claire is also a great supporter of others and shares some great content from the Testing Community!",
+    "twitter": "https://twitter.com/ClareCatherine6"
+  },
+  {
     "name": "Sergio Freire",
     "date": "12/10/2020",
     "note": "Sergio's excellent content includes an introduction to Model based testing. He recently ported a MBT example from Java to Python. Sergio offers great insight into a number of other topics on his blog at https://www.sergiofreire.com/.",
