@@ -1,5 +1,11 @@
 [
   {
+    "name": "Mark Lilley",
+    "date": "17/10/2020",
+    "note": "Mark made me laugh after a long week with his pun-tastic performence testing jokes. With blogs on testing topics such as JMeter with Redis, mark clearly knows how to perform under stress along with handling his work load.",
+    "twitter": "https://twitter.com/MartkosIT"
+  },
+  {
     "name": "Tomislav Delalic",
     "date": "16/10/2020",
     "note": "Nominated Antonella, who has learned a lot from Tomisval and I considers him to been a great influence to a lot of testers.",
