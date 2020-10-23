@@ -1,5 +1,11 @@
 [
   {
+    "name": "Ady Stokes",
+    "date": "23/10/2020",
+    "note": "Nominated by Simon: 'for his amazing knowledge and passion for accessibility testing, his talk at Test Bash Manchester was immense and really helped me learn more around #a11y'",
+    "twitter": "https://twitter.com/CricketRulz"
+  },
+  {
     "name": "Giridhar Rajkumar",
     "date": "22/10/2020",
     "note": "Nominated by Julia who says: 'Not only is he an amazing individual that made my very first podcast experience fun and interesting but he really gives back to the community through his course on Test Automation University (https://testautomationu.applitools.com/cucumber-java-tutorial/) as well as his testing paradise podcast. https://learndevtestops.com/podcasts/'",
