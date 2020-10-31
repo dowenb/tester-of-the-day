@@ -1,10 +1,12 @@
 <template>
   <div class="hall">
-    <img
-      class="logo"
-      src="../assets/totd_hall_banner.svg"
-      alt="Tester of the day hall of fame"
-    />
+    <a href="https://tester-of-the-day.netlify.app"
+      ><img
+        class="logo"
+        src="../assets/totd_hall_banner.svg"
+        alt="Tester of the day hall of fame"
+      />
+    </a>
     <p>Tester of the day is recognition of awesomeness in Software Testing.</p>
     <p>
       The competition is run by Benjamin Dowen, The Full Snack Test Engineer. It
@@ -17,7 +19,12 @@
       <a href="https://twitter.com/dowenb">@dowenb</a>
     </p>
     <br />
-      <input type="text" class="search" v-model="search" placeholder="Find winner by name" />
+    <input
+      type="text"
+      class="search"
+      v-model="search"
+      placeholder="Find winner by name"
+    />
     <div class="winner" v-for="winner in filteredWinners" :key="winner.name">
       <ul>
         <li class="name">
