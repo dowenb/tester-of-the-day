@@ -1,28 +1,34 @@
 [
-   {
-      "name": "Amber Race",
-      "date": "06/11/2020",
-      "note": "Amber is an outright legend in the Testing Community. Her course 'Exploring Service APIs through Test Automation' on TAU is THE goto recourse for anyone learning API Testing. In the course she delivers excellent technical in an accessible and tester focused way that is simply excellent.",
-      "twitter": "https://twitter.com/ambertests"
-   },
-   {
+  {
+    "name": "Alex Schladebeck",
+    "date": "07/11/2020",
+    "note": "With two nominations Alex is 'A passionate speaker, sharing her passion for exploratory testing, reminding us of the importance of self-care' and 'outstanding example of a tester and person that we should all strive to be!'",
+    "twitter": "https://twitter.com/alex_schl"
+  },
+  {
+    "name": "Amber Race",
+    "date": "06/11/2020",
+    "note": "Amber is an outright legend in the Testing Community. Her course 'Exploring Service APIs through Test Automation' on TAU is THE goto recourse for anyone learning API Testing. In the course she delivers excellent technical in an accessible and tester focused way that is simply excellent.",
+    "twitter": "https://twitter.com/ambertests"
+  },
+  {
     "name": "Irja Straus",
     "date": "05/11/2020",
     "note": "Nominated by Arlene Andrews: 'Irja has always been a supportive person, and her talk https://youtu.be/q5K-iUFg-kA?t=1417 has shown how much of a superstar this one is!'",
     "twitter": "https://twitter.com/irjastraus"
-  }, 
-   {
+  },
+  {
     "name": "Theresa Neate",
     "date": "04/11/2020",
     "note": "Nominated by Thomas: 'I recently saw her talk at #TestBash Australia 2019 online and it helped me to shape a better understanding of devops.'",
     "twitter": "https://twitter.com/TheresaNeate"
-  }, 
-   {
+  },
+  {
     "name": "Samuel Nitsche",
     "date": "03/11/2020",
     "note": "Samuel is smashing it responding to the Ministary of Testing regular Twitter Questions, recently providing great insight RE: vocabulary and terminology",
     "twitter": "https://twitter.com/Der_Pesse"
-  }, 
+  },
   {
     "name": "Lisa Crispin",
     "date": "02/11/2020",
@@ -130,7 +136,8 @@
     "date": "16/10/2020",
     "note": "Nominated Antonella, who has learned a lot from Tomisval and I considers him to been a great influence to a lot of testers.",
     "twitter": "https://twitter.com/TDelalic"
-  },{
+  },
+  {
     "name": "Hanna Dernbrant",
     "date": "15/10/2020",
     "note": "Nominated by Chris, who says 'A Quality Catalyst hitting the speaking circuit this year talking about her journey from waterfall to DevOps'",
