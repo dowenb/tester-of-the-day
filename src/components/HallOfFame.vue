@@ -1,6 +1,6 @@
 <template>
   <div class="hall">
-    <a href="https://tester-of-the-day.netlify.app"
+    <a href="https://testeroftheday.fullsnacktester.com/"
       ><img
         class="logo"
         src="../assets/totd_hall_banner.svg"
