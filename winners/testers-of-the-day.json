@@ -1,5 +1,11 @@
 [
   {
+    "name": "Sebastian",
+    "date": "09/11/2020",
+    "note": "Sebastian is smashing it responding to MoT questions in Twitter. With excellent insights into what Selenium and Appium is, and isn't.",
+    "twitter": "https://twitter.com/SebiSolidwork"
+  },
+  {
     "name": "Neil Studd",
     "date": "08/11/2020",
     "note": "Nominated by Thomas Rinke for: 'creating @TestersIsland and now being the host of my favorite podcast again. Neil's passion as host is amazing and the way this podcast combines thoughts on various areas of testing with getting to know people of the testing community is wonderful.'",
