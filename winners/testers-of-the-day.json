@@ -1,5 +1,11 @@
 [
   {
+    "name": "Andy Bailey",
+    "date": "11/11/2020",
+    "note": "Andy has been sharing some great articles from around the software industry. Recently he shared a Browser Stack article about Device Fragmentation, a very important topic in software testing.",
+    "twitter": "https://twitter.com/andygbailey"
+  },
+  {
     "name": "Arslan Ali",
     "date": "10/11/2020",
     "note": "Arslan is part of no less then 3 seperate sprints this week, and still found time to engadge with the #TestingCommunity.",
