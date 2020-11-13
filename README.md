@@ -39,25 +39,21 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ## Twitter Template
 
 ```Text
-
 Congratulations <TwitterHandle> today's #TesterOfTheDay!
 
 Nominated by <name>: '<qoute>'
 
 Hall of Fame:
 https://testeroftheday.fullsnacktester.com
-
 ```
 
 ## Winner JSON template
 
 ```Text
-
 {
   "name": "",
   "date": "DD/MM/YYY",
   "note": "",
   "twitter": "https://twitter.com/<TwitterHandle>"
 },
-
 ```
