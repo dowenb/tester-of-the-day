@@ -16,7 +16,7 @@
     <p>
       To Nominate someone please contact Ben on
       <img src="../assets/twitter.svg" class="icon" alt="Twitter logo" />
-      <a href="https://twitter.com/dowenb">@dowenb</a>
+      <a href="https://twitter.com/fullsnacktester">@FullSnackTester</a>
     </p>
     <br />
     <input
@@ -49,7 +49,7 @@
       found in various places on the internet, start here:
       <a href="https://linktr.ee/dowenb">https://linktr.ee/dowenb</a>
     </p>
-    <a href="https://twitter.com/dowenb">
+    <a href="https://twitter.com/fullsnacktester">
       <img
         src="../assets/fullsnack.jpg"
         class="fullSnack"
