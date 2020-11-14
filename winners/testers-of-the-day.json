@@ -1,11 +1,17 @@
 [
-   {
+  {
+    "name": "Andrei Contan",
+    "date": "14/11/2020",
+    "note": "Nominated by Tobias Geyer: 'for supporting knowledge exchange in the testing community. He's co-organizing a very well run conference (@RomaniaTesting), shares his knowledge in various talks which also get very personal and he's making people realize that doing exercise while testing is possible with his XTestathon concept.'",
+    "twitter": "https://twitter.com/andreicontan"
+  },
+  {
     "name": "Tobias Geyer",
     "date": "13/11/2020",
     "note": "Nominated by Thomas Rinke: 'for delivering a talk on 'Ethics and Software Development', always helping and supporting the testing community, and today helping me to reflect on a talk'",
     "twitter": "https://twitter.com/the_qa_guy"
   },
-   {
+  {
     "name": "Sophie",
     "date": "12/11/2020",
     "note": "Nominated by Thomas Rinke: 'for delivering a courageous talk about mental health at #AgileTD. Thank you for sharing your story and raising awareness.'",
