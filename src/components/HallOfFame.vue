@@ -25,7 +25,7 @@
       v-model="search"
       placeholder="Find winner by name"
     />
-    <div class="winner" v-for="winner in filteredWinners" :key="winner.name">
+    <div class="winner" v-for="winner in filteredWinners" :key="winner.date">
       <ul>
         <li class="name">
           <h2>{{ winner.name }}</h2>
