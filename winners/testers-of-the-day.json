@@ -1,5 +1,11 @@
 [
   {
+    "name": "Lee Marshall",
+    "date": "19/11/2020",
+    "note": "Nominated by Michael: 'Lee shares his views on all things testing and also shares his non testing focused experiences with money, investments etc'" ,
+    "twitter": "https://twitter.com/ThePirateTester"
+  },
+  {
     "name": "Beth Marshall",
     "date": "18/11/2020",
     "note": "Nominated by Marie Drake: 'Beth has just completed her test automation portfolio and she is such an inspiration for anyone wanting to learn more about test automation. She will also speak at a future Postman conference!'",
