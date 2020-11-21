@@ -28,7 +28,7 @@ Hall of Fame:
 https://testeroftheday.fullsnacktester.com
 ```
 
-### Example
+### Example Tweet
 
 ```Text
 Congratulations @QAgile_stu today's #TesterOfTheDay!
@@ -47,5 +47,16 @@ https://testeroftheday.fullsnacktester.com
   "date": "DD/MM/YYY",
   "note": "",
   "twitter": "https://twitter.com/<TwitterHandle>"
+},
+```
+
+### Example JSON
+
+```Text
+{
+  "name": "Stu Day",
+  "date": "21/11/2020",
+  "note": "Nominated by Dan Billing: 'for his fantastic efforts with his talks linking Agile and testing. We had him at NottsTest this month - excellent test leader!'",
+  "twitter": "https://twitter.com/QAgile_Stu"
 },
 ```
