@@ -33,7 +33,7 @@ https://testeroftheday.fullsnacktester.com
 ```Text
 Congratulations @QAgile_stu today's #TesterOfTheDay!
 
-Nominated by @TheTestDoctor: 'for his fantastic efforts with his talks linking Agile and testing. We had him at #NottsTest this month - excellent test leader!'
+Nominated by @rutty_uk: 'for his fantastic efforts with his talks linking Agile and testing. We had him at #NottsTest this month - excellent test leader!'
 
 Hall of Fame:
 https://testeroftheday.fullsnacktester.com
@@ -56,7 +56,7 @@ https://testeroftheday.fullsnacktester.com
 {
   "name": "Stu Day",
   "date": "21/11/2020",
-  "note": "Nominated by Dan Billing: 'for his fantastic efforts with his talks linking Agile and testing. We had him at NottsTest this month - excellent test leader!'",
+  "note": "Nominated by Dave Rutt: 'for his fantastic efforts with his talks linking Agile and testing. We had him at NottsTest this month - excellent test leader!'",
   "twitter": "https://twitter.com/QAgile_Stu"
 },
 ```
