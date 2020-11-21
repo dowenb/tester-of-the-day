@@ -1,5 +1,11 @@
 [
   {
+    "name": "Stu Day",
+    "date": "21/11/2020",
+    "note": "Nominated by Dan Billing: 'for his fantastic efforts with his talks linking Agile and testing. We had him at NottsTest this month - excellent test leader!'",
+    "twitter": "https://twitter.com/QAgile_Stu"
+  },
+  {
     "name": "Shane Carroll",
     "date": "20/11/2020",
     "note": "Shane absolutely crushed his recent talk at Agile Testing Days - Sharing all his awesome Postman knowledge with more people in the wider community.",
@@ -8,7 +14,7 @@
   {
     "name": "Lee Marshall",
     "date": "19/11/2020",
-    "note": "Nominated by Michael: 'Lee shares his views on all things testing and also shares his non testing focused experiences with money, investments etc'" ,
+    "note": "Nominated by Michael: 'Lee shares his views on all things testing and also shares his non testing focused experiences with money, investments etc'",
     "twitter": "https://twitter.com/ThePirateTester"
   },
   {

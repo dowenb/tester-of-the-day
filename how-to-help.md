@@ -28,6 +28,17 @@ Hall of Fame:
 https://testeroftheday.fullsnacktester.com
 ```
 
+### Example
+
+```Text
+Congratulations @QAgile_stu today's #TesterOfTheDay!
+
+Nominated by @TheTestDoctor: 'for his fantastic efforts with his talks linking Agile and testing. We had him at #NottsTest this month - excellent test leader!'
+
+Hall of Fame:
+https://testeroftheday.fullsnacktester.com
+```
+
 ## Winner JSON template
 
 ```Text
