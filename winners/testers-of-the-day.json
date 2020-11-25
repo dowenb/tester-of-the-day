@@ -1,5 +1,11 @@
 [
   {
+    "name": "Parveen Khan",
+    "date": "25/11/2020",
+    "note": "Nominated by Simon: 'Parveen's testing tour has been inspirational and really proves that you can learn new things if you want to. She's a great asset to the testing and wider software communities'",
+    "twitter": "https://twitter.com/Parveen_Khan10"
+  },
+  {
     "name": "Oliver Jumpertz",
     "date": "24/11/2020",
     "note": "Oliver recently share an hilarious analogy comparing not testing software to 'getting in your car, disabling the airbag, not wearing a seatbelt and hoping for the best while driving into crazy traffic on the highway!'. Be like Oliver, remember your seatbelt, test early, test often!",
