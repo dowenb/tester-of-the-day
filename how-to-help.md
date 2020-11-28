@@ -41,12 +41,15 @@ https://testeroftheday.fullsnacktester.com
 
 ## Winner JSON template
 
+Note: twitter and linkedin are now both optional. You can have one, both or neither.
+
 ```Text
 {
   "name": "",
   "date": "DD/MM/YYY",
   "note": "",
-  "twitter": "https://twitter.com/<TwitterHandle>"
+  "twitter": "https://twitter.com/<TwitterHandle>",
+  "linkedin": "https://www.linkedin.com/in/<UserName>"
 },
 ```
 

@@ -36,24 +36,6 @@ npm run lint
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-## Twitter Template
+## How to help
 
-```Text
-Congratulations <TwitterHandle> today's #TesterOfTheDay!
-
-Nominated by <name>: '<qoute>'
-
-Hall of Fame:
-https://testeroftheday.fullsnacktester.com
-```
-
-## Winner JSON template
-
-```Text
-{
-  "name": "",
-  "date": "DD/MM/YYY",
-  "note": "",
-  "twitter": "https://twitter.com/<TwitterHandle>"
-},
-```
+I am always looking for nominations and other support. If you want to join in check out [how-to-help.md](how-to-help.md).
