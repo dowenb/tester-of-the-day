@@ -37,9 +37,13 @@
           />{{ winner.date }}
         </li>
         <li class="note">{{ winner.note }}</li>
-        <li class="twitter">
+        <li class="twitter" v-if="winner.twitter">
           <img src="../assets/twitter.svg" class="icon" alt="Twitter logo" />
           <a :href="winner.twitter">{{ winner.twitter }}</a>
+        </li>
+        <li class="linkedin" v-if="winner.linkedin">
+          <img src="../assets/linkedin.svg" class="icon" alt="Twitter logo" />
+          <a :href="winner.linkedin">{{ winner.linkedin }}</a>
         </li>
       </ul>
     </div>
@@ -149,5 +153,8 @@ img {
   width: 95%;
   display: block;
   font-size: 1.6em;
+}
+.linkedin {
+  fill: yellow;
 }
 </style>
