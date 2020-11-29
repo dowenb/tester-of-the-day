@@ -63,3 +63,49 @@ Note: twitter and linkedin are now both optional. You can have one, both or neit
   "twitter": "https://twitter.com/QAgile_Stu"
 },
 ```
+
+## Contributors
+
+A massive thank you to my group of volunteers who support Tester of The Day!
+
+Each volunteer is responsible for selecting the winner one day a week.
+
+See an opening and want to join in? DM me on Twitter [@FulSnackTester](https://twitter.com/FullSnackTester) or e-mail ben@dowen.me.uk
+
+### Monday
+
+Joe Paul
+
+Twitter: [@QAJOEPAUL](https://twitter.com/QAJOEPAUL)
+
+### Tuesday
+
+Open
+
+### Wednesday
+
+Simon Prior
+
+Twitter: [@siprior](https://twitter.com/siprior)
+
+### Thursday
+
+Michael
+
+Twitter: [@LangCheshire](https://twitter.com/LangCheshire)
+
+### Friday
+
+Danny Dainton
+
+Twitter: [@DannyDainton](https://twitter.com/DannyDainton)
+
+### Saturday
+
+Dan Billing
+
+Twitter: [@TheTestDoctor](https://twitter.com/TheTestDoctor)
+
+### Sunday
+
+Open
