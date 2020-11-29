@@ -74,7 +74,8 @@
     "date": "18/11/2020",
     "note": "Nominated by Marie Drake: 'Beth has just completed her test automation portfolio and she is such an inspiration for anyone wanting to learn more about test automation. She will also speak at a future Postman conference!'",
     "twitter": "https://twitter.com/Beth_AskHer",
-    "linkedin": "https://www.linkedin.com/in/beth-marshall"
+    "linkedin": "https://www.linkedin.com/in/beth-marshall",
+    "weblinks": [{"name":"Beth The Tester's Tales", "url":"https://beththetester.com"}]
   },
   {
     "name": "Richard Bradshaw",
@@ -612,7 +613,9 @@
     "date": "21/08/2020",
     "note": "Beth has shown a passion for testing with great online talks. Beth is always happy to review and give feedback on ideas.",
     "twitter": "https://twitter.com/@Beth_AskHer",
-    "linkedin": "https://www.linkedin.com/in/beth-marshall"
+    "linkedin": "https://www.linkedin.com/in/beth-marshall",
+    "weblinks": [{"name":"Beth The Tester's Tales", "url":"https://beththetester.com"}]
+
   },
   {
     "name": "Maaike Brinkhof",

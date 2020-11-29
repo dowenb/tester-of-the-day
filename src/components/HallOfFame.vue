@@ -25,7 +25,7 @@
       v-model="search"
       placeholder="Find winner by name"
     />
-    <div class="winner" v-for="winner in filteredWinners" :key="winner.date">
+    <div class="winner" v-for="winner in filteredWinners" v-bind:key="winner.date">
       <ul>
         <li class="name">
           <h2>{{ winner.name }}</h2>
@@ -39,11 +39,15 @@
         <li class="note">{{ winner.note }}</li>
         <li class="twitter" v-if="winner.twitter">
           <img src="../assets/twitter.svg" class="icon" alt="Twitter logo" />
-          <a :href="winner.twitter">{{ winner.twitter }}</a>
+          <a :href="winner.twitter" target="_blank">{{ winner.twitter }}</a>
         </li>
         <li class="linkedin" v-if="winner.linkedin">
-          <img src="../assets/linkedin.svg" class="icon" alt="Twitter logo" />
-          <a :href="winner.linkedin">{{ winner.linkedin }}</a>
+          <img src="../assets/linkedin.svg" class="icon" alt="Linkedin logo" />
+          <a :href="winner.linkedin" target="_blank">{{ winner.linkedin }}</a>
+        </li>
+        <li class="weblinks" v-for="weblink in winner.weblinks" :key="weblink.name">
+          <img src="../assets/web.svg" class="icon" alt="Web link logo" />
+          <a :href="weblink.url" target="_blank">{{ weblink.name }}</a>
         </li>
       </ul>
     </div>

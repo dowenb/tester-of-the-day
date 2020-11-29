@@ -49,7 +49,9 @@ Note: twitter and linkedin are now both optional. You can have one, both or neit
   "date": "DD/MM/YYY",
   "note": "",
   "twitter": "https://twitter.com/<TwitterHandle>",
-  "linkedin": "https://www.linkedin.com/in/<UserName>"
+  "linkedin": "https://www.linkedin.com/in/<UserName>",
+  "weblinks": [{"name": "Example Link","url":"http://example.com"},{"name": "Example Link","url":"http://example.com"}]
+
 },
 ```
 
