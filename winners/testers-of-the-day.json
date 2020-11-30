@@ -135,7 +135,7 @@
     "date": "09/11/2020",
     "note": "Sebastian is smashing it responding to MoT questions in Twitter. With excellent insights into what Selenium and Appium is, and isn't.",
     "twitter": "https://twitter.com/SebiSolidwork",
-    "weblink": [{"name":"https://twitter.com/ministryoftest/status/1325742930338963456?s=19", "url":"https://twitter.com/ministryoftest/status/1325742930338963456?s=19"}]
+    "weblinks": [{"name":"https://twitter.com/ministryoftest/status/1325742930338963456?s=19", "url":"https://twitter.com/ministryoftest/status/1325742930338963456?s=19"}]
   },
   {
     "name": "Neil Studd",
@@ -641,7 +641,7 @@
     "note": "Marie's excellent article on Debunking Accessibility Testing Myths covered on The Club by none other then Heather Reid and Tweeted out today by the Ministry of Testing. Well done Marie!",
     "twitter": "https://twitter.com/mcruzdrake",
     "linkedin": "https://uk.linkedin.com/in/marie-drake",
-    "weblink": [{"name":"https://www.mariedrake.com","url":"https://www.mariedrake.com"}]
+    "weblinks": [{"name":"https://www.mariedrake.com","url":"https://www.mariedrake.com"}]
   },
   {
     "name": "Chris McMahon",
