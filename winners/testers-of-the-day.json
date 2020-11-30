@@ -1,6 +1,11 @@
 
 [
   {
+    "name": "Nagesh",
+    "date": "30/11/2020",
+    "note": "Nominated by Armate: 'for his tremendous work towards testing practice and commendable help to communities. he shares his knowledge in various talks and arrange many community testing events. Kudos to him.'",
+    "twitter": "https://twitter.com/deshpandeji"
+  },{
     "name": "Sajith Varma",
     "date": "29/11/2020",
     "note": "Nominated by Stu: 'Sajith is a manual tester who has learned enough code to automate his tests which are now in our codebase! Sajith is positive, proactive and an inspiring friend and colleague, I love working with him!'",
@@ -129,7 +134,8 @@
     "name": "Sebastian",
     "date": "09/11/2020",
     "note": "Sebastian is smashing it responding to MoT questions in Twitter. With excellent insights into what Selenium and Appium is, and isn't.",
-    "twitter": "https://twitter.com/SebiSolidwork"
+    "twitter": "https://twitter.com/SebiSolidwork",
+    "weblink": "https://twitter.com/ministryoftest/status/1325742930338963456?s=19"
   },
   {
     "name": "Neil Studd",
@@ -633,7 +639,9 @@
     "name": "Marie Drake",
     "date": "18/08/2020",
     "note": "Marie's excellent article on Debunking Accessibility Testing Myths covered on The Club by none other then Heather Reid and Tweeted out today by the Ministry of Testing. Well done Marie!",
-    "twitter": "https://twitter.com/mcruzdrake"
+    "twitter": "https://twitter.com/mcruzdrake",
+    "linkedin": "https://uk.linkedin.com/in/marie-drake",
+    "weblink": "https://www.mariedrake.com"
   },
   {
     "name": "Chris McMahon",
