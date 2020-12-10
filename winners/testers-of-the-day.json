@@ -1,12 +1,20 @@
 
 [
   {
+    "name": "Chris Armstrong",
+    "date": "10/12/2020",
+    "note": "Nominated by Michael: 'Chris is a big part of the testing community and has the most awesome Christmas tree office setup seen!'",
+    "twitter": "https://twitter.com/christovskia",
+    "linkedin": "https://www.linkedin.com/in/christovskia"
+  },
+  {
     "name": "Melissa Fisher",
     "date": "09/12/2020",
     "note": "Melissa gave an awesome talk at the internal EasyJet Test Guild last week, has really made a lot of the product teams think differently about usability and how we can test it",
     "twitter": "https://twitter.com/fishoutthebox",
     "linkedin": "https://linkedin.com/in/melissa-fisher-979500197"
-  },{
+  },
+  {
     "name": "Joe Paul",
     "date": "08/12/2020",
     "note": "Joe is an excellent cheerleader for the Testing Community. One of our excellent Tester of The Day Volenteers helping find great testers every week. Thank you Joe!",
