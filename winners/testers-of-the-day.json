@@ -5,7 +5,11 @@
     "date": "10/12/2020",
     "note": "Nominated by Michael: 'Chris is a big part of the testing community and has the most awesome Christmas tree office setup seen!'",
     "twitter": "https://twitter.com/christovskia",
-    "linkedin": "https://www.linkedin.com/in/christovskia"
+    "linkedin": "https://www.linkedin.com/in/christovskia",
+    "weblinks": [
+      {"name":"Chris Armstrong – Posting about Testing, Agility, Leadership, Mental Health, Quality Practices and More", "url":"https://christovskia.blog"},
+      {"name":"Testing Peers", "url":"https://testingpeers.com"}
+    ]
   },
   {
     "name": "Melissa Fisher",
@@ -560,7 +564,11 @@
     "date": "11/09/2020",
     "note": "Podcaster, one of the Testing Peers and runs his own blog. Chris is a cheerleader for the Test Community. He has also been a huge supporter of Tester of The Day. Thank you Chris!",
     "twitter": "https://twitter.com/christovskia",
-    "linkedin": "https://www.linkedin.com/in/christovskia"
+    "linkedin": "https://www.linkedin.com/in/christovskia",
+    "weblinks": [
+      {"name":"Chris Armstrong – Posting about Testing, Agility, Leadership, Mental Health, Quality Practices and More", "url":"https://christovskia.blog"},
+      {"name":"Testing Peers", "url":"https://testingpeers.com"}
+    ]
   },
   {
     "name": "Ard Kramer",
