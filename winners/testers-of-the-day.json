@@ -1,10 +1,15 @@
-
-[ 
+[
+  {
+    "name": "Crystal Preston-Watson",
+    "date": "12/12/2020",
+    "note": "Nominated for her work in accessibility and all her positive vibes in talks she gives, and she gives a lot.",
+    "twitter": "https://twitter.com/ScopicEngineer"
+  },
   {
     "name": "Abby Bangser",
     "date": "11/12/2020",
     "note": "Nominated by Danny Dainton: 'Abby is a superstar! A truly awesome SRE that continues to share her knowledge and experience with the testing community!!'",
-    "twitter": "https://twitter.com/a_bangser", 
+    "twitter": "https://twitter.com/a_bangser",
     "linkedin": "https://linkedin.com/in/abbybangser"
   },
   {
@@ -14,8 +19,14 @@
     "twitter": "https://twitter.com/christovskia",
     "linkedin": "https://www.linkedin.com/in/christovskia",
     "weblinks": [
-      {"name":"Chris Armstrong – Posting about Testing, Agility, Leadership, Mental Health, Quality Practices and More", "url":"https://christovskia.blog"},
-      {"name":"Testing Peers", "url":"https://testingpeers.com"}
+      {
+        "name": "Chris Armstrong – Posting about Testing, Agility, Leadership, Mental Health, Quality Practices and More",
+        "url": "https://christovskia.blog"
+      },
+      {
+        "name": "Testing Peers",
+        "url": "https://testingpeers.com"
+      }
     ]
   },
   {
@@ -37,7 +48,16 @@
     "note": "Nominated by Sanjay Kumar: 'A tutor who made many careers by his extra ordinary teaching skills, working really hard for community and making sure to share his best knowledge!!'",
     "twitter": "https://twitter.com/naveenkhunteta",
     "linkedin": "https://www.linkedin.com/in/naveenkhunteta",
-    "weblinks": [{"name":"Naveen AutomationLabs (Website)", "url":"https://naveenautomationlabs.com"},{"name":"Naveen AutomationLabs (YouTube)", "url":"https://www.youtube.com/c/NaveenAutomationLabs"}]
+    "weblinks": [
+      {
+        "name": "Naveen AutomationLabs (Website)",
+        "url": "https://naveenautomationlabs.com"
+      },
+      {
+        "name": "Naveen AutomationLabs (YouTube)",
+        "url": "https://www.youtube.com/c/NaveenAutomationLabs"
+      }
+    ]
   },
   {
     "name": "Michael",
@@ -49,21 +69,31 @@
     "name": "Noemi Ferrera",
     "date": "05/12/2020",
     "note": "Recently interviewed by the excellent Sneha Viswalingam for 'Code her Stories' Noemi provides insight into interview prep for a SDET role.",
-    "twitter": "https://twitter.com/TheTestLynx", 
-    "weblinks": [ { "name": "SDET Interview Preparation with Noemi Ferrera", "url": "https://www.youtube.com/watch?v=5mexfpZtpXg" } ] 
+    "twitter": "https://twitter.com/TheTestLynx",
+    "weblinks": [
+      {
+        "name": "SDET Interview Preparation with Noemi Ferrera",
+        "url": "https://www.youtube.com/watch?v=5mexfpZtpXg"
+      }
+    ]
   },
   {
     "name": "Kristin Jackvony",
     "date": "04/12/2020",
     "note": "Kristin's dedication to producing well written, super informative blog posts each week, on a wide range of tech topics is so awesome!!",
-    "twitter": "https://twitter.com/kristinjackvony", 
-    "linkedin": "https://linkedin.com/in/kristinjackvony", 
-    "weblinks": [ { "name": "Thinking Tester", "url": "https://thinkingtester.com" } ] 
+    "twitter": "https://twitter.com/kristinjackvony",
+    "linkedin": "https://linkedin.com/in/kristinjackvony",
+    "weblinks": [
+      {
+        "name": "Thinking Tester",
+        "url": "https://thinkingtester.com"
+      }
+    ]
   },
   {
     "name": "Heather Reid",
     "date": "03/12/2020",
-    "note": "Nominated by Michael: 'Heather is a part of the testing community through the Ministry of Testing and paying things forward via giving away tickets to the Ministry of Testing Holiday Bash A great way to pay it forward, the testing way!'" ,
+    "note": "Nominated by Michael: 'Heather is a part of the testing community through the Ministry of Testing and paying things forward via giving away tickets to the Ministry of Testing Holiday Bash A great way to pay it forward, the testing way!'",
     "twitter": "https://twitter.com/heather_reiduff"
   },
   {
@@ -84,7 +114,8 @@
     "date": "30/11/2020",
     "note": "Nominated by Armate: 'for his tremendous work towards testing practice and commendable help to communities. he shares his knowledge in various talks and arrange many community testing events. Kudos to him.'",
     "twitter": "https://twitter.com/deshpandeji"
-  },{
+  },
+  {
     "name": "Sajith Varma",
     "date": "29/11/2020",
     "note": "Nominated by Stu: 'Sajith is a manual tester who has learned enough code to automate his tests which are now in our codebase! Sajith is positive, proactive and an inspiring friend and colleague, I love working with him!'",
@@ -159,7 +190,12 @@
     "note": "Nominated by Marie Drake: 'Beth has just completed her test automation portfolio and she is such an inspiration for anyone wanting to learn more about test automation. She will also speak at a future Postman conference!'",
     "twitter": "https://twitter.com/Beth_AskHer",
     "linkedin": "https://www.linkedin.com/in/beth-marshall",
-    "weblinks": [{"name":"Beth The Tester's Tales", "url":"https://beththetester.com"}]
+    "weblinks": [
+      {
+        "name": "Beth The Tester's Tales",
+        "url": "https://beththetester.com"
+      }
+    ]
   },
   {
     "name": "Richard Bradshaw",
@@ -214,7 +250,12 @@
     "date": "09/11/2020",
     "note": "Sebastian is smashing it responding to MoT questions in Twitter. With excellent insights into what Selenium and Appium is, and isn't.",
     "twitter": "https://twitter.com/SebiSolidwork",
-    "weblinks": [{"name":"https://twitter.com/ministryoftest/status/1325742930338963456?s=19", "url":"https://twitter.com/ministryoftest/status/1325742930338963456?s=19"}]
+    "weblinks": [
+      {
+        "name": "https://twitter.com/ministryoftest/status/1325742930338963456?s=19",
+        "url": "https://twitter.com/ministryoftest/status/1325742930338963456?s=19"
+      }
+    ]
   },
   {
     "name": "Neil Studd",
@@ -573,8 +614,14 @@
     "twitter": "https://twitter.com/christovskia",
     "linkedin": "https://www.linkedin.com/in/christovskia",
     "weblinks": [
-      {"name":"Chris Armstrong – Posting about Testing, Agility, Leadership, Mental Health, Quality Practices and More", "url":"https://christovskia.blog"},
-      {"name":"Testing Peers", "url":"https://testingpeers.com"}
+      {
+        "name": "Chris Armstrong – Posting about Testing, Agility, Leadership, Mental Health, Quality Practices and More",
+        "url": "https://christovskia.blog"
+      },
+      {
+        "name": "Testing Peers",
+        "url": "https://testingpeers.com"
+      }
     ]
   },
   {
@@ -703,8 +750,12 @@
     "note": "Beth has shown a passion for testing with great online talks. Beth is always happy to review and give feedback on ideas.",
     "twitter": "https://twitter.com/@Beth_AskHer",
     "linkedin": "https://www.linkedin.com/in/beth-marshall",
-    "weblinks": [{"name":"Beth The Tester's Tales", "url":"https://beththetester.com"}]
-
+    "weblinks": [
+      {
+        "name": "Beth The Tester's Tales",
+        "url": "https://beththetester.com"
+      }
+    ]
   },
   {
     "name": "Maaike Brinkhof",
@@ -724,7 +775,12 @@
     "note": "Marie's excellent article on Debunking Accessibility Testing Myths covered on The Club by none other then Heather Reid and Tweeted out today by the Ministry of Testing. Well done Marie!",
     "twitter": "https://twitter.com/mcruzdrake",
     "linkedin": "https://uk.linkedin.com/in/marie-drake",
-    "weblinks": [{"name":"https://www.mariedrake.com","url":"https://www.mariedrake.com"}]
+    "weblinks": [
+      {
+        "name": "https://www.mariedrake.com",
+        "url": "https://www.mariedrake.com"
+      }
+    ]
   },
   {
     "name": "Chris McMahon",
