@@ -1,5 +1,12 @@
 [
   {
+    "name": "Mark Plettenberg",
+    "date": "14/12/2020",
+    "note": "Nominated by Frans Wauters: 'Mark runs a lab and is very active in (and knowledgeable about) loadtesting vdi environments, besides taking everything apart that he can get his hands on. He publishes a lot of blogs about his tests, probably to be found on the site of http://loginvsi.com, where he pretends to be the product manager.'",
+    "twitter": "https://twitter.com/MarkPlettenberg",
+    "weblinks": [{"name": "Login VSI","url":"https://www.loginvsi.com"}]
+  },
+  {
     "name": "Rex Jones II",
     "date": "13/12/2020",
     "note": "Nominated by Sanjay Kumar: 'A community himself, words are less to define him. A man who redefined the manual testing and made millions of people to understand the value of Testing!!'",
