@@ -1,18 +1,35 @@
 [
   {
+    "name": "Alapan Das",
+    "date": "16/12/2020",
+    "note": "He helped me improve my CV. Guided me for sponsorship jobs in Europe and answers my stupid questions. He moved to Europe last year and has been a source of inspiration",
+    "twitter": "https://twitter.com/alapanme",
+    "linkedin": "https://linkedin.com/in/alapandas"
+  },
+  {
     "name": "Dan Billing",
     "date": "15/12/2020",
     "note": "Nominated by Louise Gibbs: 'for the support and encouragement he gives to new speakers - at the pre-test bash Manchester meetup he gave a talk where he offered to help speakers develop a new talk.'",
     "twitter": "https://twitter.com/TheTestDoctor",
     "linkedin": "https://www.linkedin.com/in/danielbilling",
-    "weblinks": [{"name": "The Test Doctor","url":"https://thetestdoctor.co.uk/"}]
+    "weblinks": [
+      {
+        "name": "The Test Doctor",
+        "url": "https://thetestdoctor.co.uk/"
+      }
+    ]
   },
   {
     "name": "Mark Plettenberg",
     "date": "14/12/2020",
     "note": "Nominated by Frans Wauters: 'Mark runs a lab and is very active in (and knowledgeable about) loadtesting vdi environments, besides taking everything apart that he can get his hands on. He publishes a lot of blogs about his tests, probably to be found on the site of http://loginvsi.com, where he pretends to be the product manager.'",
     "twitter": "https://twitter.com/MarkPlettenberg",
-    "weblinks": [{"name": "Login VSI","url":"https://www.loginvsi.com"}]
+    "weblinks": [
+      {
+        "name": "Login VSI",
+        "url": "https://www.loginvsi.com"
+      }
+    ]
   },
   {
     "name": "Rex Jones II",
