@@ -4,7 +4,13 @@
     "date": "16/12/2020",
     "note": "He helped me improve my CV. Guided me for sponsorship jobs in Europe and answers my stupid questions. He moved to Europe last year and has been a source of inspiration",
     "twitter": "https://twitter.com/alapanme",
-    "linkedin": "https://linkedin.com/in/alapandas"
+    "linkedin": "https://linkedin.com/in/alapandas",
+    "weblinks": [
+      {
+        "name": "CloseDiv - Lets make development fun",
+        "url": "https://closediv.tech"
+      }
+    ]
   },
   {
     "name": "Dan Billing",
