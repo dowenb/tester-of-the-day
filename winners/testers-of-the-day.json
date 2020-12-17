@@ -1,5 +1,19 @@
 [
   {
+    "name": "Mark Winteringham",
+    "date": "17/12/2020",
+    "note": "Nominated by Michael: 'Mark is big on Automation and knowledge sharing - being the Dojo Boss at the Ministry of Testing. Automation courses, Podcasts, you name it, he's helped set them up!'" ,
+    "twitter": "https://twitter.com/2bittester",
+    "linkedin": "https://www.linkedin.com/in/markwinteringham",
+    "weblinks": [
+      {
+        "name":"Automation in Testing", "url":"https://automationintesting.com",
+        "name":"Twitch: AiT Online", "url":"https://www.twitch.tv/aitonline",
+        "name":"MW Test Consultancy", "url":"https://www.mwtestconsultancy.co.uk"
+      }
+  ]
+  },
+  {
     "name": "Alapan Das",
     "date": "16/12/2020",
     "note": "He helped me improve my CV. Guided me for sponsorship jobs in Europe and answers my stupid questions. He moved to Europe last year and has been a source of inspiration",
