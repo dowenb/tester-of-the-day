@@ -1,17 +1,37 @@
 [
   {
+    "name": "Jit Gosai",
+    "date": "18/12/2020",
+    "note": "I've been a huge fan of Jit's work for a number of years now. Super inspiring person and I'm constantly learning new things from his talks and blog posts",
+    "twitter": "https://twitter.com/JitGo",
+    "linkedin": "https://linkedin.com/in/jiteshgosai",
+    "weblinks": [
+      {
+        "name": "JitGo Blog",
+        "url": "https://www.jitgo.uk/blog"
+      }
+    ]
+  },
+  {
     "name": "Mark Winteringham",
     "date": "17/12/2020",
-    "note": "Nominated by Michael: 'Mark is big on Automation and knowledge sharing - being the Dojo Boss at the Ministry of Testing. Automation courses, Podcasts, you name it, he's helped set them up!'" ,
+    "note": "Nominated by Michael: 'Mark is big on Automation and knowledge sharing - being the Dojo Boss at the Ministry of Testing. Automation courses, Podcasts, you name it, he's helped set them up!'",
     "twitter": "https://twitter.com/2bittester",
     "linkedin": "https://www.linkedin.com/in/markwinteringham",
     "weblinks": [
       {
-        "name":"Automation in Testing", "url":"https://automationintesting.com",
-        "name":"Twitch: AiT Online", "url":"https://www.twitch.tv/aitonline",
-        "name":"MW Test Consultancy", "url":"https://www.mwtestconsultancy.co.uk"
+        "name": "Automation in Testing",
+        "url": "https://automationintesting.com"
+      },
+      {
+        "name": "Twitch: AiT Online",
+        "url": "https://www.twitch.tv/aitonline"
+      },
+      {
+        "name": "MW Test Consultancy",
+        "url": "https://www.mwtestconsultancy.co.uk"
       }
-  ]
+    ]
   },
   {
     "name": "Alapan Das",
