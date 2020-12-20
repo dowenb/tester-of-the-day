@@ -1,5 +1,18 @@
 [
   {
+    "name": "Congratulations Karthik K.K",
+    "date": "20/12/2020",
+    "note": "Nominated by Sanjay Kumar: 'His passion to share knowledge help millions of people to build their career. Karthik is an asset to Testing community. He is great mentor, Leader and Trainer for the testing Community.'",
+    "twitter": "https://twitter.com/StooCrock",
+    "linkedin": "https://www.linkedin.com/in/karthikkk",
+    "weblinks": [
+      {
+        "name": "Execute Automation",
+        "url": "http://www.executeautomation.com"
+      }
+    ]
+  },
+  {
     "name": "Stuart Crocker",
     "date": "19/12/2020",
     "note": "Nominated by Lena Zubyete: for active support, mentoring and encouragement to fellow testers.",
