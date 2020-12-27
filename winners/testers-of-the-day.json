@@ -1,5 +1,22 @@
 [
   {
+    "name": "Venkat Ramakrishnan",
+    "date": "27/12/2020",
+    "note": "Venkat contributes consistently to the Testing Community. He starts conversations, like his recent thread on The Club on BDD. He is very active on Twitter, so make sure to follow him!",
+    "twitter": "https://twitter.com/flyvenkat",
+    "linkedin": "https://www.linkedin.com/in/venkatramakrishnan",
+    "weblinks": [
+      {
+        "name": "BDD thread on The Club",
+        "url": "https://club.ministryoftesting.com/t/challenges-in-bdd-scenarios-coming-up-with-feature-files/45899"
+      },
+      {
+        "name": "Test Musings of Venkat (Blog)",
+        "url": "https://testmusings.wordpress.com"
+      }
+    ]
+  },
+  {
     "name": "David Duke",
     "date": "26/12/2020",
     "note": "Nominated by Beth Marshall: 'For continuing to shine a bright ass spotlight on the actual reality of life as a tester in his brilliant Guilty Tester podcast series.'",
