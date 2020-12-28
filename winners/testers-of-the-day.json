@@ -1,5 +1,18 @@
 [
   {
+    "name": "Callum Akehurst-Ryan",
+    "date": "28/12/2020",
+    "note": "Callum engages with the Software testing Community, promoting diversity and accessability. On Callum's blog you will find topics covering Exploratory Testing, CI/CD and Dungeons and Dragons!",
+    "twitter": "https://twitter.com/CAkehurstRyan",
+    "linkedin": "https://www.linkedin.com/in/cakehurstryan",
+    "weblinks": [
+      {
+        "name": "CALLUM AKEHURST-RYAN'S TESTING BLOG",
+        "url": "https://callumakehurstryansblog.wordpress.com"
+      }
+    ]
+  },
+  {
     "name": "Venkat Ramakrishnan",
     "date": "27/12/2020",
     "note": "Venkat contributes consistently to the Testing Community. He starts conversations, like his recent thread on The Club on BDD. He is very active on Twitter, so make sure to follow him!",
