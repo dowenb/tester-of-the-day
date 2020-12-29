@@ -1,5 +1,17 @@
 [
   {
+    "name": "Many Kasiriha",
+    "date": "29/12/2020",
+    "note": "Many provided an excellent and concise description of test strategy in an agile Context in response to a recent MoT question. He also has strong opinions on the debate on Testing vs Checking in automation.",
+    "twitter": "https://twitter.com/ManyDefects",
+    "weblinks": [
+      {
+        "name": "Re: Test plan vs strategy",
+        "url": "https://twitter.com/ManyDefects/status/1342578796298432514"
+      }
+    ]
+  },
+  {
     "name": "Callum Akehurst-Ryan",
     "date": "28/12/2020",
     "note": "Callum engages with the Software testing Community, promoting diversity and accessibility. On Callum's blog you will find topics covering Exploratory Testing, CI/CD and Dungeons and Dragons!",
