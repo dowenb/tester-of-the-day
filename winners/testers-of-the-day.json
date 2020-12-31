@@ -1,8 +1,14 @@
 [
   {
+    "name": "YOU",
+    "date": "31/12/2020",
+    "note": "Nominated by Michael: 'Given the year we've had, you've made it to the end and so are fully deserving of this accolade! So let's look forward to 2021 as 2020 is so last year Grinning face with smiling eyes.'",
+    "twitter": "https://twitter.com/ministryoftest"
+  },
+  {
     "name": "Ben Dowen",
     "date": "30/12/2020",
-    "note": "Nominated by The Whole Test Community: 'Ben has done such a great thing by introducing a bit of positivity each day through #TesterofTheDay for the test community. We all really appreciate it!'", 
+    "note": "Nominated by The Whole Test Community: 'Ben has done such a great thing by introducing a bit of positivity each day through #TesterofTheDay for the test community. We all really appreciate it!'",
     "twitter": "https://twitter.com/FullSnackTester",
     "linkedin": "https://linkedin.com/in/dowenb",
     "weblinks": [
@@ -15,7 +21,8 @@
         "url": "https://www.fullsnacktester.com"
       }
     ]
-  },{
+  },
+  {
     "name": "Many Kasiriha",
     "date": "29/12/2020",
     "note": "Many provided an excellent and concise description of test strategy in an agile Context in response to a recent MoT question. He also has strong opinions on the debate on Testing vs Checking in automation.",
