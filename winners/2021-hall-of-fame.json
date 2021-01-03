@@ -1,7 +1,24 @@
 [
     {
+        "name": "Josh Grant",
+        "date": "03/1/2020",
+        "note": "Josh shares his testing thoughts, recently musing about a concept dear to my heat, Software that is good because it does what we expect.",
+        "twitter": "https://twitter.com/joshin4colours",
+        "linkedin": "https://www.linkedin.com/in/josh-grant-9570a214",
+        "weblinks": [
+            {
+                "name": "Simply The Test (Blog)",
+                "url": "https://simplythetest.tumblr.com"
+            },
+            {
+                "name": "Twitter Thread: Software that works as expected",
+                "url": "https://twitter.com/joshin4colours/status/1343774442799960064"
+            }
+        ]
+    },
+    {
         "name": "Guna Petrova",
-        "date": "2/1/2020",
+        "date": "02/1/2020",
         "note": "Nominated by Bill Matthews: for her unceasing enthusiasm, for testing, and being an awesome tester. And not least for being open and welcoming to all she meets.",
         "twitter": "https://twitter.com/alt_lv"
     },
