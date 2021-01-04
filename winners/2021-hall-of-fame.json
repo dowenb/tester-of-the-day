@@ -1,7 +1,24 @@
 [
     {
+        "name": "Zubair Haque",
+        "date": "04/01/2020",
+        "note": "Zubair has been a guest on the Test Guild podcast talking about testing performence of Microservice. He has years of performence testing exprience, and shares his knowledge with the community on Medium.",
+        "twitter": "https://twitter.com/t3Ch_bear",
+        "linkedin": "https://www.linkedin.com/in/zubair-haque",
+        "weblinks": [
+            {
+                "name": "Zubair's Medium posts",
+                "url": "https://haque-zubair.medium.com"
+            },
+            {
+                "name": "ScalaTest Performance Testing Microservices with Zubair Haque",
+                "url": "https://testguild.com/podcast/performance/p39-zubair"
+            }
+        ]
+    },
+    {
         "name": "Josh Grant",
-        "date": "03/1/2020",
+        "date": "03/01/2020",
         "note": "Josh shares his testing thoughts, recently musing about a concept dear to my heat, Software that is good because it does what we expect.",
         "twitter": "https://twitter.com/joshin4colours",
         "linkedin": "https://www.linkedin.com/in/josh-grant-9570a214",
@@ -18,7 +35,7 @@
     },
     {
         "name": "Guna Petrova",
-        "date": "02/1/2020",
+        "date": "02/01/2020",
         "note": "Nominated by Bill Matthews: for her unceasing enthusiasm, for testing, and being an awesome tester. And not least for being open and welcoming to all she meets.",
         "twitter": "https://twitter.com/alt_lv"
     },
