@@ -1,5 +1,18 @@
 [
     {
+        "name": "Emna Ayadi",
+        "date": "05/01/2020",
+        "note": "Nominated by Jasper: 'a true community hero - not only for the sfax meetups, but for global online coffee sesisons in a pandemic. And starting a snack exchange too'",
+        "twitter": "https://twitter.com/emna__ayadi",
+        "linkedin": "https://www.linkedin.com/in/emnaayadi",
+        "weblinks": [
+            {
+                "name": "Emna Ayadi - Let's explore together!",
+                "url": "https://emnaayadi.com"
+            }
+        ]
+    },
+    {
         "name": "Zubair Haque",
         "date": "04/01/2020",
         "note": "Zubair has been a guest on the Test Guild podcast talking about testing performence of Microservice. He has years of performence testing exprience, and shares his knowledge with the community on Medium.",
