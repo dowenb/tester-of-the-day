@@ -1,5 +1,11 @@
 [
     {
+      "name": "Conor Fitzgerald",
+      "date": "07/01/2021",
+      "note": "Nominated by Michael: 'Conor is an active member of the test community and his talks covering Kanban are a great help for those looking at Kanban and Agile.'" ,
+      "twitter": "https://twitter.com/conorfi"
+    },
+    {
         "name": "Katrina Clokie",
         "date": "6/01/2021",
         "note": "Katrina’s testing pathways are such great resources to help the test community learn different areas of testing!", 
