@@ -1,100 +1,107 @@
 [
-    {
-      "name": "Christian Baumann",
-      "date": "08/01/2021",
-      "note": "Nominated by Violetta Zhdanovich: 'He's a tester I look up to. Christian is an explorer, an investigator, a learner, a teacher, a great communicator and a team player. He's inspiring'",
-      "twitter": "https://twitter.com/chrissbaumann",
-      "linkedin": "https://www.linkedin.com/in/christianbaumann",
-      "weblinks": [
-            {
-                "name": "Christian Baumann links on LinkTree",
-                "url": "https://linktr.ee/chrissbaumann"
-    }]
-    },
-    {
-      "name": "Conor Fitzgerald",
-      "date": "07/01/2021",
-      "note": "Nominated by Michael: 'Conor is an active member of the test community and his talks covering Kanban are a great help for those looking at Kanban and Agile.'" ,
-      "twitter": "https://twitter.com/conorfi",
-      "linkedin": "https://www.linkedin.com/in/fitzgeraldconor"
-    },
-    {
-        "name": "Katrina Clokie",
-        "date": "6/01/2021",
-        "note": "Katrina’s testing pathways are such great resources to help the test community learn different areas of testing!", 
-        "twitter": "https://twitter.com/KatrinaClokie",
-        "linkedin": "https://linkedin.com/in/katrina-clokie/",
-        "weblinks": [
-            {
-                "name": "Katrina the Tester",
-                "url": "http://katrinatester.blogspot.com/?m=1"
-            }
-        ]
+  {
+    "name": "Srinivas Kadiyala",
+    "date": "9/1/2020",
+    "note": "Nominated by Bill Matthews: for always asking questions & seeking to better understand  testing & technology and sharing his experiences and findings.",
+    "twitter": "https://twitter.com/srinivasskc"
+  },
+  {
+    "name": "Christian Baumann",
+    "date": "08/01/2021",
+    "note": "Nominated by Violetta Zhdanovich: 'He's a tester I look up to. Christian is an explorer, an investigator, a learner, a teacher, a great communicator and a team player. He's inspiring'",
+    "twitter": "https://twitter.com/chrissbaumann",
+    "linkedin": "https://www.linkedin.com/in/christianbaumann",
+    "weblinks": [
+      {
+        "name": "Christian Baumann links on LinkTree",
+        "url": "https://linktr.ee/chrissbaumann"
+      }
+    ]
+  },
+  {
+    "name": "Conor Fitzgerald",
+    "date": "07/01/2021",
+    "note": "Nominated by Michael: 'Conor is an active member of the test community and his talks covering Kanban are a great help for those looking at Kanban and Agile.'",
+    "twitter": "https://twitter.com/conorfi",
+    "linkedin": "https://www.linkedin.com/in/fitzgeraldconor"
+  },
+  {
+    "name": "Katrina Clokie",
+    "date": "6/01/2021",
+    "note": "Katrina’s testing pathways are such great resources to help the test community learn different areas of testing!",
+    "twitter": "https://twitter.com/KatrinaClokie",
+    "linkedin": "https://linkedin.com/in/katrina-clokie/",
+    "weblinks": [
+      {
+        "name": "Katrina the Tester",
+        "url": "http://katrinatester.blogspot.com/?m=1"
+      }
+    ]
+  },
+  {
+    "name": "Emna Ayadi",
+    "date": "05/01/2020",
+    "note": "Nominated by Jasper: 'a true community hero - not only for the sfax meetups, but for global online coffee sesisons in a pandemic. And starting a snack exchange too'",
+    "twitter": "https://twitter.com/emna__ayadi",
+    "linkedin": "https://www.linkedin.com/in/emnaayadi",
+    "weblinks": [
+      {
+        "name": "Emna Ayadi - Let's explore together!",
+        "url": "https://emnaayadi.com"
+      }
+    ]
+  },
+  {
+    "name": "Zubair Haque",
+    "date": "04/01/2020",
+    "note": "Zubair has been a guest on the Test Guild podcast talking about testing performence of Microservice. He has years of performence testing exprience, and shares his knowledge with the community on Medium.",
+    "twitter": "https://twitter.com/t3Ch_bear",
+    "linkedin": "https://www.linkedin.com/in/zubair-haque",
+    "weblinks": [
+      {
+        "name": "Zubair's Medium posts",
+        "url": "https://haque-zubair.medium.com"
       },
       {
-        "name": "Emna Ayadi",
-        "date": "05/01/2020",
-        "note": "Nominated by Jasper: 'a true community hero - not only for the sfax meetups, but for global online coffee sesisons in a pandemic. And starting a snack exchange too'",
-        "twitter": "https://twitter.com/emna__ayadi",
-        "linkedin": "https://www.linkedin.com/in/emnaayadi",
-        "weblinks": [
-            {
-                "name": "Emna Ayadi - Let's explore together!",
-                "url": "https://emnaayadi.com"
-            }
-        ]
-    },
-    {
-        "name": "Zubair Haque",
-        "date": "04/01/2020",
-        "note": "Zubair has been a guest on the Test Guild podcast talking about testing performence of Microservice. He has years of performence testing exprience, and shares his knowledge with the community on Medium.",
-        "twitter": "https://twitter.com/t3Ch_bear",
-        "linkedin": "https://www.linkedin.com/in/zubair-haque",
-        "weblinks": [
-            {
-                "name": "Zubair's Medium posts",
-                "url": "https://haque-zubair.medium.com"
-            },
-            {
-                "name": "ScalaTest Performance Testing Microservices with Zubair Haque",
-                "url": "https://testguild.com/podcast/performance/p39-zubair"
-            }
-        ]
-    },
-    {
-        "name": "Josh Grant",
-        "date": "03/01/2020",
-        "note": "Josh shares his testing thoughts, recently musing about a concept dear to my heat, Software that is good because it does what we expect.",
-        "twitter": "https://twitter.com/joshin4colours",
-        "linkedin": "https://www.linkedin.com/in/josh-grant-9570a214",
-        "weblinks": [
-            {
-                "name": "Simply The Test (Blog)",
-                "url": "https://simplythetest.tumblr.com"
-            },
-            {
-                "name": "Twitter Thread: Software that works as expected",
-                "url": "https://twitter.com/joshin4colours/status/1343774442799960064"
-            }
-        ]
-    },
-    {
-        "name": "Guna Petrova",
-        "date": "02/01/2020",
-        "note": "Nominated by Bill Matthews: for her unceasing enthusiasm, for testing, and being an awesome tester. And not least for being open and welcoming to all she meets.",
-        "twitter": "https://twitter.com/alt_lv"
-    },
-    {
-        "name": "Arun Motoori",
-        "date": "01/01/2021",
-        "note": "Nominated by Sanjay Kumar: His passion to share knowledge help millions of people to build their career. Arun is an asset to Testing community. A great mentor, Leader and Trainer.",
-        "twitter": "https://twitter.com/arun_motoori",
-        "linkedin": "https://www.linkedin.com/in/arunmotoori",
-        "weblinks": [
-            {
-                "name": "QAFox",
-                "url": "https://www.qafox.com"
-            }
-        ]
-    }
+        "name": "ScalaTest Performance Testing Microservices with Zubair Haque",
+        "url": "https://testguild.com/podcast/performance/p39-zubair"
+      }
+    ]
+  },
+  {
+    "name": "Josh Grant",
+    "date": "03/01/2020",
+    "note": "Josh shares his testing thoughts, recently musing about a concept dear to my heat, Software that is good because it does what we expect.",
+    "twitter": "https://twitter.com/joshin4colours",
+    "linkedin": "https://www.linkedin.com/in/josh-grant-9570a214",
+    "weblinks": [
+      {
+        "name": "Simply The Test (Blog)",
+        "url": "https://simplythetest.tumblr.com"
+      },
+      {
+        "name": "Twitter Thread: Software that works as expected",
+        "url": "https://twitter.com/joshin4colours/status/1343774442799960064"
+      }
+    ]
+  },
+  {
+    "name": "Guna Petrova",
+    "date": "02/01/2020",
+    "note": "Nominated by Bill Matthews: for her unceasing enthusiasm, for testing, and being an awesome tester. And not least for being open and welcoming to all she meets.",
+    "twitter": "https://twitter.com/alt_lv"
+  },
+  {
+    "name": "Arun Motoori",
+    "date": "01/01/2021",
+    "note": "Nominated by Sanjay Kumar: His passion to share knowledge help millions of people to build their career. Arun is an asset to Testing community. A great mentor, Leader and Trainer.",
+    "twitter": "https://twitter.com/arun_motoori",
+    "linkedin": "https://www.linkedin.com/in/arunmotoori",
+    "weblinks": [
+      {
+        "name": "QAFox",
+        "url": "https://www.qafox.com"
+      }
+    ]
+  }
 ]
