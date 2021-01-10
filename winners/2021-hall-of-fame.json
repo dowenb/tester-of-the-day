@@ -1,7 +1,24 @@
 [
   {
+    "name": "Conrad Braam",
+    "date": "10/01/2020",
+    "note": "Conrad is super active on the Club and Twitter, contributing his wealth of knowledge. He recently joined us on the Testers Hangout and shared his experience of working through lock-down.",
+    "twitter": "https://twitter.com/zaphodikus",
+    "linkedin": "https://www.linkedin.com/in/conradbraam",
+    "weblinks": [
+      {
+        "name": "Zaphodikus Realm",
+        "url": "http://zaphodikusrealm.blogspot.com"
+      },
+      {
+        "name": "Club Ninja of the year",
+        "url": "https://club.ministryoftesting.com/t/club-ninja-of-the-year-2020/46066"
+      }
+    ]
+  },
+  {
     "name": "Srinivas Kadiyala",
-    "date": "9/1/2020",
+    "date": "9/01/2020",
     "note": "Nominated by Bill Matthews: for always asking questions & seeking to better understand  testing & technology and sharing his experiences and findings.",
     "twitter": "https://twitter.com/srinivasskc"
   },
