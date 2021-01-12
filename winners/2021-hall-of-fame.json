@@ -1,5 +1,18 @@
 [
   {
+    "name": "Marty McGee",
+    "date": "12/01/2020",
+    "note": "An SDET who enjoys automation, Marty shares his expertise and sense of humour on Twitter and his Blog.",
+    "twitter": "https://twitter.com/mrmmcgee",
+    "linkedin": "https://www.linkedin.com/in/martin-m-5a3998178",
+    "weblinks": [
+      {
+        "name": "Martin McGee's Blog",
+        "url": "https://www.martinmcgee.dev"
+      }
+    ]
+  },
+  {
     "name": "Andrew Fraser",
     "date": "11/01/2020",
     "note": "Nominated by Shey: He's always supportive and goes out of his way to help the community.",
