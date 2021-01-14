@@ -1,4 +1,17 @@
 [
+    {
+    "name": "Lee Marshall",
+    "date": "14/01/2021",
+    "note": "Nominated by Dan Billing: 'for determination and self reflection at a time of huge change and challenge'",
+    "twitter": "https://twitter.com/ThePirateTester",
+      "linkedin": "https://www.linkedin.com/in/lee-marshall-41ba9313b",
+      "weblinks": [
+        {
+          "name": "The Priate Tester - Sailing against the testing establishment",
+          "url": "https://thepiratetester.wordpress.com"
+        }
+      ]
+  },
   {
   "name": "Dave Oxley",
   "date": "13/01/2021",
@@ -8,7 +21,7 @@
 },
   {
     "name": "Marty McGee",
-    "date": "12/01/2020",
+    "date": "12/01/2021",
     "note": "An SDET who enjoys automation, Marty shares his expertise and sense of humour on Twitter and his Blog.",
     "twitter": "https://twitter.com/mrmmcgee",
     "linkedin": "https://www.linkedin.com/in/martin-m-5a3998178",
@@ -21,7 +34,7 @@
   },
   {
     "name": "Andrew Fraser",
-    "date": "11/01/2020",
+    "date": "11/01/2021",
     "note": "Nominated by Shey: He's always supportive and goes out of his way to help the community.",
     "twitter": "https://twitter.com/tuxt3r",
     "linkedin": "https://www.linkedin.com/in/avfraser",
@@ -34,7 +47,7 @@
   },
   {
     "name": "Conrad Braam",
-    "date": "10/01/2020",
+    "date": "10/01/2021",
     "note": "Conrad is super active on the Club and Twitter, contributing his wealth of knowledge. He recently joined us on the Testers Hangout and shared his experience of working through lock-down.",
     "twitter": "https://twitter.com/zaphodikus",
     "linkedin": "https://www.linkedin.com/in/conradbraam",
@@ -51,7 +64,7 @@
   },
   {
     "name": "Srinivas Kadiyala",
-    "date": "9/01/2020",
+    "date": "9/01/2021",
     "note": "Nominated by Bill Matthews: for always asking questions & seeking to better understand  testing & technology and sharing his experiences and findings.",
     "twitter": "https://twitter.com/srinivasskc"
   },
@@ -90,7 +103,7 @@
   },
   {
     "name": "Emna Ayadi",
-    "date": "05/01/2020",
+    "date": "05/01/2021",
     "note": "Nominated by Jasper: 'a true community hero - not only for the sfax meetups, but for global online coffee sesisons in a pandemic. And starting a snack exchange too'",
     "twitter": "https://twitter.com/emna__ayadi",
     "linkedin": "https://www.linkedin.com/in/emnaayadi",
@@ -103,7 +116,7 @@
   },
   {
     "name": "Zubair Haque",
-    "date": "04/01/2020",
+    "date": "04/01/2021",
     "note": "Zubair has been a guest on the Test Guild podcast talking about testing performence of Microservice. He has years of performence testing exprience, and shares his knowledge with the community on Medium.",
     "twitter": "https://twitter.com/t3Ch_bear",
     "linkedin": "https://www.linkedin.com/in/zubair-haque",
@@ -120,7 +133,7 @@
   },
   {
     "name": "Josh Grant",
-    "date": "03/01/2020",
+    "date": "03/01/2021",
     "note": "Josh shares his testing thoughts, recently musing about a concept dear to my heat, Software that is good because it does what we expect.",
     "twitter": "https://twitter.com/joshin4colours",
     "linkedin": "https://www.linkedin.com/in/josh-grant-9570a214",
@@ -137,7 +150,7 @@
   },
   {
     "name": "Guna Petrova",
-    "date": "02/01/2020",
+    "date": "02/01/2021",
     "note": "Nominated by Bill Matthews: for her unceasing enthusiasm, for testing, and being an awesome tester. And not least for being open and welcoming to all she meets.",
     "twitter": "https://twitter.com/alt_lv"
   },
