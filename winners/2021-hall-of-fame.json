@@ -1,32 +1,44 @@
 [
-    {
-      "name": "Peter Schrijver",
-      "date": "15/01/2021",
-      "note": "For continuing to introduce me and the rest of the world, to 5 new blogs every day - One's that I would have never have found",
-      "twitter": "https://twitter.com/SimonSaysNoMore", 
-      "linkedin": "https://linkedin.com/in/simonsaysnomore",
-      "weblinks": [ { "name": "5blogs", "url": "https://5blogs.wordpress.com" } ] 
-    },
-    {
+  {
+    "name": "Gitte Klitgaard",
+    "date": "16/01/2021",
+    "note": "Nominated by Tobias Geyer: 'for being a force for good in the agile and software testing community. No matter if she's leading by example to encourage everyone to let their full selves show or by helping to make software testing conferences a safer place - everything is better with Gitte being there.'",
+    "twitter": "https://twitter.com/NativeWired",
+    "linkedin": "https://www.linkedin.com/in/gitteklitgaard"
+  },
+  {
+    "name": "Peter Schrijver",
+    "date": "15/01/2021",
+    "note": "For continuing to introduce me and the rest of the world, to 5 new blogs every day - One's that I would have never have found",
+    "twitter": "https://twitter.com/SimonSaysNoMore",
+    "linkedin": "https://linkedin.com/in/simonsaysnomore",
+    "weblinks": [
+      {
+        "name": "5blogs",
+        "url": "https://5blogs.wordpress.com"
+      }
+    ]
+  },
+  {
     "name": "Lee Marshall",
     "date": "14/01/2021",
     "note": "Nominated by Dan Billing: 'for determination and self reflection at a time of huge change and challenge'",
     "twitter": "https://twitter.com/ThePirateTester",
-      "linkedin": "https://www.linkedin.com/in/lee-marshall-41ba9313b",
-      "weblinks": [
-        {
-          "name": "The Priate Tester - Sailing against the testing establishment",
-          "url": "https://thepiratetester.wordpress.com"
-        }
-      ]
+    "linkedin": "https://www.linkedin.com/in/lee-marshall-41ba9313b",
+    "weblinks": [
+      {
+        "name": "The Priate Tester - Sailing against the testing establishment",
+        "url": "https://thepiratetester.wordpress.com"
+      }
+    ]
   },
   {
-  "name": "Dave Oxley",
-  "date": "13/01/2021",
-  "note":  "Nominated by Simon Prior: Although not technically still a tester, Dave’s mentoring and guidance over the years really helped me move into testing and make a success of it. He’s to blame for my relentless passion for quality!", 
-  "twitter": "https://twitter.com/oxleymeister",
-  "linkedin": "https://linkedin.com/in/daveoxley"
-},
+    "name": "Dave Oxley",
+    "date": "13/01/2021",
+    "note": "Nominated by Simon Prior: Although not technically still a tester, Dave’s mentoring and guidance over the years really helped me move into testing and make a success of it. He’s to blame for my relentless passion for quality!",
+    "twitter": "https://twitter.com/oxleymeister",
+    "linkedin": "https://linkedin.com/in/daveoxley"
+  },
   {
     "name": "Marty McGee",
     "date": "12/01/2021",
