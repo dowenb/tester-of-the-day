@@ -67,15 +67,18 @@ Twitter: [@LangCheshire](https://twitter.com/LangCheshire)
 *Danny Dainton*
 
 Twitter: [@DannyDainton](https://twitter.com/DannyDainton)
+
 Linkedin: <https://www.linkedin.com/in/dannydainton/>
 
 *Dan Billing*
 
 Twitter: [@TheTestDoctor](https://twitter.com/TheTestDoctor)
+
 Linkedin: <https://www.linkedin.com/in/danielbilling/>
 
 *Shey Crompton*
 
 Twitter: [@SheyMouse](https://twitter.com/SheyMouse)
+
 Linkedin: <https://www.linkedin.com/in/sheycrompton/>
 
