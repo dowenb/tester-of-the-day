@@ -1,5 +1,16 @@
 [
   {
+    "name": "Melissa Fisher",
+    "date": "22/01/2021",
+    "note": "Melissa has brought together a fantastic group of Testers from the community to write a charity eBook of Testing Stories." ,
+    "twitter": "https://twitter.com/fishoutthebox",
+    "linkedin": "https://www.linkedin.com/in/melissa-fisher-979500197",
+    "weblinks": [
+      {"name": "Testing Stories Progress",
+      "url": "https://fishoutthebox.medium.com/testing-stories-e-book-d9670416e66"}
+    ]
+  },
+  {
     "name": "Erkki Antonkov",
     "date": "21/01/2021",
     "note": "Nominated by Shey Crompton: 'Erkki is an awesome contributor to the community. He's always supportive and is one of the most chilled people I know.'",
