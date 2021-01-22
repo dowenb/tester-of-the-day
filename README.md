@@ -48,40 +48,34 @@ Each volunteer is responsible for selecting the winner one day a week.
 
 See an opening and want to join in? DM me on Twitter [@FulSnackTester](https://twitter.com/FullSnackTester) or e-mail ben@dowen.me.uk
 
-### Monday
 
-Joe Paul
+## Current Volenteers
+
+*Joe Paul*
 
 Twitter: [@QAJOEPAUL](https://twitter.com/QAJOEPAUL)
 
-### Tuesday
-
-Open
-
-### Wednesday
-
-Simon Prior
+*Simon Prior*
 
 Twitter: [@siprior](https://twitter.com/siprior)
 
-### Thursday
 
-Michael
+*Michael*
 
 Twitter: [@LangCheshire](https://twitter.com/LangCheshire)
 
-### Friday
-
-Danny Dainton
+*Danny Dainton*
 
 Twitter: [@DannyDainton](https://twitter.com/DannyDainton)
+Linkedin: <https://www.linkedin.com/in/dannydainton/>
 
-### Saturday
-
-Dan Billing
+*Dan Billing*
 
 Twitter: [@TheTestDoctor](https://twitter.com/TheTestDoctor)
+Linkedin: <https://www.linkedin.com/in/danielbilling/>
 
-### Sunday
+*Shey Crompton*
 
-Open
+Twitter: [@SheyMouse](https://twitter.com/SheyMouse)
+Linkedin: <https://www.linkedin.com/in/sheycrompton/>
+
