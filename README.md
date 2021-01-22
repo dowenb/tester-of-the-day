@@ -46,7 +46,7 @@ A massive thank you to my group of volunteers who support Tester of The Day!
 
 Each volunteer is responsible for selecting the winner one day a week.
 
-See an opening and want to join in? DM me on Twitter [@FulSnackTester](https://twitter.com/FullSnackTester) or e-mail ben@dowen.me.uk
+See an opening and want to join in? DM me on Twitter [@FullSnackTester](https://twitter.com/FullSnackTester) or e-mail ben@dowen.me.uk
 
 
 ## Current Volenteers
