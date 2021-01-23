@@ -1,13 +1,28 @@
 [
   {
+    "name": "Gita Malinovska",
+    "date": "23/01/2021",
+    "note": "Nominated by Adam Leon Smith: 'for being a great test manager, an inspiration to her diverse team, keeping all senior stakeholders feet held to the fire, as well finding the time to organise BCS SIGIST events in the background'",
+    "twitter": "https://twitter.com/gita_m",
+    "linkedin": "https://www.linkedin.com/in/maligita",
+    "weblinks": [
+      {
+        "name": "Dragonfly",
+        "url": "https://www.wearedragonfly.co"
+      }
+    ]
+  },
+  {
     "name": "Melissa Fisher",
     "date": "22/01/2021",
-    "note": "Melissa has brought together a fantastic group of Testers from the community to write a charity eBook of Testing Stories." ,
+    "note": "Melissa has brought together a fantastic group of Testers from the community to write a charity eBook of Testing Stories.",
     "twitter": "https://twitter.com/fishoutthebox",
     "linkedin": "https://www.linkedin.com/in/melissa-fisher-979500197",
     "weblinks": [
-      {"name": "Testing Stories Progress",
-      "url": "https://fishoutthebox.medium.com/testing-stories-e-book-d9670416e66"}
+      {
+        "name": "Testing Stories Progress",
+        "url": "https://fishoutthebox.medium.com/testing-stories-e-book-d9670416e66"
+      }
     ]
   },
   {
