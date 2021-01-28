@@ -1,5 +1,17 @@
 [
   {
+    "name": "Jesper Ottosen",
+    "date": "28/01/2021",
+    "note": "Nominated by Michael: 'Jesper wrote a great post about continuing to talk about making the testing smarter and not single out that this is for testers only.'" ,
+    "twitter": "https://twitter.com/jlottosen",
+    "weblinks": [
+      {
+        "name": "The Testing, not the Testers",
+        "url": "https://jlottosen.wordpress.com/2021/01/25/the-testing-not-the-testers"
+      }
+    ]
+  },
+  {
     "name": "David Laing",
     "date": "27/01/2021",
     "note":  "David has been working hard to get his passion for testing back and I managed to persuade him to read Explore It to give him ideas. He’s now defining a new Exploratory testing process for our internal release testing. Great work Dave!", 
