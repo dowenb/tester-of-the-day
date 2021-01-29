@@ -1,5 +1,18 @@
 [
   {
+    "name": "Claire Reckless",
+    "date": "29/01/2021",
+    "note": "Nominated by Shey: 'Claire wrote The One Page Test Plan on MoT in 2016 which remains an informative and relevant reference five years on.'" ,
+    "twitter": "https://twitter.com/ClaireReckless",
+    "linkedin": "https://www.linkedin.com/in/claire-reckless"
+    "weblinks": [
+      {
+        "name": "The One Page Test Plan",
+        "url": "https://www.ministryoftesting.com/dojo/lessons/the-one-page-test-plan"
+      }
+    ]
+  },
+  {
     "name": "Jesper Ottosen",
     "date": "28/01/2021",
     "note": "Nominated by Michael: 'Jesper wrote a great post about continuing to talk about making the testing smarter and not single out that this is for testers only.'" ,
