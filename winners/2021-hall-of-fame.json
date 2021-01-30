@@ -1,8 +1,20 @@
 [
   {
+    "name": "Krishnanand B",
+    "date": "30/01/2021",
+    "note": "Nominated by Sudarshan GSL: 'He’s been instrumental in the success of our organization, helping create scalable automation solutions for different clients over the years. He also helped the folks in the organization to scale up.'",
+    "linkedin": "https://www.linkedin.com/in/krishnanand-b-607474b8",
+    "weblinks": [
+      {
+        "name": "Krishnanand B on Medium",
+        "url": "https://medium.com/@krishnanand_93543"
+      }
+    ]
+  },
+  {
     "name": "Claire Reckless",
     "date": "29/01/2021",
-    "note": "Nominated by Shey: 'Claire wrote The One Page Test Plan on MoT in 2016 which remains an informative and relevant reference five years on.'" ,
+    "note": "Nominated by Shey: 'Claire wrote The One Page Test Plan on MoT in 2016 which remains an informative and relevant reference five years on.'",
     "twitter": "https://twitter.com/ClaireReckless",
     "linkedin": "https://www.linkedin.com/in/claire-reckless",
     "weblinks": [
@@ -15,7 +27,7 @@
   {
     "name": "Jesper Ottosen",
     "date": "28/01/2021",
-    "note": "Nominated by Michael: 'Jesper wrote a great post about continuing to talk about making the testing smarter and not single out that this is for testers only.'" ,
+    "note": "Nominated by Michael: 'Jesper wrote a great post about continuing to talk about making the testing smarter and not single out that this is for testers only.'",
     "twitter": "https://twitter.com/jlottosen",
     "weblinks": [
       {
@@ -27,14 +39,14 @@
   {
     "name": "David Laing",
     "date": "27/01/2021",
-    "note":  "David has been working hard to get his passion for testing back and I managed to persuade him to read Explore It to give him ideas. He’s now defining a new Exploratory testing process for our internal release testing. Great work Dave!", 
+    "note": "David has been working hard to get his passion for testing back and I managed to persuade him to read Explore It to give him ideas. He’s now defining a new Exploratory testing process for our internal release testing. Great work Dave!",
     "linkedin": "https://linkedin.com/in/david-laing-99893bb"
   },
   {
     "name": "Elizabeth Fiennes",
     "date": "26/01/2021",
     "note": "Nominated by Danny Dainton: A wonderful human, always a pleasure to be around her. Love hearing her talks and learning from her wealth of experience in the Testing industry!!",
-    "twitter": "https://twitter.com/ElizaFx", 
+    "twitter": "https://twitter.com/ElizaFx",
     "linkedin": "https://linkedin.com/in/elizaf"
   },
   {
@@ -45,16 +57,16 @@
     "linkedin": "https://www.linkedin.com/in/shahdarshit88",
     "weblinks": [
       {
-        "name":"Darshit Shah - Portfolio",
-        "url":"https://shahdarshit.in"
+        "name": "Darshit Shah - Portfolio",
+        "url": "https://shahdarshit.in"
       },
       {
-        "name":"Darshit Shah on Medium",
-        "url":"https://shahdarshit88.medium.com"
+        "name": "Darshit Shah on Medium",
+        "url": "https://shahdarshit88.medium.com"
       },
       {
-        "name":"Be Simple",
-        "url":"https://www.facebook.com/BeSimple1"
+        "name": "Be Simple",
+        "url": "https://www.facebook.com/BeSimple1"
       }
     ]
   },
