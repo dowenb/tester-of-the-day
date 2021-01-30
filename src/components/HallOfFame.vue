@@ -18,6 +18,12 @@
       <img src="../assets/twitter.svg" class="icon" alt="Twitter logo" />
       <a href="https://twitter.com/fullsnacktester">@FullSnackTester</a>
     </p>
+    <p class="bigLink">
+      Find the full list of winners for the current year here:
+      <a href="https://testeroftheday.fullsnacktester.com/"
+        >https://testeroftheday.fullsnacktester.com</a
+      >
+    </p>
     <br />
     <input
       type="text"
@@ -25,7 +31,11 @@
       v-model="search"
       placeholder="Find winner by name"
     />
-    <div class="winner" v-for="winner in filteredWinners" v-bind:key="winner.date">
+    <div
+      class="winner"
+      v-for="winner in filteredWinners"
+      v-bind:key="winner.date"
+    >
       <ul>
         <li class="name">
           <h2>{{ winner.name }}</h2>
@@ -45,7 +55,11 @@
           <img src="../assets/linkedin.svg" class="icon" alt="Linkedin logo" />
           <a :href="winner.linkedin" target="_blank">{{ winner.linkedin }}</a>
         </li>
-        <li class="weblinks" v-for="weblink in winner.weblinks" :key="weblink.name">
+        <li
+          class="weblinks"
+          v-for="weblink in winner.weblinks"
+          :key="weblink.name"
+        >
           <img src="../assets/web.svg" class="icon" alt="Web link logo" />
           <a :href="weblink.url" target="_blank">{{ weblink.name }}</a>
         </li>
@@ -160,5 +174,15 @@ img {
 }
 .linkedin {
   fill: yellow;
+}
+.bigLink {
+  background-color: whitesmoke;
+  color: black;
+  font-size: 1.1em;
+  padding: 5px;
+  margin: 5px;
+}
+.bigLink > a {
+  color: black;
 }
 </style>
