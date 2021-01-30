@@ -13,6 +13,7 @@
       <img src="../assets/twitter.svg" class="icon" alt="Twitter logo" />
       <a href="https://twitter.com/fullsnacktester">@FullSnackTester</a>
     </p>
+    <p class="bigLink">Find the full list of 2020 winners here: <a href="https://totd-2020.fullsnacktester.com/">https://totd-2020.fullsnacktester.com</a></p>
     <br />
     <input
       type="text"
@@ -207,5 +208,11 @@ img {
   vertical-align: middle;
   margin-right: 5px;
   margin-left: 5px;
+}
+.bigLink {
+  background-color: #00aad4ff;
+  padding: 5px;
+  margin: 5px;
+  font-size: 1.1em;
 }
 </style>
