@@ -48,8 +48,7 @@ Each volunteer is responsible for selecting the winner one day a week.
 
 See an opening and want to join in? DM me on Twitter [@FullSnackTester](https://twitter.com/FullSnackTester) or e-mail ben@dowen.me.uk
 
-
-## Current Volenteers
+## Current Volunteers
 
 *Joe Paul*
 
@@ -58,7 +57,6 @@ Twitter: [@QAJOEPAUL](https://twitter.com/QAJOEPAUL)
 *Simon Prior*
 
 Twitter: [@siprior](https://twitter.com/siprior)
-
 
 *Michael*
 
@@ -81,4 +79,3 @@ Linkedin: <https://www.linkedin.com/in/danielbilling/>
 Twitter: [@SheyMouse](https://twitter.com/SheyMouse)
 
 Linkedin: <https://www.linkedin.com/in/sheycrompton/>
-
