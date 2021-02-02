@@ -1,10 +1,22 @@
 [
   {
+    "name": "Duncan Nisbet",
+    "date": "02/02/2021",
+    "note": "Nominated by Matthew Parker: 'He’s quietly been a huge part of moving the testing community forward for years. His passion for learning new things and continuous personal development permeates to everyone he engages with, domain newbies and old experienced hands alike.'",
+    "linkedin": "https://www.linkedin.com/in/duncnisbet",
+    "weblinks": [
+      {
+        "name": "https://www.duncannisbet.co.uk",
+        "url": "https://www.duncannisbet.co.uk"
+      }
+    ]
+  },
+  {
     "name": "Emma Keaveny",
     "date": "01/02/2021",
     "note": "Nominated by Deborah Reid: 'Always smiley, positive and passionate about testing. Her talk on dark patterns still resonates and her charisma at events is something lots of us are missing at the moment!'",
     "twitter": "https://twitter.com/EmJayKay80",
-    "linkedin": "https://www.linkedin.com/in/emma-keaveny-9070174/"
+    "linkedin": "https://www.linkedin.com/in/emma-keaveny-9070174"
   },
   {
     "name": "Jessica Ingrassellino",
