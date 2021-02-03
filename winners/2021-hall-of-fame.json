@@ -1,8 +1,26 @@
 [
   {
+    "name": "Chris Armstrong",
+    "date": "03/02/2021",
+    "note": "Nominated by Simon Prior: 'Chris is one of the most passionate and driven test leaders I know and also one of the most supportive peers you could ever ask for. A team is better with Chris in it!'",
+    "twitter": "https://twitter.com/christovskia",
+    "linkedin": "https://www.linkedin.com/in/christovskia",
+    "weblinks": [
+      {
+        "name": "Chris Armstrong – Posting about Testing, Agility, Leadership, Mental Health, Quality Practices and More",
+        "url": "https://christovskia.blog"
+      },
+      {
+        "name": "Testing Peers",
+        "url": "https://testingpeers.com"
+      }
+    ]
+  },
+  {
     "name": "Duncan Nisbet",
     "date": "02/02/2021",
     "note": "Nominated by Matthew Parker: 'He’s quietly been a huge part of moving the testing community forward for years. His passion for learning new things and continuous personal development permeates to everyone he engages with, domain newbies and old experienced hands alike.'",
+    "twitter": "https://twitter.com/DuncNisbet",
     "linkedin": "https://www.linkedin.com/in/duncnisbet",
     "weblinks": [
       {
