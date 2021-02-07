@@ -1,9 +1,31 @@
 [
   {
+    "name": "Dennis Martinez",
+    "date": "07/02/2021",
+    "note": "Dennis shares his experience of Test Automation in a weekly blog series Dev Tester. Covering topics on frontend with Test Cafe and Backend API testing. Articles often feature Test Cafe, a topic Dennis has also written a book on!",
+    "twitter": "https://twitter.com/dennmart",
+    "linkedin": "https://www.linkedin.com/in/dennmart",
+    "weblinks": [
+      {
+        "name": "Portfolio",
+        "url": "https://dennmart.com"
+      },
+      {
+        "name": "Dev Tester: Weekly articles about automated testing",
+        "url": "https://dev-tester.com"
+      },
+      {
+        "name": "End-to-End Testing with TestCafe",
+        "url": "https://testingwithtestcafe.com"
+      }
+    ]
+  },
+  {
     "name": "Ronald Cummings-John",
     "date": "06/02/2021",
     "note": "Nominated by Simon Prior: 'Ron is one of the best speakers on the circuit, and his passion for driving quality across an organisation is second to none. The Leading Quality book is also fast becoming to go-to book for quality leaders'",
-    "twitter": "https://www.linkedin.com/in/ronaldcj",
+    "twitter": "https://twitter.com/ronaldcj",
+    "linkedin": "https://www.linkedin.com/in/ronaldcj",
     "weblinks": [
       {
         "name": "Global App Testing",
