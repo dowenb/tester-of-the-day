@@ -1,5 +1,18 @@
 [
   {
+    "name": "James Sheasby Thomas",
+    "date": "08/02/2021",
+    "note": "An Agile Testing and Web Accessibility Advocate, James posts excellent content on their website and joins in the community discussion on the MoT Club. Jame's excellent article on Crafting a Browser Matrix is an oldie but a goldie and wroth checking out.",
+    "twitter": "https://twitter.com/RightSaidJames",
+    "linkedin": "https://www.linkedin.com/in/rightsaidjames",
+    "weblinks": [
+      {
+        "name": "Crafting a Browser Matrix",
+        "url": "https://rightsaidjames.com/2017/08/building-browser-matrix"
+      }
+    ]
+  },
+  {
     "name": "Dennis Martinez",
     "date": "07/02/2021",
     "note": "Dennis shares his experience of Test Automation in a weekly blog series Dev Tester. Covering topics on frontend with Test Cafe and Backend API testing. Articles often feature Test Cafe, a topic Dennis has also written a book on!",
