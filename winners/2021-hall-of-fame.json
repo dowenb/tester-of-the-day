@@ -1,5 +1,18 @@
 [
   {
+    "name": "Dino Kacavenda",
+    "date": "10/02/2021",
+    "note": "Dino has written an excellent article, '12 Tips for Writing Better Automated Tests'. I especially like number 8 'Avoid magic numbers or strings'.",
+    "twitter": "https://twitter.com/dino_kacavenda",
+    "linkedin": "https://www.linkedin.com/in/dino-ka%C4%8Davenda-7ab47912a",
+    "weblinks": [
+      {
+        "name": "12 Tips for Writing Better Automated Tests",
+        "url": "https://kaca.hashnode.dev/12-tips-for-writing-better-automated-tests"
+      }
+    ]
+  },
+  {
     "name": "Chris Gissing",
     "date": "09/02/2021",
     "note": "Nominated by Robert Hyde: Today's nomination is a sad one indeed, I will be honest it has taken me a while to put this together because it is still very raw.\r\n\r\nToday's honorary nomination is for Munichbeer, Chris, who we recently lost way before his time.  While he had moved on from his direct testing days a while ago I feel it only approprpriate to put Chris on the list for all the lives he changed.  Not only did he help me become the engineer I am today but also he helped so many other engineers.\r\n\r\nChris was a great person who filled a room just by being in it, a great parent who would always be there for his family, an amazing manager who cared about everyone and finally a brilliant friend.  I will definitely miss you Chris and our times chatting away\/working together.\r\n\r\nI know this cannot even come close to giving credit to the legend but it is my small way of remembering you and the way you changed things for me",
