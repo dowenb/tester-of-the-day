@@ -196,6 +196,10 @@
       {
         "name": "The Test Doctor",
         "url": "https://thetestdoctor.co.uk/"
+      },
+      {
+        "name": "Interview with Dan Billing",
+        "url": "https://interviews.testeroftheday.com/interviews/2021/02/13/dan-billing.html"
       }
     ]
   },
@@ -245,6 +249,10 @@
       {
         "name": "Testing Peers",
         "url": "https://testingpeers.com"
+      },
+      {
+        "name": "Interview with Chris Armstrong",
+        "url": "https://interviews.testeroftheday.com/interviews/2021/02/13/chris-armstrong.html"
       }
     ]
   },
@@ -413,6 +421,10 @@
       {
         "name": "Beth The Tester's Tales",
         "url": "https://beththetester.com"
+      },
+      {
+        "name": "Interview with Beth Marshall",
+        "url": "https://interviews.testeroftheday.com/interviews/2021/02/13/beth-marshall.html"
       }
     ]
   },
@@ -840,6 +852,10 @@
       {
         "name": "Testing Peers",
         "url": "https://testingpeers.com"
+      },
+      {
+        "name": "Interview with Chris Armstrong",
+        "url": "https://interviews.testeroftheday.com/interviews/2021/02/13/chris-armstrong.html"
       }
     ]
   },
@@ -913,7 +929,13 @@
     "name": "Bruce",
     "date": "30/08/2020",
     "note": "Bruce is humble, witty, creative, addictive to get to know, smart as hell and super supportive.",
-    "twitter": "https://twitter.com/BruceOnlyBruce"
+    "twitter": "https://twitter.com/BruceOnlyBruce",
+    "weblinks": [
+      {
+        "name": "Interview with Bruce",
+        "url": "https://interviews.testeroftheday.com/interviews/2021/02/13/bruce.html"
+      }
+    ]
   },
   {
     "name": "Maaret Pyhäjärvi",
@@ -973,6 +995,10 @@
       {
         "name": "Beth The Tester's Tales",
         "url": "https://beththetester.com"
+      },
+      {
+        "name": "Interview with Beth Marshall",
+        "url": "https://interviews.testeroftheday.com/interviews/2021/02/13/beth-marshall.html"
       }
     ]
   },
@@ -1005,6 +1031,12 @@
     "name": "Chris McMahon",
     "date": "17/08/2020",
     "note": "Thanks Chris, great insight into your Cucumber step about reverting from a destructive test.",
-    "twitter": "https://twitter.com/chris_mcmahon"
+    "twitter": "https://twitter.com/chris_mcmahon",
+    "weblinks": [
+      {
+        "name": "Interview with Chris McMahon",
+        "url": "https://interviews.testeroftheday.com/interviews/2021/02/13/chris-mcmahon.html"
+      }
+    ]
   }
 ]
