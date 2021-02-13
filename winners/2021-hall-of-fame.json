@@ -1,17 +1,34 @@
 [
-   {
-     "name": "Patrick Prill",
-     "date": "12/02/2021",
-     "note": "Self-proclaimed 'Grumpster' but is, in fact, one of the nicest, warmest and funniest people you will ever meet. A super talented tester with an incredible amount of knowledge!",
-     "twitter": "https://twitter.com/TestPappy", 
-     "linkedin": "https://www.linkedin.com/in/patrick-prill-50510077/"
-   },
-   {
-      "name": "Bill Matthews",
-      "date": "11/02/2021",
-      "note": "Bill is one of those people that never fails to impress you - His talks are informative, engaging and enlightening. Breaks down super technical topics in an easily digestible way. Also a wonderful human!!",
-      "twitter": "https://twitter.com/Bill_Matthews", 
-      "linkedin": "https://www.linkedin.com/in/billmatthews"
+  {
+    "name": "Constance Armitage",
+    "date": "13/02/2021",
+    "note": "Constance is such a wonderful human!! I am in absolute awe of all her artwork, it's incredible!! The artwork for the Testbash adventures is something you just need to check out!!",
+    "twitter": "https://twitter.com/constancehermit",
+    "linkedin": "https://www.linkedin.com/in/constancearmitage/",
+    "weblinks": [
+      {
+        "name": "The Artful Tester – Episode Two – Trip To TestBash Brighton",
+        "url": "https://www.ministryoftesting.com/dojo/lessons/the-artful-tester-episode-two-trip-to-testbash-brighton?s_id=6607403"
+      },
+      {
+        "name": "My TestBash Adventure by Conny Armitage",
+        "url": "https://www.ministryoftesting.com/dojo/lessons/my-testbash-adventure-by-conny-armitage?s_id=6607403"
+      }
+    ]
+  },
+  {
+    "name": "Patrick Prill",
+    "date": "12/02/2021",
+    "note": "Self-proclaimed 'Grumpster' but is, in fact, one of the nicest, warmest and funniest people you will ever meet. A super talented tester with an incredible amount of knowledge!",
+    "twitter": "https://twitter.com/TestPappy",
+    "linkedin": "https://www.linkedin.com/in/patrick-prill-50510077/"
+  },
+  {
+    "name": "Bill Matthews",
+    "date": "11/02/2021",
+    "note": "Bill is one of those people that never fails to impress you - His talks are informative, engaging and enlightening. Breaks down super technical topics in an easily digestible way. Also a wonderful human!!",
+    "twitter": "https://twitter.com/Bill_Matthews",
+    "linkedin": "https://www.linkedin.com/in/billmatthews"
   },
   {
     "name": "Dino Kacavenda",
