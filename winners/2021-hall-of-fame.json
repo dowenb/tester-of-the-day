@@ -1,5 +1,18 @@
 [
   {
+      "name": "Yevheniia Hlovatska",
+      "date": "15/02/2021",
+      "note": "Yevheniia has been sharing experience of using a whole team approach to quality to avoid the QA Bottleneck and find bugs early.",
+      "twitter": "https://twitter.com/yevheniiahl",
+      "linkedin": "https://www.linkedin.com/in/yevheniia-hlovatska",
+      "weblinks": [
+        {
+          "name": "Team as a Key to “Agile” Quality",
+          "url": "https://medium.com/wix-engineering/team-as-a-key-to-agile-quality-f0a0d170af82"
+        }
+      ]
+  },
+  {
     "name": "Sidharth Shukla",
     "date": "14/02/2021",
     "note": "Nominated by Arun Motoori: 'for his contributions at https://automationreinvented.blogspot.com. He is helping a lot of people clearing the interviews'",
