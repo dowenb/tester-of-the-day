@@ -15,8 +15,10 @@
     </p>
     <p class="bigLink">Find the full list of 2020 winners here: <a href="https://totd-2020.fullsnacktester.com/">https://totd-2020.fullsnacktester.com</a></p>
     <br />
+    <label for="search" class="hidden">Find a winner by name</label>
     <input
       type="text"
+      id="search"
       class="search"
       v-model="search"
       placeholder="Find winner by name"
@@ -141,11 +143,11 @@ a {
 }
 .winner:nth-child(odd) {
   background-color: #00aad4ff;
-  color: white;
+  color: black;
 }
 .winner:nth-child(even) {
   background-color: #ff0066ff;
-  color: white;
+  color: black;
 }
 .social {
   background-color: snow;
@@ -163,11 +165,11 @@ a {
   background-color: white;
 }
 #app > div > div:nth-child(odd) > ul > li.name > h2 {
-  color: orange;
+  color: black;
   font-size: 1.7em;
 }
 #app > div > div:nth-child(even) > ul > li.name > h2 {
-  color: orange;
+  color: black;
   font-size: 1.7em;
 }
 
@@ -214,5 +216,8 @@ img {
   padding: 5px;
   margin: 5px;
   font-size: 1.1em;
+}
+.hidden {
+  display:none;
 }
 </style>
