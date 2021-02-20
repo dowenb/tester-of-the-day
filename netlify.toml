@@ -1,7 +1,6 @@
 [build]
     [[redirects]]
     from = "/nominate"
-    to = "https://t.co/rMTSVzFAqP?amp=1"
+    to = "https://docs.google.com/forms/d/e/1FAIpQLSdYRE0nXymMCJ5WBzPp6xGfhFNqKbOaj7YzZwQqE5oBVSpb6w/viewform?usp=sf_link"
     status = 200
     force = true
-    
