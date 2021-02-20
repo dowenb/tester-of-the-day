@@ -1,0 +1,7 @@
+[build]
+    [[redirects]]
+    from = "/nominate"
+    to = "https://t.co/rMTSVzFAqP?amp=1"
+    status = 200
+    force = true
+    
