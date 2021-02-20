@@ -2,5 +2,7 @@
     [[redirects]]
     from = "/nominate"
     to = "https://docs.google.com/forms/d/e/1FAIpQLSdYRE0nXymMCJ5WBzPp6xGfhFNqKbOaj7YzZwQqE5oBVSpb6w/viewform?usp=sf_link"
-    status = 200
+    status = 301
     force = true
+    [redirects.headers]
+        X-From = "Netlify"
