@@ -1,5 +1,22 @@
 [
   {
+    "name": "Crystal Preston-Watson",
+    "date": "22/02/2021",
+    "note": "Nominated by Elizabeth Fiennes: Crystal is an accessibility advocate and caller out of what good looks like.",
+    "twitter": "https://twitter.com/ScopicEngineer",
+    "linkedin": "https://www.linkedin.com/in/crystalprestonwatson",
+    "weblinks": [
+        {
+            "name": "Crystal Preston-Watson",
+            "url": "https://crystalprestonwatson.com"
+        },
+        {
+            "name": "Crystal on Dev Community",
+            "url": "https://dev.to/crystalprestonwatson"
+        }
+    ]
+  },
+  {
     "name": "Robert Meaney",
     "date": "21/02/2021",
     "note": "Nominated by Conor Fitzgerald: for his willingness to share his knowledge on the 'ilities and for developing models that make it easy to understand.'",
