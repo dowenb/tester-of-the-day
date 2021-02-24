@@ -1,5 +1,17 @@
 [
-    {
+  {
+    "name": "Anne-Marie Charrett",
+    "date": "24/02/2021",
+    "note": "Nominated by Conor Fitzgerald for creating a valuable podcast for the community - Quality Coaching Roadshow.",
+    "twitter": "https://twitter.com/charrett",
+    "linked": "https://www.linkedin.com/in/testingtimes/",
+    "weblinks": [
+        {"name":"Quality Coaching Roadshow (Podcast)",
+                  "url": "https://www.spreaker.com/show/quality-coaching"
+        }
+    ]
+  },
+  {
     "name": "John Paul McGee",
     "date": "23/02/2021",
     "note": "Nominated by Russell Craxford: for creating and pushing himself to talk at local events and then at Test bash. He's also been instrumental in driving an internal test community at Sage.",
