@@ -1,7 +1,23 @@
 [build]
     [[redirects]]
     from = "/nominate"
-    to = "https://docs.google.com/forms/d/e/1FAIpQLSdYRE0nXymMCJ5WBzPp6xGfhFNqKbOaj7YzZwQqE5oBVSpb6w/viewform?usp=sf_link"
+    to = "https://docs.google.com/forms/d/e/1FAIpQLSdYRE0nXymMCJ5WBzPp6xGfhFNqKbOaj7YzZwQqE5oBVSpb6w/viewform"
+    status = 301
+    force = true
+    [redirects.headers]
+        X-From = "Netlify"
+
+    [[redirects]]
+    from = "/forms/nominate"
+    to = "https://docs.google.com/forms/d/e/1FAIpQLSdYRE0nXymMCJ5WBzPp6xGfhFNqKbOaj7YzZwQqE5oBVSpb6w/viewform"
+    status = 301
+    force = true
+    [redirects.headers]
+        X-From = "Netlify"
+
+    [[redirects]]
+    from = "/forms/interview"
+    to = "https://docs.google.com/forms/d/e/1FAIpQLSd-8_RHjLNC5EWknWnlWgtxCjt-y2PYh9XvrrXsfur8s_xM5Q/viewform"
     status = 301
     force = true
     [redirects.headers]
