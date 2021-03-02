@@ -1,5 +1,22 @@
 [
   {
+    "name": "Raghav Pal",
+    "date": "02/03/2021",
+    "note": "Nominated by Shailesh Kumar: on behalf of thousands of testers who owe him & me ..his proud student. An awesome teacher of everything re: testing/QA/DevOps. His mantra - \"Never Stop Learning, sharing and helping others\".",
+    "twitter": "https://twitter.com/LearnWithRaghav",
+    "linkedin": "https://www.linkedin.com/in/raghavpal/",
+    "weblinks": [
+      {
+        "name": "Automation Step by Step: Website",
+        "url": "https://automationstepbystep.com"
+      },
+      {
+        "name": "Automation Step by Step: YouTube",
+        "url": "https://youtube.com/channel/UCTt7pyY-o0eltq14glaG5dg/playlists"
+      }
+    ]
+  },
+  {
     "name": "Heather Talbot",
     "date": "01/03/2021",
     "note": "Nominated by Dan Peacock: For championing accessibility in her team since recently starting her career in testing, and designing an automated accessibility test framework.",
