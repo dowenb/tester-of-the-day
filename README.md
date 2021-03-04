@@ -50,18 +50,6 @@ See an opening and want to join in? DM me on Twitter [@FullSnackTester](https://
 
 ## Current Volunteers
 
-*Joe Paul*
-
-Twitter: [@QAJOEPAUL](https://twitter.com/QAJOEPAUL)
-
-*Simon Prior*
-
-Twitter: [@siprior](https://twitter.com/siprior)
-
-*Michael*
-
-Twitter: [@LangCheshire](https://twitter.com/LangCheshire)
-
 *Danny Dainton*
 
 Twitter: [@DannyDainton](https://twitter.com/DannyDainton)
@@ -74,8 +62,22 @@ Twitter: [@TheTestDoctor](https://twitter.com/TheTestDoctor)
 
 Linkedin: <https://www.linkedin.com/in/danielbilling/>
 
+*Michael*
+
+Twitter: [@LangCheshire](https://twitter.com/LangCheshire)
+
 *Shey Crompton*
 
 Twitter: [@SheyMouse](https://twitter.com/SheyMouse)
 
 Linkedin: <https://www.linkedin.com/in/sheycrompton/>
+
+*Simon Prior*
+
+Twitter: [@siprior](https://twitter.com/siprior)
+
+*Viv Richards*
+
+Twitter: [@11vlr](https://twitter.com/11vlr)
+
+LinkedIn: <https://www.linkedin.com/in/vivrichards/>

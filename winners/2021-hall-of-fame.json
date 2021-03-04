@@ -1,5 +1,18 @@
 [
   {
+    "name": "Melissa Fisher",
+    "date": "04/03/2021",
+    "note": "Nominated by Jesper Ottosen: A great article on Do test managers add value in agile settings? https://fishoutthebox.medium.com/do-test-managers-add-value-in-agile-settings-96f09fd4e6a1",
+    "twitter": "https://twitter.com/melissafisher",
+    "linkedin": "https://www.linkedin.com/in/melissa-fisher-979500197",
+    "weblinks": [
+      {
+        "name": "Do test managers add value in agile settings?",
+        "url": "https://fishoutthebox.medium.com/do-test-managers-add-value-in-agile-settings-96f09fd4e6a1"
+      }
+    ]
+  },
+  {
     "name": "Damian Synadinos",
     "date": "03/03/2021",
     "note": "Nominated by Patrick Prill: Damian’s continuous endeavor to teach people the basics about communication to make teams perform better, understand their needs and deliver what customers really want. Engaging with Damian and his work is always an enriching experience.",
