@@ -1,5 +1,11 @@
 [
   {
+    "name": "Scott Kenyon",
+    "date": "05/03/2021",
+    "note": "Nominated by Ady Stokes: Scott has been teaching a software testing bootcamp for new to tech folks. His energy and enthusiasm show through in the sessions and his knowledge and insights are really helping the students.",
+    "twitter": "https://twitter.com/testing_scott"
+  },
+  {
     "name": "Melissa Fisher",
     "date": "04/03/2021",
     "note": "Nominated by Jesper Ottosen: A great article on Do test managers add value in agile settings? https://fishoutthebox.medium.com/do-test-managers-add-value-in-agile-settings-96f09fd4e6a1",
