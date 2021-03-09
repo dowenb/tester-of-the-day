@@ -1,5 +1,52 @@
 [
   {
+    "name": "Gaspar Nagy",
+    "date": "08/03/2021",
+    "note": "Nominated by Venkat Ramakrishnan: For delivering an awesome talk about BDD Examples at Ministry Of Testing, Bangalore (https://www.meetup.com/Ministry-of-Testing-Bangalore) for our monthly meetup in February 2021.",
+    "twitter": "https://twitter.com/gasparnagy",
+    "linkedin": "https://www.linkedin.com/in/gasparnagy"
+  },
+  {
+    "name": "Craig Wylie",
+    "date": "07/03/2021",
+    "note": "Nominated by Peet Michielsen: For organising the Ministry of Testing Edinburgh meet ups, and the online meet ups since lockdown",
+    "twitter": "https://twitter.com/TheWylieKyote",
+    "linkedin": "https://www.linkedin.com/in/craigawylie"
+  },
+  {
+    "name": "Suman Bala",
+    "date": "06/03/2021",
+    "note": "Nominated by Yogita Lad: Most dedicated person to the testing community I have ever met. passionate about Testing and quality, speaker, trainer, motivator & mentor. Always ready to help & support despite of her busy schedule.",
+    "twitter": "https://twitter.com/sumanbala867",
+    "linkedin": "https://www.linkedin.com/in/sumanbala"
+  },
+  {
+    "name": "Scott Kenyon",
+    "date": "05/03/2021",
+    "note": "Nominated by Ady Stokes: Scott has been teaching a software testing bootcamp for new to tech folks. His energy and enthusiasm show through in the sessions and his knowledge and insights are really helping the students.",
+    "twitter": "https://twitter.com/testing_scott"
+  },
+  {
+    "name": "Melissa Fisher",
+    "date": "04/03/2021",
+    "note": "Nominated by Jesper Ottosen: A great article on Do test managers add value in agile settings? https://fishoutthebox.medium.com/do-test-managers-add-value-in-agile-settings-96f09fd4e6a1",
+    "twitter": "https://twitter.com/melissafisher",
+    "linkedin": "https://www.linkedin.com/in/melissa-fisher-979500197",
+    "weblinks": [
+      {
+        "name": "Do test managers add value in agile settings?",
+        "url": "https://fishoutthebox.medium.com/do-test-managers-add-value-in-agile-settings-96f09fd4e6a1"
+      }
+    ]
+  },
+  {
+    "name": "Damian Synadinos",
+    "date": "03/03/2021",
+    "note": "Nominated by Patrick Prill: Damian’s continuous endeavor to teach people the basics about communication to make teams perform better, understand their needs and deliver what customers really want. Engaging with Damian and his work is always an enriching experience.",
+    "twitter": "https://twitter.com/dsynadinos",
+    "linkedin": "https://www.linkedin.com/in/damiansynadinos"
+  },
+  {
     "name": "Raghav Pal",
     "date": "02/03/2021",
     "note": "Nominated by Shailesh Kumar: on behalf of thousands of testers who owe him & me ..his proud student. An awesome teacher of everything re: testing/QA/DevOps. His mantra - \"Never Stop Learning, sharing and helping others\".",
