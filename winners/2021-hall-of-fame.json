@@ -1,5 +1,12 @@
 [
   {
+    "name": "Danny Dainton",
+    "date": "18/03/2021",
+    "note": "Nominated by Amruth Pillai: Danny's super hero skill is the equivalent of finding a needle in a gigantic haystack we call the Postman codebase. An eagle eye for issues, big or small. If it has even the slightest chance of affecting our end users, Danny takes the bullet for them to catch it even before it hits production.",
+    "twitter": "https://twitter.com/DannyDainton",
+    "linkedin": "https://www.linkedin.com/in/dannydainton"
+  },
+  {
     "name": "Chris Forsyth",
     "date": "17/03/2021",
     "note": "Nominated by Gabbi: Gives up copious personal time to run QA Beginners Club and help with MOT Manchester",
