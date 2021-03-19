@@ -1,5 +1,12 @@
 [
   {
+    "name": "Kelly Wason",
+    "date": "19/03/2021",
+    "note": "Nominated by Jaswanth Manigundan: Kelly has been a champion in the Melbourne testing community. She has helped a lot of upcoming testers achieve their goals. Her mentorship is so selfless that she helps people without expecting anything in return. Her combined skillset with testing, development, management and coaching makes her a unique person. Thanks a lot Kelly for your amazing mentorship.",
+    "twitter": "https://twitter.com/@kel_wason",
+    "linkedin": "https://www.linkedin.com/in/kelly-wason-30000"
+  },
+  {
     "name": "Danny Dainton",
     "date": "18/03/2021",
     "note": "Nominated by Amruth Pillai: Danny's super hero skill is the equivalent of finding a needle in a gigantic haystack we call the Postman codebase. An eagle eye for issues, big or small. If it has even the slightest chance of affecting our end users, Danny takes the bullet for them to catch it even before it hits production.",
