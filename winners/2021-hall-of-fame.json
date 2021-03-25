@@ -1,5 +1,11 @@
 [
   {
+    "name": "João Proença",
+    "date": "25/03/2021",
+    "note": "Nominated by Thomas: for his talk about costs and value of automated tests and the cognitive biases that might prevent us from deleting them.",
+    "twitter": "https://twitter.com/@jrosaproenca"
+  },
+  {
     "name": "Elena Bazina",
     "date": "24/03/2021",
     "note": "Nominated by Simon Prior: Elena really is a passionate and driven tester who is keen to help drive and transform the practices in her org.",
