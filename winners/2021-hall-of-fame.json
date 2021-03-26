@@ -1,9 +1,16 @@
 [
   {
+    "name": "Stephen Mounsey",
+    "date": "26/03/2021",
+    "note": "Nominated by Russell Craxford: for helping to start and build a testing community in Newcastle by organising MOT Newcastle and also being  main artist and organizer for the Newcastle Test Atelier",
+    "twitter": "https://twitter.com/stephenmounsey",
+    "linkedin": "https://www.linkedin.com/in/stephen-mounsey-67502223"
+  },
+  {
     "name": "João Proença",
     "date": "25/03/2021",
     "note": "Nominated by Thomas: for his talk about costs and value of automated tests and the cognitive biases that might prevent us from deleting them.",
-    "twitter": "https://twitter.com/@jrosaproenca"
+    "twitter": "https://twitter.com/jrosaproenca"
   },
   {
     "name": "Elena Bazina",
