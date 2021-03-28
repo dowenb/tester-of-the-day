@@ -25,7 +25,7 @@ Congratulations <TwitterHandle> today's #TesterOfTheDay!
 Nominated by <name>: '<qoute>'
 
 Hall of Fame:
-https://testeroftheday.fullsnacktester.com
+https://testeroftheday.com
 ```
 
 ### Example Tweet
@@ -36,7 +36,7 @@ Congratulations @QAgile_stu today's #TesterOfTheDay!
 Nominated by @rutty_uk: 'for his fantastic efforts with his talks linking Agile and testing. We had him at #NottsTest this month - excellent test leader!'
 
 Hall of Fame:
-https://testeroftheday.fullsnacktester.com
+https://testeroftheday.com
 ```
 
 ## Winner JSON template
