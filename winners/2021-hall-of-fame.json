@@ -1,5 +1,12 @@
 [
   {
+    "name": "Niranjani Manoharan",
+    "date": "12/04/2021",
+    "note": "Nominated by Jesper: Niranjani runs an awesome DevOps book club, where the books are about servant leadership, leading quality, valuable acceleration of quality and much more.",
+    "twitter": "https://twitter.com/RanjaniRambles",
+    "linkedin": "https://www.linkedin.com/in/niranjanimanoharan/"
+  },
+  {
     "name": "Nicole van der Hoeven",
     "date": "09/04/2021",
     "note": "Nominated by Marie Drake: Nicole has been producing a lot of great content on performance testing. She is a developer advocate and also the co-host of k6 office hours. She recently did a meet up talk on Ministry of Testing Philippines about server side performance testing which was very informative. Her podcast episode on TestGuild with Joe Colantonio is also a great episode which I urge everyone to listen to.",
