@@ -22,3 +22,12 @@
     force = true
     [redirects.headers]
         X-From = "Netlify"
+
+    [[redirects]]
+    from = "/forms/community-interview"
+    to = "https://docs.google.com/forms/d/e/1FAIpQLSfCO2eNm10z7niplSB8ZyFcyzYq_WmBzBsI4hfogqaCXYH_RQ/viewform"
+    status = 301
+    force = true
+    [redirects.headers]
+        X-From = "Netlify"
+   
