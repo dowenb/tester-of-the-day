@@ -4,7 +4,13 @@
     "date": "23/04/2021",
     "note": "Nominated by Thomas Rinke: for being a wonderful guest on @TestersIsland talking about the need for diversity in sw development teams. I really enjoyed this episode.",
     "twitter": "https://twitter.com/buggylina",
-    "linkedin": "https://www.linkedin.com/in/linazubyte"
+    "linkedin": "https://www.linkedin.com/in/linazubyte",
+    "weblinks": [
+      {
+        "name": "Tester Island Discs",
+        "url": "https://www.ministryoftesting.com/dojo/series/testers-island-discs-podcast/lessons/testers-island-discs-ep45-lina-zubyte"
+      }
+    ]
   },
   {
     "name": "Louise Harney",
