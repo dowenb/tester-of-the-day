@@ -1,5 +1,18 @@
 [
   {
+    "name": "Callum Akehurst-Ryan",
+    "date": "27/04/2021",
+    "note": "Nominated by Thomas Rinke: for delivering a great #TestingAMA on #ExploratoryTesting, sharing perspectives, providing tips and answering even more questions on The Club.",
+    "twitter": "https://twitter.com/CAkehurstRyan",
+    "linkedin": "https://www.linkedin.com/in/cakehurstryan",
+    "weblinks": [
+      {
+        "name": "Testing AMA - Exploratory Testing",
+        "url": "https://www.ministryoftesting.com/dojo/lessons/testing-ask-me-anything-exploratory-testing-callum-akehurst-ryan"
+      }
+    ]
+  },
+  {
     "name": "Ashley Hunsberger",
     "date": "26/04/2021",
     "note": "Nominated by Melissa Fisher: Inspirational discussion on Leading an agile transformation on the Quality Sense podcast.",
