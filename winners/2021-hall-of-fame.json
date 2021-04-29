@@ -1,5 +1,18 @@
 [
   {
+    "name": "Gáspár Nagy",
+    "date": "29/03/2021",
+    "note": "Nominated by Thomas Rinke: for his perspectives shared in the @ministryoftest Banglaore online meetup 'Deliberate discovery of requirements with BDD'",
+    "twitter": "https://twitter.com/gasparnagy",
+    "linkedin": "https://www.linkedin.com/in/gasparnagy",
+    "weblinks": [
+      {
+        "name": "Deliberate discovery of requirements with BDD",
+        "url": "https://www.ministryoftesting.com/dojo/lessons/deliberate-discovery-of-requirements-with-bdd-with-gaspar-nagy"
+      }
+    ]
+  },
+  {
     "name": "Faiz Modi",
     "date": "28/04/2021",
     "note": "Nominated by Sanjay Kumar: Faiz is doing an amazing job as TTC enabler- The Test chat community where tester chat anything. He recognises everyone’s great work & help community by sharing his knowledge & work.",
