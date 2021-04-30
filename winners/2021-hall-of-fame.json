@@ -1,5 +1,13 @@
 [
   {
+    "name": "James Espie",
+    "date": "30/04/2021",
+    "note": "Nominated by Melissa Fisher: James has written an excellent article on the benefits of a bug bash and how to run one.  Well written and easy to digest for all team members.",
+    "twitter": "https://twitter.com/JamesEspie",
+    "linkedin": "https://www.linkedin.com/in/jespie",
+    "weblinks": [{"name": "Benefits Of A Bug Bash - And How To Run One", "url":"https://www.ministryoftesting.com/dojo/lessons/benefits-of-a-bug-bash-and-how-to-run-one"}]
+  },
+  {
     "name": "Gáspár Nagy",
     "date": "29/03/2021",
     "note": "Nominated by Thomas Rinke: for his perspectives shared in the @ministryoftest Banglaore online meetup 'Deliberate discovery of requirements with BDD'",
