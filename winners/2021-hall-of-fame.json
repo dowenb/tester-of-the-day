@@ -1,5 +1,22 @@
 [
   {
+    "name": "Naveen Khunteta",
+    "date": "04/05/2021",
+    "note": "Nominated by Mukta Sharma: He needs NO introduction as such, because people know him by his famous YouTube channel: 'Naveenautomationlabs'. This channel where there is something to learn for each and every tester around the world. He covers a wide range of technology tools, concept and guidance, covering DevOps, Docker the Cloud and beyond. He has been sharing his vast & in-depth knowledge related to testing with QA community for years. He is inspiration to many people around the globe. Heartiest thanks to you,Naveen From Mukta on behalf of entire QA community.",
+    "twitter": "https://twitter.com/naveenautomationlabs",
+    "linkedin": "http://linkedin.com/in/naveenkhunteta",
+    "weblinks": [
+      {
+        "name": "Naveen AutomationLabs (Website)",
+        "url": "https://naveenautomationlabs.com"
+      },
+      {
+        "name": "Naveen AutomationLabs (YouTube)",
+        "url": "https://www.youtube.com/c/NaveenAutomationLabs"
+      }
+    ]
+  },
+  {
     "name": "James Espie",
     "date": "30/04/2021",
     "note": "Nominated by Melissa Fisher: James has written an excellent article on the benefits of a bug bash and how to run one.  Well written and easy to digest for all team members.",
