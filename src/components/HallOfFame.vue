@@ -1,6 +1,6 @@
 <template>
   <div class="hall">
-    <a href="https://testeroftheday.fullsnacktester.com"
+    <a href="https://testeroftheday.com"
       ><img
         class="logo"
         src="../assets/hall-of-fame-header-2021.png"
