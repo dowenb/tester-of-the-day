@@ -1,5 +1,18 @@
 [
   {
+    "name": "Louise Harney",
+    "date": "06/05/2021",
+    "note": "Nominated by melissa fisher: Louise has an excellent blog where she has shared her journey to become a software tester.",
+    "twitter": "https://twitter.com/HarneyTester",
+    "linkedin": "https://www.linkedin.com/in/louisecronkrite",
+    "weblinks": [
+      {
+        "name": "Blog: My journey as an aspiring software tester",
+        "url": "https://harneytester.wordpress.com/author/harneytester/"
+      }
+    ]
+  },
+  {
     "name": "Jen Kitson",
     "date": "05/05/2021",
     "note": "Nominated by Georgia Bloyce: For giving an awesome PechaKucha on mistakes people make when writing a test strategy that made me say 'yessss!' with every slide!",
@@ -29,7 +42,12 @@
     "note": "Nominated by Melissa Fisher: James has written an excellent article on the benefits of a bug bash and how to run one.  Well written and easy to digest for all team members.",
     "twitter": "https://twitter.com/JamesEspie",
     "linkedin": "https://www.linkedin.com/in/jespie",
-    "weblinks": [{"name": "Benefits Of A Bug Bash - And How To Run One", "url":"https://www.ministryoftesting.com/dojo/lessons/benefits-of-a-bug-bash-and-how-to-run-one"}]
+    "weblinks": [
+      {
+        "name": "Benefits Of A Bug Bash - And How To Run One",
+        "url": "https://www.ministryoftesting.com/dojo/lessons/benefits-of-a-bug-bash-and-how-to-run-one"
+      }
+    ]
   },
   {
     "name": "Gáspár Nagy",
