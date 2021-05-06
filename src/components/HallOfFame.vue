@@ -9,11 +9,17 @@
     </a>
     <p>Celebrating the Software Testing Community, every day.</p>
     <p>
-      To Nominate someone please contact Ben Dowen on
-      <img src="../assets/twitter.svg" class="icon" alt="Twitter logo" />
-      <a href="https://twitter.com/fullsnacktester">@FullSnackTester</a>
+      To Nominate someone,
+      <a href="http://testeroftheday.com/forms/nominate"
+        >simply fill out the form</a
+      >.
     </p>
-    <p class="bigLink">Find the full list of 2020 winners here: <a href="https://totd-2020.fullsnacktester.com/">https://totd-2020.fullsnacktester.com</a></p>
+    <p class="bigLink">
+      Find the full list of 2020 winners here:
+      <a href="https://totd-2020.fullsnacktester.com/"
+        >https://totd-2020.fullsnacktester.com</a
+      >
+    </p>
     <br />
     <label for="search" class="hidden">Find a winner by name</label>
     <input
@@ -176,7 +182,7 @@ a {
 .note {
   font-size: 1.2em;
 }
-h1{
+h1 {
   color: black;
 }
 h2 {
@@ -218,6 +224,6 @@ img {
   font-size: 1.1em;
 }
 .hidden {
-  display:none;
+  display: none;
 }
 </style>
