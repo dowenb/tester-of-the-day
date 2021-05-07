@@ -4,7 +4,13 @@
     "date": "07/05/2021",
     "note": "Nominated by melissa fisher: Maaikee has created a very informative and engaging course on Ministry of Testing on Cognitive Biases in Testing.  Very awesome!!",
     "twitter": "https://twitter.com/Maaikees",
-    "linkedin": "https://www.linkedin.com/in/maaike-brinkhof-1942b725"
+    "linkedin": "https://www.linkedin.com/in/maaike-brinkhof-1942b725",
+    "weblinks": [
+      {
+        "name": "Cognitive Biases In Software Testing",
+        "url": "https://www.ministryoftesting.com/dojo/courses/cognitive-biases-in-software-testing"
+      }
+    ]
   },
   {
     "name": "Louise Harney",
