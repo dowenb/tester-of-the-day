@@ -1,5 +1,18 @@
 [
   {
+    "name": "Maaret Pyhäjärvi",
+    "date": "10/05/2021",
+    "note": "Nominated by Melissa Fisher: Maaret posts lots of interesting content on twitter and via her blog on exploratory testing.",
+    "twitter": "https://twitter.com/maaretp",
+    "linkedin": "https://www.linkedin.com/in/maaret",
+    "weblinks": [
+      {
+        "name": "Maaret Pyhäjärvi (blog/portfolio)",
+        "url": "https://maaretp.com"
+      }
+    ]
+  },
+  {
     "name": "Maaike Brinkhof",
     "date": "07/05/2021",
     "note": "Nominated by melissa fisher: Maaikee has created a very informative and engaging course on Ministry of Testing on Cognitive Biases in Testing.  Very awesome!!",
