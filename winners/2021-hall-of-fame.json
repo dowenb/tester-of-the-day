@@ -1,14 +1,21 @@
 [
   {
-    "name": "Alex Schladebeck",
+    "name": "Benjamin Bischoff",
     "date": "19/05/2021",
+    "note": "Nominated by Ben Dowen: Benjamin is consistently contributing to the community, sharing his views and insights on software testing. He has made apprentices in podcasts, his articles have been listed in Software Testing Weekly and gives back in so many other ways!",
+    "twitter": "https://twitter.com/BischoffDev",
+    "linkedin": "https://www.linkedin.com/in/benjamin-bischoff/"
+  },
+  {
+    "name": "Alex Schladebeck",
+    "date": "18/05/2021",
     "note": "Nominated by Thomas Rinke: for her updated talk on Microheuristics, which was my highlight of the first day of #GermanTesting Day, honored with the best speaker award of the conference.",
     "twitter": "https://twitter.com/alex_schl",
     "linkedin": "https://www.linkedin.com/in/alexandraschladebeck/"
   },
   {
     "name": "Áine McGovern",
-    "date": "18/05/2021",
+    "date": "17/05/2021",
     "note": "Nominated by Thomas Rinke: for supporting #ExploratoryWeek and other events with helpful links and background info and, therefore, taking the sessions to a different level.",
     "twitter": "https://twitter.com/mcgovernaine",
     "linkedin": "https://www.linkedin.com/in/%C3%A1ine-mcgovern-21475513"
