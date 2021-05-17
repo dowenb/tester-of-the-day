@@ -1,5 +1,11 @@
 [
   {
+    "name": "Danial Shaw",
+    "date": "21/05/2021",
+    "note": "Nominated by Peet Michielsen: I worked with Daniel for almost several years and really appreciated how he advocated for good QA practices in our company. Hope he will continue doing the same in his new place",
+    "twitter": "https://twitter.com/thatdamnqa"
+  },
+  {
     "name": "Benjamin Bischoff",
     "date": "20/05/2021",
     "note": "Nominated by Ben Dowen: Benjamin is consistently contributing to the community, sharing his views and insights on software testing. He has made apprentices in podcasts, his articles have been listed in Software Testing Weekly and gives back in so many other ways!",
@@ -26,7 +32,8 @@
     "note": "Nominated by Thomas Rinke: for her interactive and insightful #99MinuteWorkshop on #TestingInProduction. It was fun and led to a better understanding of some concepts around that topic.",
     "twitter": "https://twitter.com/a_bangser",
     "linkedin": "https://www.linkedin.com/in/abbybangser"
-  },{
+  },
+  {
     "name": "Simon Tomes",
     "date": "13/05/2021",
     "note": "Nominated by Thomas Rinke: for being a wonderful guest on the @ministryoftest podcast sharing his passion for #ExploratoryTesting.",
