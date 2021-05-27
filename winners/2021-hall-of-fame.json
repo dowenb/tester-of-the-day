@@ -1,5 +1,12 @@
 [
   {
+    "name": "Jörg Hornung",
+    "date": "27-05-2021",
+    "note": "Nominated by Benjamin Bischoff: Jörg has put a lot of effort into making QA at trivago a respected and indispensable part of the development and release process.",
+    "twitter": "https://twitter.com/heidelfuchs",
+    "linkedin": "https://www.linkedin.com/in/j%C3%B6rg-hornung-6407a15b"
+  },
+  {
     "name": "Huib Schoots",
     "date": "26/05/2021",
     "note": "Nominated by Thomas Rinke: for delivering another engaging and helpful #99MinuteWorkshop, this time on Storytelling and Test Reporting during the #ExploratoryWeek.",
