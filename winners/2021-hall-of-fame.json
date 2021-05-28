@@ -1,5 +1,18 @@
 [
   {
+    "name": "Lee Hawkins",
+    "date": "28/05/2021",
+    "note": "Nominated by Thomas Rinke: for being an interesting guest on @TestersIsland sharing insightful perspectives on #ExploratoryTesting and lots of resources on that topic.",
+    "twitter": "https://twitter.com/therockertester",
+    "linkedin": "https://www.linkedin.com/in/lee-hawkins-3574148/",
+    "weblinks": [
+      {
+        "name": "Tester Island Discs",
+        "url": "https://www.ministryoftesting.com/dojo/series/testers-island-discs-podcast/lessons/testers-island-discs-ep46-lee-hawkins"
+      }
+    ]
+  },
+  {
     "name": "Jörg Hornung",
     "date": "27-05-2021",
     "note": "Nominated by Benjamin Bischoff: Jörg has put a lot of effort into making QA at trivago a respected and indispensable part of the development and release process.",
