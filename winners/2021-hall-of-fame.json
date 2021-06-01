@@ -1,5 +1,11 @@
 [
   {
+    "name": "Lynda Gaines",
+    "date": "01/06/2021",
+    "note": "Nominated by Ben Dowen: Is preventing bugs cheaper then fixing them? Lynda has an article that dives deep on this topic, including pulling out some great details from the well known book 'How Google Tests Software'.",
+    "linkedin": "https://www.linkedin.com/in/lyndagaines/"
+  },
+  {
     "name": "Lisi Hocke",
     "date": "31/05/2021",
     "note": "Nominated by Thomas Rinke: for her excellent workshop 'Ensemble Exploratory Testing' at #GermanTesting Day. Perfectly facilitated, creating a safe space for the participants, supporting our learning.",
