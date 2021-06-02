@@ -1,5 +1,18 @@
 [
   {
+    "name": "Maaret Pyhäjärvi",
+    "date": "02/06/2021",
+    "note": "Nominated by Thomas Rinke: for her perspectives shared in endless talks and her blog. Her post 'I don't trust your testing and how to change that' offers lots of ideas to improve your testing.",
+    "twitter": "https://twitter.com/maaretp",
+    "linkedin": "https://www.linkedin.com/in/maaret/",
+    "weblinks": [
+      {
+        "name": "I don't trust your testing and how to change that",
+        "url": "https://visible-quality.blogspot.com/2021/04/i-dont-trust-your-testing-and-how-to.html"
+      }
+    ]
+  },
+  {
     "name": "Lynda Gaines",
     "date": "01/06/2021",
     "note": "Nominated by Ben Dowen: Is preventing bugs cheaper then fixing them? Lynda has an article that dives deep on this topic, including pulling out some great details from the well known book 'How Google Tests Software'.",
