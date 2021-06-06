@@ -368,8 +368,14 @@
   {
     "name": "Sopan Sagorkar",
     "date": "05/04/2021",
-    "note": "Nominated by Chetan, Anju and Darshan. Highlighted was his curiosity and depth of application knowledge. Curious and innovative in API and Mobile Test Automation. On top of his technical skills, he is a team player, working closely with developers and encouraging them to change their mindset.",
+    "note": "Nominated by Chetan, Anuj and Darshan. Highlighted was his curiosity and depth of application knowledge. Curious and innovative in API and Mobile Test Automation. On top of his technical skills, he is a team player, working closely with developers and encouraging them to change their mindset.",
     "linkedin": "https://www.linkedin.com/in/sopan-sagorkar-387349a0",
+    "weblinks": [
+      {
+        "name": "Sopan's Portfolio",
+        "url": "https://sopansagorkar.github.io/"
+      }
+    ],
     "twitter": "https://twitter.com/PsycoSopan"
   },
   {
