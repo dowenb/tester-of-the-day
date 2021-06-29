@@ -1,5 +1,36 @@
 [
   {
+    "name": "Bruce and Chris",
+    "date": "29/06/2021",
+    "note": "Nominated by Antonella: I'd like to make a double nomination this time :D I'd like to recognize Bruce and Chris for their double solidarity, staying awake just as Richard is but also staying awake to raise funds.",
+    "weblinks": [
+      {
+        "name": "Bruce (Twitter)",
+        "url": "https://twitter.com/BruceOnlyBruce"
+      },
+      {
+        "name": "Chris Armstrong (Twitter)",
+        "url": "https://twitter.com/christovskia"
+      },
+      {
+        "name": "Bruce (LinkedIn)",
+        "url": "https://www.linkedin.com/in/bruce-hughes-20b270a0/"
+      },
+      {
+        "name": "Chris Armstrong (LinkedIn)",
+        "url": "https://www.linkedin.com/in/christovskia/"
+      },
+      {
+        "name": "Bruce (Blog)",
+        "url": "https://undevelopedbruce.com/"
+      },
+      {
+        "name": "Chris Armstrong (Blog)",
+        "url": "https://christovskia.blog/"
+      }
+    ]
+  },
+  {
     "name": "Patrick Prill",
     "date": "28/06/2021",
     "note": "Nominated by Jesper Ottosen: For the article 'Testing, Quality, and my inability to teach', for spelling out all the different tasks there might be in a tester of today.",
