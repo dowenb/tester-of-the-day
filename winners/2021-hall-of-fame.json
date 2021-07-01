@@ -1,5 +1,36 @@
 [
   {
+    "name": "Erin Hess and Jenny Bramble",
+    "date": "01/07/2021",
+    "note": "Nominated by Kelly Kenyon: Did an amazing talk on the Empathy is the Foundation of Testing at Test Bash and has made me think a lot about different people and both have amazing blogs",
+    "weblinks": [
+      {
+        "name": "Erin Hess (Twitter)",
+        "url": "https://twitter.com/@QueenTester"
+      },
+      {
+        "name": "Jenny Bramble (Twitter)",
+        "url": "https://twitter.com/jennydoesthing"
+      },
+      {
+        "name": "Erin Hess (LinkedIn)",
+        "url": "https://www.linkedin.com/in/erin-hess/"
+      },
+      {
+        "name": "Jenny Bramble (LinkedIn)",
+        "url": "https://www.linkedin.com/in/jennybramble/"
+      },
+      {
+        "name": "Erin Hess (Blog)",
+        "url": "https://erin-hess.medium.com/"
+      },
+      {
+        "name": "Jenny Bramble (Blog)",
+        "url": "http://jennydoesthings.com/"
+      }
+    ]
+  },
+  {
     "name": "Aidan Hourigan",
     "date": "30/06/2021",
     "note": "Nominated by Bob Salmon: Aidan has exceeded expectations for a long time.  He does a very thorough job, and his bug reports have everything I need to start fixing the problem.",
