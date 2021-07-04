@@ -1,5 +1,28 @@
 [
   {
+    "name": "Antonella Scaravilli and Ileana Lorena",
+    "date": "05/07/2021",
+    "note": "Nominated For being very active and supportive in the Testing community!",
+    "weblinks": [
+      {
+        "name": "Antonella Scaravilli (Twitter)",
+        "url": "https://twitter.com/AntzScaravilli"
+      },
+      {
+        "name": "Ileana Lorena (Twitter)",
+        "url": "https://twitter.com/ileana_herrera"
+      },
+      {
+        "name": "Antonella Scaravilli (LinkedIn)",
+        "url": "https://www.linkedin.com/in/antonella-scaravilli-4489a7b9"
+      },
+      {
+        "name": "Ileana Lorena (LinkedIn)",
+        "url": "https://www.linkedin.com/in/ileana-herrera"
+      }
+    ]
+  },
+  {
     "name": "Erika Chestnut",
     "date": "02/07/2021",
     "note": "Nominated by Deborah: Such an engaging, fun, interesting Test Bash Home talk!",
