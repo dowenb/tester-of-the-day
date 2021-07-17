@@ -1,5 +1,51 @@
 [
   {
+    "name": "Benjamin Butel And Emna Ayadi",
+    "date": "22/07/2021",
+    "note": "Nominated by Conor Fitzgerald: Translated 'Agile Testing Condensed' to French!",
+    "weblinks": [
+      {
+        "name": "Benjamin Butel (Twitter)",
+        "url": "https://twitter.com/BenjaminButel"
+      },
+      {
+        "name": "Emna Ayadi (Twitter)",
+        "url": "https://twitter.com/emna__ayadi"
+      },
+      {
+        "name": "Benjamin Butel (LinkedIn)",
+        "url": "https://www.linkedin.com/in/benjaminbutel"
+      },
+      {
+        "name": "Emna Ayadi (LinkedIn)",
+        "url": "https://www.linkedin.com/in/emnaayadi"
+      },
+      {
+        "name": "Agile Testing Condensed, Version française",
+        "url": "https://leanpub.com/agiletestingcondensed-fr"
+      }
+    ]
+  },
+  {
+    "name": "Jugal Patil",
+    "date": "21/07/2021",
+    "note": "Nominated by Jayesh: Passionate Tester. Community builder. Always ready to share knowledge and help needy ones. Founder of QA Times community. Provide free carrier guidance to many. Active involvement in community activities. Poet and blogger. Good at Liberating Structures.",
+    "twitter": "https://twitter.com/patiljugal598",
+    "linkedin": "https://www.linkedin.com/in/jugal-patil-2471a463"
+  },
+  {
+    "name": "Pankaj Kumar",
+    "date": "20/07/2021",
+    "note": "Nominated by Kamlesh Singh: He has build a script of web scrapping with python to fetch all the latest job posted on LinkedIn with job role, organization, job location and job link. It has been helping lot of people to search and apply for job who had lost their job in pandemic.",
+    "linkedin": "https://www.linkedin.com/in/pankaj-k-23a76539/"
+  },
+  {
+    "name": "Ryan Dudley",
+    "date": "19/07/2021",
+    "note": "Nominated by Jane Kelly: I'm delighted to nominate Ryan, who has been a valued technical support as a real-time automation buddy. Ryan made the time to share skills and experience in relation to trouble shoot the automation code script. Teaming up, cross skilling remotely and optimising knowledge sharing across the miles. Thank you Ryan!",
+    "linkedin": "https://www.linkedin.com/in/ryandudley1"
+  },
+  {
     "name": "Elisabeth Hendrickson",
     "date": "15/07/2021",
     "note": "Nominated by Thomas Rinke: for her inspiring book 'Explore It!', which provides a wonderful introduction to exploratory testing.",
