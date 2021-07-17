@@ -1,5 +1,32 @@
 [
   {
+    "name": "Benjamin Butel And Emna Ayadi",
+    "date": "22/07/2021",
+    "note": "Nominated by Conor Fitzgerald: Translated 'Agile Testing Condensed' to French!",
+    "weblinks": [
+      {
+        "name": "Benjamin Butel (Twitter)",
+        "url": "https://twitter.com/BenjaminButel"
+      },
+      {
+        "name": "Emna Ayadi (Twitter)",
+        "url": "https://twitter.com/emna__ayadi"
+      },
+      {
+        "name": "Benjamin Butel (LinkedIn)",
+        "url": "https://www.linkedin.com/in/benjaminbutel"
+      },
+      {
+        "name": "Emna Ayadi (LinkedIn)",
+        "url": "https://www.linkedin.com/in/emnaayadi"
+      },
+      {
+        "name": "Agile Testing Condensed, Version française",
+        "url": "https://leanpub.com/agiletestingcondensed-fr"
+      }
+    ]
+  },
+  {
     "name": "Jugal Patil",
     "date": "21/07/2021",
     "note": "Nominated by Jayesh: Passionate Tester. Community builder. Always ready to share knowledge and help needy ones. Founder of QA Times community. Provide free carrier guidance to many. Active involvement in community activities. Poet and blogger. Good at Liberating Structures.",
