@@ -6,7 +6,7 @@
 
 ## Published site
 
-Available at: <https://testeroftheday.fullsnacktester.com/>
+Available at: <https://testeroftheday.com/>
 
 ## Project setup
 
