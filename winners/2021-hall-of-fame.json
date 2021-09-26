@@ -1,7 +1,20 @@
 [
   {
+    "name": "Matías Pírez",
+    "date": "28/09/2021",
+    "note": "Nominated by Emna Ayadi: One of the inspiring and successful testers. He started his testing journey by having an accountant background.",
+    "twitter": "https://twitter.com/matiaspirez",
+    "linkedin": "https://www.linkedin.com/in/matiaspirez",
+    "weblinks": [
+      {
+        "name": "nterview 15: A Software Tester Journey After Being an Accountant",
+        "url": "https://emnaayadi.com/2021/07/09/interview-15-a-software-tester-journey-after-being-an-accountant/"
+      }
+    ]
+  },
+  {
     "name": "Nicola Lindgreen",
-    "date": "07/09/2021",
+    "date": "27/09/2021",
     "note": "Nominated by Jesper Ottosen: The blogpost that have digged deeper into how the status quo bias makes implementing change rather difficult.",
     "twitter": "https://twitter.com/NicolaLindgren",
     "weblinks": [
