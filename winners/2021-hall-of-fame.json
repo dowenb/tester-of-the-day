@@ -1,5 +1,17 @@
 [
   {
+    "name": "Nicola Lindgreen",
+    "date": "07/09/2021",
+    "note": "Nominated by Jesper Ottosen: The blogpost that have digged deeper into how the status quo bias makes implementing change rather difficult.",
+    "twitter": "https://twitter.com/NicolaLindgren",
+    "weblinks": [
+      {
+        "name": "Bloggers Club: Implementing Change",
+        "url": "https://nicolalindgren.com/2021/08/03/bloggers-club-implementing-change/"
+      }
+    ]
+  },
+  {
     "name": "Patrick Prill",
     "date": "24/09/2021",
     "note": "Nominated by Lisi Hocke: For your amazing series of blog posts on test automation and models! Not only are they super insightful and a great reference, they also came very timely as input and resource for a test automation workshop. Thank you! :)",
