@@ -1,5 +1,32 @@
 [
   {
+    "name": "Pricilla & Priyanka",
+    "date": "07/10/2021",
+    "note": "Nominated by Nithin: I'd like to celebrate two amazing testers who has created a fantastic learning series on Postman & KarateDSL. The 8 part series of APIs Unleashed is something unique came out from their wonderful efforts to sharing knowledge with the community. It’s an honor to have them in our community and I’d like to make a double nomination to recognize Pricilla Bilavendran and Priyanka Brahmane.",
+    "weblinks": [
+      {
+        "name": "Pricilla Bilavendran (Twitter)",
+        "url": "https://twitter.com/pricillabelwin"
+      },
+      {
+        "name": "Priyanka (Twitter)",
+        "url": "https://twitter.com/pbrahmane"
+      },
+      {
+        "name": "Pricilla (LinkedIn)",
+        "url": "https://www.linkedin.com/in/pricilla-b"
+      },
+      {
+        "name": "Priyanka (LinkedIn)",
+        "url": "https://www.linkedin.com/in/priyanka-b-a32425bb"
+      },
+      {
+        "name": "APIS UNLEASHED",
+        "url": "https://bit.ly/apis-unleashed"
+      }
+    ]
+  },
+  {
     "name": "Neil Studd",
     "date": "06/10/2021",
     "note": "Nominated by Beth Marshall: Neil has been on fire the last few weeks - not only co-hosting an incredible new weekly tech podcast but doing an awesome Postman webinar code-along, creating a shared repo for everyone to use. Your hard work is totally paying off Neil - congrats!",
