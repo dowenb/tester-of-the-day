@@ -1,5 +1,12 @@
 [
   {
+    "name": "Christian Kram",
+    "date": "14/10/2021",
+    "note": "Nominated by Thomas Rinke: for his (German) talk 'Behavior dropped development' on anti-patterns observable in the application of #BDD as well solution ideas.",
+    "twitter": "https://twitter.com/chr_kram",
+    "linkedin": "https://www.linkedin.com/in/christian-kram"
+  },
+  {
     "name": "Andy Hird",
     "date": "13/10/2021",
     "note": "Nominated by Erin Hess: I nominate Andy because he continues to inspire me to learn and grow as a tester.",
