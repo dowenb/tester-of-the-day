@@ -1,5 +1,18 @@
 [
   {
+    "name": "Viv Richards",
+    "date": "01/11/2021",
+    "note": "Nominated by Lisi Hocke: For creating multiple resources allowing people to discover the potential of the Chrome DevTools, like the Testers Playground and your recent MoT podcast on your course. Thanks, Viv!",
+    "twitter": "https://twitter.com/11vlr",
+    "linkedin": "https://www.linkedin.com/in/vivrichards",
+    "weblinks": [
+      {
+        "name": "BLOG | VIV RICHARDS",
+        "url": "https://vivrichards.co.uk"
+      }
+    ]
+  },
+  {
     "name": "Sharon O'Boyle",
     "date": "29/10/2021",
     "note": "Nominated by melissa fisher: Sharon did an inspiring talk at TestFlix on exploring how to use SFDIPOT to learn applications.  A unique presentation in mind map form. Read more about it on Sharon's blog.",
