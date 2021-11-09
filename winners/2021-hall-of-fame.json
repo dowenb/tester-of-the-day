@@ -1,5 +1,28 @@
 [
   {
+    "name": "Mark Winteringham and Richard Bradshaw",
+    "date": "09/11/2021",
+    "note": "Nominated by Thomas Rinke: for transforming their #AutomationInTesting workshop into a series of #99MinuteWorkshops available for free with a @ministryOfTest pro membership.",
+    "weblinks": [
+      {
+        "name": "Richard Bradshaw Twitter",
+        "url": "https://twitter.com/FriendlyTester"
+      },
+      {
+        "name": "Mark Winteringham Twitter",
+        "url": "https://twitter.com/2bittester"
+      },
+      {
+        "name": "Richard Bradshaw LinkedIn",
+        "url": "https://www.linkedin.com/in/friendlytester/"
+      },
+      {
+        "name": "Mark Winteringham Linkedin",
+        "url": "https://www.linkedin.com/in/markwinteringham/"
+      }
+    ]
+  },
+  {
     "name": "Emna Ayadi",
     "date": "08/11/2021",
     "note": "Nominated by Jesper Ottosen: Making a power move to create her evaluation model to better help the teams grow.",
