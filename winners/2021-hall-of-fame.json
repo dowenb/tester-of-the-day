@@ -1,5 +1,12 @@
 [
   {
+    "name": "Simon Tomes",
+    "date": "19/11/2021",
+    "note": "Nominated by Mirza Sisic: For tirelessly supporting and contributing to the testing community, for being a good conversationalist and one very cool dude!",
+    "twitter": "https://twitter.com/simon_tomes",
+    "linkedin": "https://www.linkedin.com/in/simontomes"
+  },
+  {
     "name": "Mark Winteringham and Richard Bradshaw",
     "date": "09/11/2021",
     "note": "Nominated by Thomas Rinke: for transforming their #AutomationInTesting workshop into a series of #99MinuteWorkshops available for free with a @ministryOfTest pro membership.",
