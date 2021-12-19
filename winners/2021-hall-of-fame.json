@@ -1,5 +1,20 @@
 [
   {
+    "name": "Lisa Crispin and Janet Gregory",
+    "date": "26/12/2021",
+    "note": "Nominated by Thomas Rinke: for facilitating the #LeanCoffee every morning during #AgileTD. Thank you for taking the time, making the sessions very special.",
+    "weblinks": [
+      {
+        "name": "Lisa Crispin on Twitter",
+        "url": "https://twitter.com/lisacrispin"
+      },
+      {
+        "name": "Janet Gregory on Twitter",
+        "url": "https://twitter.com/janetgregoryca"
+      }
+    ]
+  },
+  {
     "name": "Orane Findley",
     "date": "24/12/2021",
     "note": "Nominated by Tamoya Beckford: Orane is a test automation experts at QualityWorks and he took the time to share with my company's QA team about what to consider and look for when transitioning to Test Automation. My team and I really appreciate his presentation. Thanks Orane.",
