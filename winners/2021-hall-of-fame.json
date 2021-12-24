@@ -1,11 +1,19 @@
 [
   {
+    "name": "Orane Findley",
+    "date": "24/12/2021",
+    "note": "Nominated by Tamoya Beckford: Orane is a test automation experts at QualityWorks and he took the time to share with my company's QA team about what to consider and look for when transitioning to Test Automation. My team and I really appreciate his presentation. Thanks Orane.",
+    "twitter": "https://twitter.com/orane_findley",
+    "linkedin": "https://www.linkedin.com/in/orane-findley/"
+  },
+  {
     "name": "Simon Prior",
     "date": "23/12/2021",
     "note": "Nominated by Thomas Rinke: for his podcast TestSphere Roulette, initiating conversations about random test topics with wonderful guests. Always interesting to listen to.",
     "twitter": "https://twitter.com/LeadTestInclude",
     "linkedin": "https://www.linkedin.com/in/simon-prior-0499372"
-  },{
+  },
+  {
     "name": "Tobias Geyer",
     "date": "22/12/2021",
     "note": "Nominated by Samuel Nitsche: He's the absolute best support companion you could wish for. Alway providing thoughtful feedback, asking great questions, with the bravery to be openly vulnerable but so full of curiosity.",
