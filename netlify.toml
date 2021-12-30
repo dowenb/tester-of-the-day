@@ -1,7 +1,7 @@
 [build]
     [[redirects]]
     from = "/nominate"
-    to = "https://docs.google.com/forms/d/e/1FAIpQLSdYRE0nXymMCJ5WBzPp6xGfhFNqKbOaj7YzZwQqE5oBVSpb6w/viewform"
+    to = "https://docs.google.com/forms/d/e/1FAIpQLSfj6KYzYOm4bydhvuq7n3GZSA26IxPlIxCglowVdxJGjgWG3w/viewform"
     status = 301
     force = true
     [redirects.headers]
@@ -9,7 +9,7 @@
 
     [[redirects]]
     from = "/forms/nominate"
-    to = "https://docs.google.com/forms/d/e/1FAIpQLSdYRE0nXymMCJ5WBzPp6xGfhFNqKbOaj7YzZwQqE5oBVSpb6w/viewform"
+    to = "https://docs.google.com/forms/d/e/1FAIpQLSfj6KYzYOm4bydhvuq7n3GZSA26IxPlIxCglowVdxJGjgWG3w/viewform"
     status = 301
     force = true
     [redirects.headers]
