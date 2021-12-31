@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Test Tester",
+    "date": "2022-01-01",
+    "nominated_by": "Ben Dowen",
+    "nomination_text": "Some nomination text here",
+    "twitter": "https://twitter.com/fullsnacktester",
+    "linkedin": "https://linkedin.com/in/dowenb",
+    "weblinks": [
+      {
+        "name": "Google UK Homepage",
+        "url": "https://google.co.uk"
+      }
+    ]
+  }
+]
