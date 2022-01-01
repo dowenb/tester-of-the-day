@@ -15,7 +15,7 @@
       >.
     </p>
     <p class="bigLink">
-      Find the full list of 2021 winners here:
+      Find the full list of 2022 winners here:
       <a href="https://2022.testeroftheday.com"
         >https://2022.testeroftheday.com</a
       >
