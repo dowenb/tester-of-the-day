@@ -15,9 +15,16 @@
       >.
     </p>
     <p class="bigLink">
+      Find the full list of 2021 winners here:
+      <a href="https://2021.testeroftheday.com"
+        >https://2021.testeroftheday.com</a
+      >
+    </p>
+    <br />
+    <p class="bigLink">
       Find the full list of 2020 winners here:
-      <a href="https://totd-2020.fullsnacktester.com/"
-        >https://totd-2020.fullsnacktester.com</a
+      <a href="https://2020.testeroftheday.com"
+        >https://2020.testeroftheday.com</a
       >
     </p>
     <br />
