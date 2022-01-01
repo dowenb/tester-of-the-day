@@ -3,7 +3,7 @@
     <a href="https://testeroftheday.com"
       ><img
         class="logo"
-        src="../assets/hall-of-fame-header-2021.png"
+        src="../assets/hall-of-fame-header-2022.png"
         alt="Tester of the day hall of fame"
       />
     </a>
@@ -32,7 +32,7 @@
     <div
       class="winner"
       v-for="winner in filteredWinners"
-      v-bind:key="winner.date"
+      v-bind:key="winner.id"
     >
       <ul>
         <li class="name">
@@ -50,9 +50,10 @@
             />
           </h2>
         </li>
-        <li class="note">{{ winner.note }}</li>
+
+        <li class="note">{{ winner.nomination_text }}</li>
+        <li class="note">Nominated by {{ winner.nominated_by }}</li>
         <li class="windate">
-          Tester of the day:
           <img
             src="../assets/calendar.svg"
             class="icon"
@@ -86,7 +87,7 @@
     <a href="https://twitter.com/fullsnacktester">
       <img
         class="fullSnack"
-        src="../assets/ben-2021.png"
+        src="../assets/ben-2022.png"
         alt="Full Snack Test Engineer Ben Dowen"
       />
     </a>
@@ -94,7 +95,7 @@
 </template>
 
 <script>
-import winnersList from "../../winners/2021-hall-of-fame.json";
+import winnersList from "../../winners/2022-hall-of-fame.json";
 export default {
   data() {
     return {
@@ -140,7 +141,7 @@ a {
   width: 100%;
   display: block;
   border-style: solid;
-  border-color: black;
+  border-color: #dc582a;
   margin-bottom: 5px;
   margin-top: 5px;
   margin-left: 0px;
@@ -148,14 +149,17 @@ a {
   position: relative;
 }
 .winner:nth-child(odd) {
-  background-color: #00aad4ff;
+  background-color: #dc582a;
   color: black;
 }
 .winner:nth-child(even) {
-  background-color: #ff0066ff;
+  background-color: #dc582a;
   color: black;
 }
 .social {
+  background-color: snow;
+}
+.windate {
   background-color: snow;
 }
 .icon {
