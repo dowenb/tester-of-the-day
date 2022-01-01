@@ -1,16 +1,25 @@
 [
   {
-    "id": 1,
-    "name": "Test Tester",
+    "id": 2,
+    "name": "Veerle Verhagen",
     "date": "2022-01-01",
-    "nominated_by": "Ben Dowen",
-    "nomination_text": "Some nomination text here",
-    "twitter": "https://twitter.com/fullsnacktester",
-    "linkedin": "https://linkedin.com/in/dowenb",
+    "nominated_by": "Tobias Geyer",
+    "nomination_text": "For starting a book club to (re)read Agile Testing Condensed, organizing live chats about the progress and sharing their learnings",
+    "twitter": "https://twitter.com/witchofthetest",
+    "linkedin": "https://www.linkedin.com/in/veerleverhagen"
+  },
+  {
+    "id": 1,
+    "name": "Samuel Nitsche",
+    "date": "2022-01-01",
+    "nominated_by": "Tobias Geyer",
+    "nomination_text": "For starting a book club to (re)read Agile Testing Condensed, organizing live chats about the progress and sharing their learnings",
+    "twitter": "https://twitter.com/der_pesse",
+    "linkedin": "https://www.linkedin.com/in/samuel-nitsche-457ba3158",
     "weblinks": [
       {
-        "name": "Google UK Homepage",
-        "url": "https://google.co.uk"
+        "name": "Developer Sam",
+        "url": "https://developer-sam.de"
       }
     ]
   }
