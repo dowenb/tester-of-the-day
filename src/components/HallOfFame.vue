@@ -19,9 +19,16 @@
       <a href="https://twitter.com/fullsnacktester">@FullSnackTester</a>
     </p>
     <p class="bigLink">
-      Find the full list of winners for the current year here:
-      <a href="https://testeroftheday.fullsnacktester.com/"
-        >https://testeroftheday.fullsnacktester.com</a
+      Find the full list of 2022 winners here:
+      <a href="https://2022.testeroftheday.com"
+        >https://2022.testeroftheday.com</a
+      >
+    </p>
+    <br />
+    <p class="bigLink">
+      Find the full list of 2021 winners here:
+      <a href="https://2021.testeroftheday.com"
+        >https://2021.testeroftheday.com</a
       >
     </p>
     <br />
