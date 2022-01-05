@@ -1,5 +1,14 @@
 [
   {
+    "id": "3",
+    "name": "Áine McGovern",
+    "date": "2022-01-05",
+    "nominated_by": "Anonymous nomination",
+    "nomination_text": "Áine does incredible work supporting the testing community by supporting meetups and sharing tonnes of useful information. She's a cornerstone of the community ❤️",
+    "twitter": "https://twitter.com/mcgovernaine",
+    "linkedin": "https://www.linkedin.com/in/%C3%A1ine-mcgovern-21475513"
+  },
+  {
     "id": 2,
     "name": "Veerle Verhagen",
     "date": "2022-01-01",
