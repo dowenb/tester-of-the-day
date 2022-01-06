@@ -1,5 +1,14 @@
 [
   {
+    "id": "4",
+    "name": "Craig Morten",
+    "date": "2022-01-06",
+    "nominated_by": "Nominated by Aj Wilson",
+    "nomination_text": "Might be the biggest testing advocate at ASOS for quality, his work on accessibility has been amazing and eye opening. He is probably the best TDD Coach we have ever had and he has endless capacity to support and teach others.",
+    "twitter": "https://twitter.com/CraigMorten",
+    "linkedin": "https://www.linkedin.com/in/craig-morten/"
+  },
+  {
     "id": "3",
     "name": "Áine McGovern",
     "date": "2022-01-05",
