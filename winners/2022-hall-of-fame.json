@@ -1,5 +1,14 @@
 [
   {
+    "id": "5",
+    "name": "Patricio Miner",
+    "date": "2022-01-07",
+    "nominated_by": "Nominated by Federico Toledo",
+    "nomination_text": "He has a great youtube channel with useful content in Spanish, lots of tutorials, demos and courses, helping many people to break into tech and grow, while having fun with their videos.",
+    "twitter": "https://twitter.com/RangeTester",
+    "linkedin": "https://www.linkedin.com/in/patricio-m-690b3729/"
+  },
+  {
     "id": "4",
     "name": "Craig Morten",
     "date": "2022-01-06",
