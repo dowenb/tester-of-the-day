@@ -1,5 +1,20 @@
 [
   {
+    "id": "8",
+    "name": "Lena Pejabat Wiberg",
+    "date": "2022-01-12",
+    "nominated_by": "Nominated by Stephan Kämper",
+    "nomination_text": "Incredible support of other folks in the community",
+    "twitter": "https://twitter.com/LenaPejgan",
+    "linkedin": "https://www.linkedin.com/in/lena-pejgan-wiberg",
+    "weblinks": [
+      {
+        "name": "Would Heu-risk it?",
+        "url": "https://pejgan.se/would-heu-risk-it.html"
+      }
+    ]
+  },
+  {
     "id": "7",
     "name": "Lee Marshall",
     "date": "2022-01-11",
