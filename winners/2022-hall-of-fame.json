@@ -1,5 +1,20 @@
 [
   {
+    "id": "6",
+    "name": "James Thomas",
+    "date": "2022-01-10",
+    "nominated_by": "Nominated by Sebatian Köhler",
+    "nomination_text": "I loved his work regarding a latency issue at Ada Health! Thanks so much",
+    "twitter": "https://twitter.com/qahiccupps",
+    "linkedin": "https://www.linkedin.com/in/james-thomas-840aa11a",
+    "weblinks": [
+      {
+        "name": "Hiccupps (Blog)",
+        "url": "https://qahiccupps.blogspot.com"
+      }
+    ]
+  },
+  {
     "id": "5",
     "name": "Patricio Miner",
     "date": "2022-01-07",
