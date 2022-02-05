@@ -1,5 +1,29 @@
 [
   {
+    "id": "12",
+    "name": "Bruce Hughes",
+    "date": "2022-02-08",
+    "nominated_by": "Nominated by Jesper Ottosen",
+    "nomination_text": "For the article: Power of Small Goals - the visuals, the honesty and for relating a challenge we all have. We need ways to trick ourselves to achievable actions.",
+    "twitter": "https://twitter.com/BruceOnlyBruce",
+    "linkedin": "https://www.linkedin.com/in/bruce-hughes-20b270a0"
+  },
+  {
+    "id": "11",
+    "name": "Bruce Hughes",
+    "date": "2022-02-08",
+    "nominated_by": "Nominated by Lisa Crispin",
+    "nomination_text": "Bruce's latest blog post https://undevelopedbruce.com/2022/01/12/the-power-of-small-goals/ reminded me the magic of small steps! Helped me overcome today's attack of imposter syndrome.",
+    "twitter": "https://twitter.com/BruceOnlyBruce",
+    "linkedin": "https://www.linkedin.com/in/bruce-hughes-20b270a0/",
+    "weblinks": [
+      {
+        "name": "The Power of Small Goals",
+        "url": "https://undevelopedbruce.com/2022/01/12/the-power-of-small-goals/"
+      }
+    ]
+  },
+  {
     "id": "10",
     "name": "Vern Richards",
     "date": "2022-02-07",
