@@ -1,5 +1,20 @@
 [
   {
+    "id": "16",
+    "name": "Meg Mackay",
+    "date": "2022-02-15",
+    "nominated_by": "Nominated by jesper",
+    "nomination_text": "The article on 'Choose Your Own Test Adventure: A Strategy Template' https://www.linkedin.com/pulse/choose-your-own-test-adventure-strategy-template-meg-mackay/",
+    "twitter": "https://twitter.com/cactusflamingo_",
+    "linkedin": "https://www.linkedin.com/in/meg-m-116495186/",
+    "weblinks": [
+      {
+        "name": "Choose Your Own Test Adventure: A Strategy Template'",
+        "url": "https://www.linkedin.com/pulse/choose-your-own-test-adventure-strategy-template-meg-mackay/"
+      }
+    ]
+  },
+  {
     "id": "15",
     "name": "Ndubuisi Mathew Omegara",
     "date": "2022-02-11",
