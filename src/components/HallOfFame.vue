@@ -59,7 +59,7 @@
         </li>
 
         <li class="note">{{ winner.nomination_text }}</li>
-        <li class="note">Nominated by {{ winner.nominated_by }}</li>
+        <li class="note">{{ winner.nominated_by }}</li>
         <li class="windate">
           <img
             src="../assets/calendar.svg"
