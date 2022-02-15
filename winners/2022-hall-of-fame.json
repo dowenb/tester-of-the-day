@@ -1,8 +1,17 @@
 [
   {
+    "id": "17",
+    "name": "Daniel Knott",
+    "date": "2022-02-15",
+    "nominated_by": "Nominated by Nicola Lindgren",
+    "nomination_text": "For creating his YouTube channel, giving people access to clear, distilled information in video format",
+    "twitter": "https://twitter.com/dnlkntt",
+    "linkedin": "https://www.linkedin.com/in/daniel-knott/"
+  },
+  {
     "id": "16",
     "name": "Meg Mackay",
-    "date": "2022-02-15",
+    "date": "2022-02-14",
     "nominated_by": "Nominated by jesper",
     "nomination_text": "The article on 'Choose Your Own Test Adventure: A Strategy Template' https://www.linkedin.com/pulse/choose-your-own-test-adventure-strategy-template-meg-mackay/",
     "twitter": "https://twitter.com/cactusflamingo_",
