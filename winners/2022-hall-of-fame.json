@@ -1,5 +1,19 @@
 [
   {
+    "id": "19",
+    "name": "Bob Salmon",
+    "date": "2022-02-17",
+    "nominated_by": "Nominated by Jesper Ottosen",
+    "nomination_text": "for writing articles that explain exceptions, Modularisation and Encapsulation for everyone on https://randomtechthoughts.blog/",
+    "twitter": "https://twitter.com/BobTechThoughts",
+    "weblinks": [
+      {
+        "name": "Random Tech Thoughts",
+        "url": "https://randomtechthoughts.blog/"
+      }
+    ]
+  },
+  {
     "id": "18",
     "name": "Constance Hermit",
     "date": "2022-02-16",
