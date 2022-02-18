@@ -1,5 +1,14 @@
 [
   {
+    "id": "20",
+    "name": "Lisi Hocke",
+    "date": "2022-02-18",
+    "nominated_by": "Nominated by Lisa Crispin",
+    "nomination_text": "Lisi's blog post today about starting her new job inspired me to approach my day differently. She's so generous to share her experiences.",
+    "twitter": "https://twitter.com/lisihocke",
+    "linkedin": "https://www.linkedin.com/in/lisihocke"
+  },
+  {
     "id": "19",
     "name": "Bob Salmon",
     "date": "2022-02-17",
