@@ -1,5 +1,20 @@
 [
   {
+    "id": "27",
+    "name": "Alan Richardson",
+    "date": "2022-03-03",
+    "nominated_by": "Nominated by Thomas Rinke",
+    "nomination_text": "for his API challenges at https://www.eviltester.com/page/tools/apichallenges/, providing a space to learn about APIs and practice testing them.",
+    "twitter": "https://twitter.com/eviltester",
+    "linkedin": "https://www.linkedin.com/in/eviltester/",
+    "weblinks": [
+      {
+        "name": "Evil Tester - API Challenges",
+        "url": "https://www.eviltester.com/page/tools/apichallenges/"
+      }
+    ]
+  },
+  {
     "id": "26",
     "name": "Eva Podbrdská",
     "date": "2022-03-02",
