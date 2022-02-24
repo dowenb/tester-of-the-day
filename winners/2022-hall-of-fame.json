@@ -1,5 +1,15 @@
 [
   {
+    "id": "24",
+    "name": "Federico Toledo",
+    "date": "2022-02-28",
+    "nominated_by": "Nominated by Roger Abelenda",
+    "nomination_text": "Fede has always been super helpful in testing community, sharing posts in his site (https://www.federico-toledo.com/), writing the book 'Introduccion a las Pruebas de sistemas de Informacion', sharing his insights in all sort of conferences and webinars, hosting the QualitySense podcast. With his deep and clear insights he is always willing to share and learn about new practices and collaborate.",
+    "twitter": "https://twitter.com/fltoledo",
+    "linkedin": "https://www.linkedin.com/in/federicotoledo/",
+    "weblinks":[{"name":"Federico Toledo", "url":"https://www.federico-toledo.com/"}]
+  },
+  {
     "id": "23",
     "name": "Andrei Guchín",
     "date": "2022-02-25",
