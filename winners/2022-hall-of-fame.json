@@ -1,5 +1,13 @@
 [
   {
+    "id": "23",
+    "name": "Andrei Guchín",
+    "date": "2022-02-25",
+    "nominated_by": "Nominated by Federico Toledo",
+    "nomination_text": "Andrei is a test leader with great experience in performance testing. He has contributed with so many articles and presentations in the topic, in English and Spanish. He has helped many fellow testers to learn and grow in very challenging projects.",
+    "linkedin": "https://www.linkedin.com/in/andrei-guchin/"
+  },
+  {
     "id": "22",
     "name": "James Thomas",
     "date": "2022-02-22",
