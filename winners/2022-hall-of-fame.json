@@ -1,5 +1,19 @@
 [
   {
+    "id": "29",
+    "name": "Simon P. Schrijver",
+    "date": "2022-03-14",
+    "nominated_by": "Nominated by Jesper",
+    "nomination_text": "Ten year milestone on the 5blogs curation list: The (best) five blogs he read each day. Check them out.",
+    "twitter": "https://twitter.com/SimonSaysNoMore",
+    "weblinks": [
+      {
+        "name": "5Blogs",
+        "url": "https://5blogs.wordpress.com/"
+      }
+    ]
+  },
+  {
     "id": "28",
     "name": "Prachi Dahibhate",
     "date": "2022-03-04",
