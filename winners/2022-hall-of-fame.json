@@ -1,5 +1,23 @@
 [
   {
+    "id": "32",
+    "name": "Patrick Prill 2",
+    "date": "2022-03-16",
+    "nominated_by": "Nominated by Petra",
+    "nomination_text": "Patrick's test framework is going to be a significant game changer for his team and beyond. I'm really happy to have him in the team, and immensely appreciate his willingness to share knowledge, his insights and attention to detail.",
+    "twitter": "https://twitter.com/TestPappy",
+    "linkedin": "https://www.linkedin.com/in/patrick-prill-50510077/"
+  },
+  {
+    "id": "31",
+    "name": "Patrick Prill",
+    "date": "2022-03-16",
+    "nominated_by": "Nominated by Flávio H. de Freitas",
+    "nomination_text": "Our grumpy friend! It is a pleasure to have him on the team. He is always helping everyone around, coming with great ideas, and shaking the quality of our process, code and deliverables. Life is definitely more fun with him around. We learn and have fun, while building an amazing product.",
+    "twitter": "https://twitter.com/TestPappy",
+    "linkedin": "https://www.linkedin.com/in/patrick-prill-50510077/"
+  },
+  {
     "id": "30",
     "name": "Petros Plakogiannis",
     "date": "2022-03-15",
