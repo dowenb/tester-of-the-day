@@ -1,5 +1,20 @@
 [
   {
+    "id": "47",
+    "name": "Louise Gibbs",
+    "date": "2022-04-04",
+    "nominated_by": "Nominated by Jesper Ottosen",
+    "nomination_text": "The blogpost 'Testing is an underrated skill in Testing'. It's a good twist on the brief from the Ministry of Testing monthly blog post challenge on underrated skills in testing. Test automation isn't everything - testing is. ",
+    "twitter": "https://twitter.com/Louise_J_Gibbs",
+    "linkedin": "https://www.linkedin.com/in/louise-gibbs-07756ba4/",
+    "weblinks": [
+      {
+        "name": "Testing is an underrated skill in testing",
+        "url": "https://louisegibbstest.wordpress.com/2022/03/24/testing-is-an-underrated-skill-in-testing-test-automation-isnt-everything/"
+      }
+    ]
+  },
+  {
     "id": "46",
     "name": "Karo Stoltzenburg",
     "date": "2022-04-01",
