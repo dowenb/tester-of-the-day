@@ -1,5 +1,14 @@
 [
   {
+    "id": "44",
+    "name": "Dave Clissold",
+    "date": "2022-03-30",
+    "nominated_by": "Nominated by Leigh Darlow",
+    "nomination_text": "Shoutout to Dave Clissold at THRIVE for working tirelessly to execute our E2E tests in our CI pipelines. His technical knowledge and mentoring is invaluable to the THRIVE Tech Team and wider Cypress community.",
+    "twitter": "https://twitter.com/Dave_Clissold",
+    "linkedin": "https://www.linkedin.com/in/daveclissold"
+  },
+  {
     "id": "43",
     "name": "Ashley Graf",
     "date": "2022-03-29",
