@@ -6,7 +6,13 @@
     "nominated_by": "Nominated anonymously",
     "nomination_text": "Karen's YouTube videos exploring Software Testing Advocacy are innovative, interesting and useful.",
     "twitter": "https://twitter.com/KarenTestsStuff",
-    "linkedin": "https://www.linkedin.com/in/karen-todd-48b242114/"
+    "linkedin": "https://www.linkedin.com/in/karen-todd-48b242114/",
+    "weblinks": [
+      {
+        "name": "KarenTestsStuff [YouTube]",
+        "url": "https://www.youtube.com/channel/UCaILiR0XEzf0Y1QvibzybCQ"
+      }
+    ]
   },
   {
     "id": "51",
