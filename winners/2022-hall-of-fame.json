@@ -1,5 +1,20 @@
 [
   {
+    "id": "55",
+    "name": "Anna McDougall",
+    "date": "2022-05-3",
+    "nominated_by": "Nominated by Tobias Geyer",
+    "nomination_text": "Her talk 'Being an opera singer prepared me for a career in tech' at #GermanTesting Day was a great reminder that changing careers doesn't mean to start from zero. It was also fun and full of insights into both careers in opera and in tech",
+    "twitter": "https://twitter.com/AnnaJMcDougall",
+    "linkedin": "https://www.linkedin.com/in/annajmcdougall/",
+    "weblinks": [
+      {
+        "name": "Anna McDougall [YouTube]",
+        "url": "https://www.youtube.com/channel/UCjJzKrbr3WGn1xE0LAQ91yA"
+      }
+    ]
+  },
+  {
     "id": "54",
     "name": "9 out of 10 testers",
     "date": "2022-05-12",
