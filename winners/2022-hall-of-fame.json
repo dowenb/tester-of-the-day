@@ -6,7 +6,13 @@
     "nominated_by": "Nominated anonymously",
     "nomination_text": "A shout out to the creators behind the 9 out of 10 testers YouTube channel. Great work you are doing.  Keep it up!",
     "twitter": "https://twitter.com/9outof10testers",
-    "linkedin": "https://www.linkedin.com/company/9-out-of-10-testers/"
+    "linkedin": "https://www.linkedin.com/company/9-out-of-10-testers/",
+    "weblinks": [
+      {
+        "name": "9 out of 10 Testers [YouTube]",
+        "url": "https://www.youtube.com/channel/UC7Dujxx8BED6hEzPkz6JqJA"
+      }
+    ]
   },
   {
     "id": "53",
