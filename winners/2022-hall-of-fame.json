@@ -1,5 +1,20 @@
 [
   {
+    "id": "53",
+    "name": "Al Goodall",
+    "date": "2022-05-11",
+    "nominated_by": "Nominated by Stu Johnson",
+    "nomination_text": "Al is an amazing Lead Tester in our organisation and has recently instituted automated sanity checks in our production environments, cutting a manual task in half (at least!) and improving our responsiveness to deployment-related issues. Al, you have made our long-held dream a reality and I salute your resilience, determination and drive to get this done!",
+    "twitter": "https://twitter.com/testninja77",
+    "weblinks": [
+      {
+        "name": "TestNinja [blog]",
+        "url": "https://testerninja.wordpress.com/author/testerninja/"
+      }
+    ]
+
+  },
+  {
     "id": "52",
     "name": "Karen Todd",
     "date": "2022-05-10",
