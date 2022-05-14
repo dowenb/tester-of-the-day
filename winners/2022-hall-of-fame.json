@@ -1,5 +1,14 @@
 [
   {
+    "id": "58",
+    "name": "Lisi Hocke",
+    "date": "2022-05-18",
+    "nominated_by": "Nominated by Tobias Geyer",
+    "nomination_text": "Lisi ran a fantastic hands-on remote workshop on ensemble exploratory testing at #GermanTesting Day. The participants learned a lot in a safe space",
+    "twitter": "https://twitter.com/lisihocke",
+    "linkedin": "https://www.linkedin.com/in/lisihocke/"
+  },
+  {
     "id": "57",
     "name": "Samuel Nitsche",
     "date": "2022-05-17",
