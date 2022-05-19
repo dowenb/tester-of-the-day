@@ -1,5 +1,23 @@
 [
   {
+    "id": "60",
+    "name": "ALADESNAMI DAYO",
+    "date": "2022-05-19",
+    "nominated_by": "Nominated by Aladesanmi Dayo",
+    "nomination_text": "He's been a great impact in the QA society",
+    "twitter": "https://twitter.com/oromedayo",
+    "linkedin": "https://www.linkedin.com/in/aladesanmi-oromidayo-132b44b9"
+  },
+  {
+    "id": "59",
+    "name": "Lisi Hocke",
+    "date": "2022-05-18",
+    "nominated_by": "Nominated by Mike Harris",
+    "nomination_text": "Thank you to Lisi Hocke for reviewing my chapter in the book 'How  can I test this?'. Lisi's comments were full of useful and constructive comments.",
+    "twitter": "https://twitter.com/lisihocke",
+    "linkedin": "https://www.linkedin.com/in/lisihocke/"
+  },
+  {
     "id": "58",
     "name": "Lisi Hocke",
     "date": "2022-05-18",
