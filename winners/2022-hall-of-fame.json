@@ -1,5 +1,14 @@
 [
   {
+    "id": "65",
+    "name": "Marcela State",
+    "date": "2022-05-31",
+    "nominated_by": "Nominated by Ioana",
+    "nomination_text": "Marcela does an amazing work in the testing field and currently she manages a large community of testers, helping them grow both on personal levels and professional. From organizing events for open source technologies till working directly with more than 10 different clients from all types of domains, she was performing amazingly all times. She both though others through workshops and debated the future trends of QA Ops at different conferences. So is definitely a role mode!",
+    "twitter": "https://twitter.com/pensacolla",
+    "linkedin": "https://www.linkedin.com/in/marcela-state-17193631/"
+  },
+  {
     "id": "64",
     "name": "Clare Norman",
     "date": "2022-05-30",
