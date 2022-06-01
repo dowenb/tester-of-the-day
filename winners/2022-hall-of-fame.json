@@ -1,5 +1,24 @@
 [
   {
+    "id": "66",
+    "name": "Marie Drake",
+    "date": "2022-06-01",
+    "nominated_by": "Nominated by Nicola Lindgren",
+    "nomination_text": "For creating great, clear videos on git on her new YouTube channel Testing with Marie",
+    "twitter": "https://twitter.com/mcruzdrake",
+    "linkedin": "https://www.linkedin.com/in/marie-drake-95841242/",
+    "weblinks": [
+      {
+        "name": "Marie Drake [Website]",
+        "url": "https://www.mariedrake.com/"
+      },
+      {
+        "name": "Testing with Marie [YouTube]",
+        "url": "https://www.youtube.com/channel/UC85SalJXUNhWrrvc1NfWTHQ"
+      }
+    ]
+  },
+  {
     "id": "65",
     "name": "Marcela State",
     "date": "2022-05-31",
