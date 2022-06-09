@@ -1,5 +1,20 @@
 [
   {
+    "id": "73",
+    "name": "Filip Hric",
+    "date": "2022-06-14",
+    "nominated_by": "Nominated by Andrew Knight",
+    "nomination_text": "Filip is a Cypress champion! He posts incredibly helpful articles regularly on his blog. He also teaches workshops and courses on Cypress.",
+    "twitter": "https://twitter.com/filip_hric",
+    "linkedin": "https://www.linkedin.com/in/filip-hric-11a5b1126",
+    "weblinks": [
+      {
+        "name": "Cypress Tips [Blog]",
+        "url": "https://filiphric.com"
+      }
+    ]
+  },
+  {
     "id": "72",
     "name": "Constance Armitage",
     "date": "2022-06-13",
