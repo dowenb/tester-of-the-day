@@ -1,5 +1,14 @@
 [
   {
+    "id": "77",
+    "name": "Andrea Jensen",
+    "date": "2022-06-20",
+    "nominated_by": "Nominated by Louise GIbbs",
+    "nomination_text": "For her inspiring talk at ExpoQA on Ensemble Testing where she demonstrated how the method can be used to encourage improved collaboration between testers, developers and other teams.",
+    "twitter": "https://twitter.com/AgentAJay",
+    "linkedin": "https://www.linkedin.com/in/andrea-jensen/"
+  },
+  {
     "id": "76",
     "name": "Tom Young",
     "date": "2022-06-17",
