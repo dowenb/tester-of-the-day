@@ -1,5 +1,14 @@
 [
   {
+    "id": "78",
+    "name": "Dan Billing",
+    "date": "2022-06-21",
+    "nominated_by": "Nominated by Louise Gibbs",
+    "nomination_text": "Dan's brilliant talk at ExpoQA on Security Testing has encouraged me to attempt to learn more about the topic, and overcome my own fear that",
+    "twitter": "https://twitter.com/TheTestDoctor",
+    "linkedin": "https://www.linkedin.com/in/danielbilling/"
+  },
+  {
     "id": "77",
     "name": "Andrea Jensen",
     "date": "2022-06-20",
