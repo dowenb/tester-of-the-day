@@ -1,5 +1,14 @@
 [
   {
+    "id": "79",
+    "name": "Jo Richards",
+    "date": "2022-06-22",
+    "nominated_by": "Nominated by Simon Tomes",
+    "nomination_text": "Jo asks excellent questions that the testing community learn from. Jo has tonnes of useful advice to share about regression testing and much more!",
+    "twitter": "https://twitter.com/iamjorichards",
+    "linkedin": "https://www.linkedin.com/in/jocrichards"
+  },
+  {
     "id": "78",
     "name": "Dan Billing",
     "date": "2022-06-21",
