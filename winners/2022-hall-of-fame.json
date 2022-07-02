@@ -1,5 +1,20 @@
 [
   {
+    "id": "82",
+    "name": "Mike Talks",
+    "date": "2022-07-04",
+    "nominated_by": "Nominated by Emanuele",
+    "nomination_text": "Really simple but interactive talk that really got me (and others) thinking.  Really enjoyed it",
+    "twitter": "https://twitter.com/TestSheepNZ",
+    "linkedin": "https://www.linkedin.com/in/mike-talks-3423348/",
+    "weblinks": [
+      {
+        "name": "The Testing Game - Mike Talks",
+        "url": "https://www.ministryoftesting.com/dojo/lessons/the-testing-game-mike-talks"
+      }
+    ]
+  },
+  {
     "id": "81",
     "name": "Kyle Potter",
     "date": "2022-06-24",
