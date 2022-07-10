@@ -1,5 +1,13 @@
 [
   {
+    "id": "91",
+    "name": "Kat Jaworska",
+    "date": "2022-07-14",
+    "nominated_by": "Nominated by Al Goodall",
+    "nomination_text": "For creating an automated test for a service her team looks after in her spare time. Then working with her team to have the Pull Request reviewed collaboratively,  learning about the things that dev's look for in a review and getting it merged. This allows for all her team's sanity tests to be executed using automated tests, providing faster feedback and a reduction in effort! A fantastic effort, paving the way for future work in this area!",
+    "linkedin": "https://www.linkedin.com/in/cat-ja/"
+  },
+  {
     "id": "90",
     "name": "Oliver Verver",
     "date": "2022-07-13",
