@@ -1,5 +1,14 @@
 [
   {
+    "id": "88",
+    "name": "Rick Tracy",
+    "date": "2022-07-11",
+    "nominated_by": "Nominated by Louise Gibbs",
+    "nomination_text": "For his ExpoQA talk where he discussed the challenges testers face when pressured to achieve perfection. In his talk, he provided alternative options to dealing with imperfection, and encouraged us to aim to achieve an acceptable state of imperfect.",
+    "twitter": "https://twitter.com/TheTestKnight",
+    "linkedin": "https://www.linkedin.com/in/rickdtracy/"
+  },
+  {
     "id": "87",
     "name": "Julia Durán",
     "date": "2022-07-08",
