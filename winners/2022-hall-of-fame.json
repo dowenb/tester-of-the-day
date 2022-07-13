@@ -1,5 +1,14 @@
 [
   {
+    "id": "90",
+    "name": "Oliver Verver",
+    "date": "2022-07-13",
+    "nominated_by": "Nominated by Maaike Brinkhof",
+    "nomination_text": "Oliver always works with the tester in the team to improve the testing together. In his last job, he helped the tester set up an automation framework. Apart from automation, he has also made efforts to learn about exploratory testing. He knows that testing is a combination of automation and exploration. He also firmly believes in the boy scout rule 'leave code better than you found it', this improves technical quality of whatever he's working on!",
+    "twitter": "https://twitter.com/oliverver",
+    "linkedin": "https://www.linkedin.com/in/oliververver"
+  },
+  {
     "id": "89",
     "name": "Sophie Küster",
     "date": "2022-07-12",
