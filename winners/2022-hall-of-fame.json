@@ -1,5 +1,14 @@
 [
   {
+    "id": "93",
+    "name": "Christian Baumann",
+    "date": "2022-07-18",
+    "nominated_by": "Nominated by Louise Gibbs",
+    "nomination_text": "His talk at ExpoQA provided crucial details about programming foundations which will help both new and experienced programmers improve their skills and develop better automated tests.",
+    "twitter": "https://twitter.com/Chrissbaumann",
+    "linkedin": "https://www.linkedin.com/in/christianbaumann/"
+  },
+  {
     "id": "92",
     "name": "Chrishan Perera",
     "date": "2022-07-15",
