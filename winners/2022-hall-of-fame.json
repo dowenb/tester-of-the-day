@@ -1,5 +1,19 @@
 [
   {
+    "id": "101",
+    "name": "Linda Lačić",
+    "date": "2022-07-29",
+    "nominated_by": "Nominated by Beren",
+    "nomination_text": "For doing awesome work at Officient.io, changing the status quo and making everyone's work even better, day after day. Keep it up!",
+    "linkedin": "https://www.linkedin.com/in/lindalacic",
+    "weblinks": [
+      {
+        "name": "Officient",
+        "url": "https://en.officient.io/"
+      }
+    ]
+  },
+  {
     "id": "100",
     "name": "Shweta sharma",
     "date": "2022-07-28",
