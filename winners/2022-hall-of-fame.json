@@ -1,5 +1,20 @@
 [
   {
+    "id": "98",
+    "name": "Joe Colantonio",
+    "date": "2022-07-27",
+    "nominated_by": "Nominated by Tristan Lombard",
+    "nomination_text": "What can we say about Joe? From sharing testing industry news every week to hosting the TestGuild podcast to celebrating rising leaders at AutomationGuild, Joe has been a tireless resource for test automation, functional and non-functional.",
+    "twitter": "https://twitter.com/joecolantonio",
+    "linkedin": "https://www.linkedin.com/in/joecolantonio/",
+    "weblinks": [
+      {
+        "name": "Test Guild",
+        "url": "https://testguild.com/"
+      }
+    ]
+  },
+  {
     "id": "97",
     "name": "Amruta Pawar",
     "date": "2022-07-26",
