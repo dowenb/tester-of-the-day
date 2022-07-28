@@ -1,5 +1,23 @@
 [
   {
+    "id": "100",
+    "name": "Shweta sharma",
+    "date": "2022-07-28",
+    "nominated_by": "Nominated by Priyasi Singh",
+    "nomination_text": "As said by Richard Feynman 'The ultimate test of your knowledge is your capacity to convey it to another.' and she is great at doing that. She is a leader we all look up to & always available to guide us and be there for us.",
+    "twitter": "https://twitter.com/shwetasharma84",
+    "linkedin": "https://www.linkedin.com/in/shwetaneelsharma/"
+  },
+  {
+    "id": "99",
+    "name": "Shweta Sharma",
+    "date": "2022-07-28",
+    "nominated_by": "Nominated by Tristan",
+    "nomination_text": "From having knowledge sharing as a KPI for her large teams to being an advocate for mental wellness to scaling quality at Axelerant, this is a leader that all can learn from.",
+    "twitter": "https://twitter.com/shwetasharma84",
+    "linkedin": "https://www.linkedin.com/in/shwetaneelsharma/"
+  },
+  {
     "id": "98",
     "name": "Joe Colantonio",
     "date": "2022-07-27",
