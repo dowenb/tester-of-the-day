@@ -1,5 +1,19 @@
 [
   {
+    "id": "107",
+    "name": "Anshita Bhasin",
+    "date": "2022-08-8",
+    "nominated_by": "Nominated by Naveen Khunteta",
+    "nomination_text": "Anshita is one of the best automation developers I have ever seen and worked with. She is amazingly great in Selenium, Cypress and API backend automation and having a great knowledge on E-commerce domain. I really learnt some amazing concepts of GitHub actions and other CI CD cloud infrastructure setup from her blogs. I have seen her work and knowledge in the form of his blogs, post and content sharing.",
+    "linkedin": "https://www.linkedin.com/in/anshita-bhasin/",
+    "weblinks": [
+      {
+        "name": "Anshita Bhasin on Medium",
+        "url": "https://medium.com/@anshita.bhasin"
+      }
+    ]
+  },
+  {
     "id": "106",
     "name": "Chris Chant",
     "date": "2022-08-05",
