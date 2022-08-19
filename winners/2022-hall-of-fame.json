@@ -1,5 +1,13 @@
 [
   {
+    "id": "110",
+    "name": "Benjamin Schatzmann",
+    "date": "2022-08-23",
+    "nominated_by": "Nominated by Daniela Bohli",
+    "nomination_text": "Three months ago, Beni was still a financing consultant. Today he oversees the full test automation stack for a critical blood banking system. He inspires his team members, works tirelessly to ensure customer success and support the local testing community at networking events.",
+    "linkedin": "https://www.linkedin.com/in/benjamin-schatzmann-49447b236/"
+  },
+  {
     "id": "109",
     "name": "Asya Bar-Ziv",
     "date": "2022-08-22",
