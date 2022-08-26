@@ -1,5 +1,14 @@
 [
   {
+    "id": "113",
+    "name": "Lewis Prescott",
+    "date": "2022-08-26",
+    "nominated_by": "Nominated by Neil Syrett",
+    "nomination_text": "Lewis is giving so much back to the testing community and really helping teams to adopt better testing practices like pact",
+    "twitter": "https://twitter.com/WuigPrescott",
+    "linkedin": "https://www.linkedin.com/in/lewis-prescott-12409a44/"
+  },
+  {
     "id": "112",
     "name": "Huib Schoots",
     "date": "2022-08-25",
