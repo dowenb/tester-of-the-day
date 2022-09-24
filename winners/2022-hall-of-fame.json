@@ -1,5 +1,14 @@
 [
   {
+    "id": "120",
+    "name": "Melissa Fisher",
+    "date": "2022-08-27",
+    "nominated_by": "Nominated by Michael",
+    "nomination_text": "Melissa has given her time to help the testing community by reviewing CVs and helping those who need to discuss all things testing",
+    "twitter": "https://twitter.com/fishouthebox",
+    "linkedin": "https://www.linkedin.com/in/melissajfisher/"
+  },
+  {
     "id": "119",
     "name": "José Diaz",
     "date": "2022-09-26",
