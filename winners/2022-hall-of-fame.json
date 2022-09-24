@@ -1,5 +1,20 @@
 [
   {
+    "id": "121",
+    "name": "Nicola Lindgren",
+    "date": "2022-08-28",
+    "nominated_by": "Nominated by Jesper",
+    "nomination_text": "Blogpost: 8 Tips for Networking at Physical Events - remember you are all there to find common ground.",
+    "twitter": "https://twitter.com/NicolaLindgren",
+    "linkedin": "https://www.linkedin.com/in/nicolalindgren/",
+    "weblinks": [
+      {
+        "name": "8 Tips for Networking at Events",
+        "url": "https://nicolalindgren.com/2022/09/13/8-tips-for-networking-at-events/"
+      }
+    ]
+  },
+  {
     "id": "120",
     "name": "Melissa Fisher",
     "date": "2022-08-27",
