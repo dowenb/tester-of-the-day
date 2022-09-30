@@ -1,5 +1,14 @@
 [
   {
+    "id": "123",
+    "name": "Mohammad Faisal Khatri",
+    "date": "2022-09-30",
+    "nominated_by": "Nominated by Wasiq Bhamla",
+    "nomination_text": "Awesome manual tester and very good self taught automation tester who is always hungry to learn new testing techniques and tools and constantly shares his learnings with the community.",
+    "twitter": "https://twitter.com/mfaisal_khatri",
+    "linkedin": "https://www.linkedin.com/in/faisalkhatri"
+  },
+  {
     "id": "122",
     "name": "Simon Tomes",
     "date": "2022-09-29",
