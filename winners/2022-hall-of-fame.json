@@ -1,5 +1,20 @@
 [
   {
+    "id": "125",
+    "name": "Tahanima Chowdhury",
+    "date": "2022-10-04",
+    "nominated_by": "Nominated by Anonymous",
+    "nomination_text": "Tahanima's Blog has been a blessing in disguise for QA job seekers in Bangladesh. Also, her open source projects that focus on test automation and testing resources are gems.",
+    "twitter": "https://twitter.com/TahanimaC",
+    "linkedin": "https://www.linkedin.com/in/tahanima-chowdhury/",
+    "weblinks": [
+      {
+        "name": "Tahanima's Blog",
+        "url": "https://tahanima.github.io/"
+      }
+    ]
+  },
+  {
     "id": "124",
     "name": "Habeeb Mohamed",
     "date": "2022-10-03",
