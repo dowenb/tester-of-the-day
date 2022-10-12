@@ -1,5 +1,20 @@
 [
   {
+    "id": "130",
+    "name": "Meg MacKay",
+    "date": "2022-10-12",
+    "nominated_by": "Nominated by Ben Dowen",
+    "nomination_text": "Meg is doing amazing things in her new job, even though it's difficult and she faces resistance. Let's take a moment to appreciate Meg. #BeMoreMeg!",
+    "twitter": "https://twitter.com/@cactusflamingo_",
+    "linkedin": "https://www.linkedin.com/in/meg-m-116495186/",
+    "weblinks": [
+      {
+        "name": "Twitter Thread, be more Meg",
+        "url": "https://twitter.com/FullSnackTester/status/1577986497298440192"
+      }
+    ]
+  },
+  {
     "id": "129",
     "name": "Lewis Prescott",
     "date": "2022-10-07",
