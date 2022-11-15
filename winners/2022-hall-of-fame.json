@@ -1,5 +1,19 @@
 [
   {
+    "id": "137",
+    "name": "Omprakash Chavan",
+    "date": "2022-11-22",
+    "nominated_by": "Nominated by Rajat Verma",
+    "nomination_text": "Omprakash Sir has presented a powerful content via his Udemy courses.",
+    "linkedin": "https://www.linkedin.com/in/omprakash-chavan-049428103",
+    "weblinks": [
+      {
+        "name": "Omprakash Chavan on Udemy",
+        "url": "https://www.udemy.com/user/omprakash-chavan/"
+      }
+    ]
+  },
+  {
     "id": "136",
     "name": "Julia Pottinger",
     "date": "2022-11-21",
