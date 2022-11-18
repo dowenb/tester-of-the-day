@@ -1,5 +1,14 @@
 [
   {
+    "id": "135",
+    "name": "João Proença",
+    "date": "2022-11-18",
+    "nominated_by": "Nominated by Christian Baumann",
+    "nomination_text": "For hosting an amazing activity about 'Observability in automated testing' at #TestBash UK that was a really good intro into the topic and necessity of the topic.",
+    "twitter": "https://twitter.com/@jrosaproenca",
+    "linkedin": "https://www.linkedin.com/in/jo%C3%A3o-proen%C3%A7a-ba864357/"
+  },
+  {
     "id": "134",
     "name": "Dan Ashby",
     "date": "2022-11-17",
