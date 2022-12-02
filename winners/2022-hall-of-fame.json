@@ -1,5 +1,20 @@
 [
   {
+    "id": "140",
+    "name": "Team Ministry Of Testing",
+    "date": "2022-12-07",
+    "nominated_by": "Nominated by Christian Baumann",
+    "nomination_text": "For an outstanding #TestBash UK. An amazing conference with loads of great talks, activities and workshops and so many fantastic pariticipants.",
+    "twitter": "https://twitter.com/ministryoftest",
+    "linkedin": "https://www.linkedin.com/company/ministry-of-testing/",
+    "weblinks": [
+      {
+        "name": "Ministry Of Testing",
+        "url": "https://www.ministryoftesting.com"
+      }
+    ]
+  },
+  {
     "id": "139",
     "name": "Sanne Visser",
     "date": "2022-12-06",
